@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ho(Al2Fe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98396564
+_cell_length_b   6.63236169
+_cell_length_c   6.63237006
+_cell_angle_alpha   81.88926276
+_cell_angle_beta   67.96729089
+_cell_angle_gamma   67.96729418
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(Al2Fe)4
+_chemical_formula_sum   'Ho1 Al8 Fe4'
+_cell_volume   188.38363800
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  -0.00000000  0.00000000  1
+  Al  Al1  1  0.34118927  0.65863579  0.65862370  1
+  Al  Al2  1  0.00000787  0.34142517  0.65856248  1
+  Al  Al3  1  -0.00000787  0.65857483  0.34143752  1
+  Al  Al4  1  0.65881073  0.34136421  0.34137630  1
+  Al  Al5  1  0.27861367  0.22155239  0.22157189  1
+  Al  Al6  1  0.49998847  0.77853558  0.22148373  1
+  Al  Al7  1  0.50001153  0.22146442  0.77851627  1
+  Al  Al8  1  0.72138633  0.77844761  0.77842811  1
+  Fe  Fe9  1  0.50000000  -0.00000000  0.50000000  1
+  Fe  Fe10  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe11  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe12  1  0.00000000  -0.00000000  0.50000000  1

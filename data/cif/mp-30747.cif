@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Zn11Ir2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.82081093
+_cell_length_b   7.82081227
+_cell_length_c   7.82081692
+_cell_angle_alpha   109.47070170
+_cell_angle_beta   109.47073208
+_cell_angle_gamma   109.47069688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn11Ir2
+_chemical_formula_sum   'Zn22 Ir4'
+_cell_volume   368.24943053
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.73325492  0.73325718  0.38239823  1
+  Zn  Zn1  1  0.35085285  0.61759237  0.35085304  1
+  Zn  Zn2  1  0.61759881  0.35086145  0.35085902  1
+  Zn  Zn3  1  0.99999380  0.64914021  0.26673299  1
+  Zn  Zn4  1  0.21159492  0.21160160  0.21159839  1
+  Zn  Zn5  1  0.78837629  1.00000465  1.00000114  1
+  Zn  Zn6  1  0.99999962  0.78835876  1.00000325  1
+  Zn  Zn7  1  0.99999693  1.00000572  0.78837352  1
+  Zn  Zn8  1  0.00001431  0.35666684  0.35666799  1
+  Zn  Zn9  1  0.64334584  0.00000505  0.64334723  1
+  Zn  Zn10  1  0.35666806  0.00001881  0.35667173  1
+  Zn  Zn11  1  0.35666880  0.35667026  0.00001564  1
+  Zn  Zn12  1  0.64334943  0.64334779  1.00000251  1
+  Zn  Zn13  1  1.00000000  0.64334709  0.64334555  1
+  Zn  Zn14  1  0.35085586  0.35085745  0.61759507  1
+  Zn  Zn15  1  0.64915127  0.26674084  0.99999687  1
+  Zn  Zn16  1  0.26673331  0.64913687  0.99999453  1
+  Zn  Zn17  1  0.99999679  0.26673678  0.64914804  1
+  Zn  Zn18  1  0.38239893  0.73325241  0.73325374  1
+  Zn  Zn19  1  0.73325402  0.38239488  0.73325364  1
+  Zn  Zn20  1  0.26673067  0.99999301  0.64914019  1
+  Zn  Zn21  1  0.64914490  0.99999130  0.26673432  1
+  Ir  Ir22  1  0.00000226  0.00000197  0.34635322  1
+  Ir  Ir23  1  0.00000182  0.34635502  0.00000187  1
+  Ir  Ir24  1  0.34635315  0.00000281  0.00000259  1
+  Ir  Ir25  1  0.65365845  0.65365989  0.65365870  1

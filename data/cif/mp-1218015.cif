@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TaCoNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11419692
+_cell_length_b   5.11419692
+_cell_length_c   4.14706739
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.08232369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCoNi2
+_chemical_formula_sum   'Ta2 Co2 Ni4'
+_cell_volume   94.79136279
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.33776161  0.66223839  0.00000000  1
+  Ta  Ta1  1  0.66193523  0.33806477  0.50000000  1
+  Co  Co2  1  0.84425412  0.68086847  0.00000000  1
+  Co  Co3  1  0.31913153  0.15574588  0.00000000  1
+  Ni  Ni4  1  0.83959273  0.16040727  0.00000000  1
+  Ni  Ni5  1  0.15635601  0.31906032  0.50000000  1
+  Ni  Ni6  1  0.68093968  0.84364399  0.50000000  1
+  Ni  Ni7  1  0.15978908  0.84021092  0.50000000  1

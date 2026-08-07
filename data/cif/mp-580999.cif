@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ga2NiCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.37095464
+_cell_length_b   9.37095464
+_cell_length_c   11.61568354
+_cell_angle_alpha   53.74230932
+_cell_angle_beta   53.74230932
+_cell_angle_gamma   49.55635994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2NiCl8
+_chemical_formula_sum   'Ga4 Ni2 Cl16'
+_cell_volume   589.00500700
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.67214586  0.15992513  0.03337642  1
+  Ga  Ga1  1  0.32785414  0.84007487  0.96662358  1
+  Ga  Ga2  1  0.84007487  0.32785414  0.46662358  1
+  Ga  Ga3  1  0.15992513  0.67214586  0.53337642  1
+  Ni  Ni4  1  -0.00194860  0.00194860  0.75000000  1
+  Ni  Ni5  1  0.00194860  -0.00194860  0.25000000  1
+  Cl  Cl6  1  0.86209403  0.83668275  0.51474383  1
+  Cl  Cl7  1  0.13790597  0.16331725  0.48525617  1
+  Cl  Cl8  1  0.68307632  0.63324507  0.44395799  1
+  Cl  Cl9  1  0.63324507  0.68307632  0.94395799  1
+  Cl  Cl10  1  0.83668275  0.86209403  0.01474383  1
+  Cl  Cl11  1  0.85638545  0.31084873  0.27730499  1
+  Cl  Cl12  1  0.14389380  0.71152744  0.19359979  1
+  Cl  Cl13  1  0.28847256  0.85610620  0.30640021  1
+  Cl  Cl14  1  0.14361455  0.68915127  0.72269501  1
+  Cl  Cl15  1  0.31692368  0.36675493  0.55604201  1
+  Cl  Cl16  1  0.68915127  0.14361455  0.22269501  1
+  Cl  Cl17  1  0.16331725  0.13790597  0.98525617  1
+  Cl  Cl18  1  0.36675493  0.31692368  0.05604201  1
+  Cl  Cl19  1  0.31084873  0.85638545  0.77730499  1
+  Cl  Cl20  1  0.71152744  0.14389380  0.69359979  1
+  Cl  Cl21  1  0.85610620  0.28847256  0.80640021  1

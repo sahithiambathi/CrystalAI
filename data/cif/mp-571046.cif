@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr5(GeN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15121409
+_cell_length_b   6.15121409
+_cell_length_c   13.60662666
+_cell_angle_alpha   81.38646639
+_cell_angle_beta   81.38646639
+_cell_angle_gamma   64.28504048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(GeN3)2
+_chemical_formula_sum   'Sr10 Ge4 N12'
+_cell_volume   456.53825016
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.93218895  0.75762900  0.71546936  1
+  Sr  Sr1  1  0.32416062  0.79530251  0.50288333  1
+  Sr  Sr2  1  0.75762900  0.93218895  0.21546936  1
+  Sr  Sr3  1  0.62102752  0.37897248  0.75000000  1
+  Sr  Sr4  1  0.79530251  0.32416062  0.00288333  1
+  Sr  Sr5  1  0.37897248  0.62102752  0.25000000  1
+  Sr  Sr6  1  0.67583938  0.20469749  0.49711667  1
+  Sr  Sr7  1  0.20469749  0.67583938  0.99711667  1
+  Sr  Sr8  1  0.24237100  0.06781105  0.78453064  1
+  Sr  Sr9  1  0.06781105  0.24237100  0.28453064  1
+  Ge  Ge10  1  0.65059028  0.90357199  0.92366373  1
+  Ge  Ge11  1  0.09642801  0.34940972  0.57633627  1
+  Ge  Ge12  1  0.90357199  0.65059028  0.42366373  1
+  Ge  Ge13  1  0.34940972  0.09642801  0.07633627  1
+  N  N14  1  0.35360828  0.20879281  0.93686444  1
+  N  N15  1  0.69173074  0.60549418  0.35191156  1
+  N  N16  1  0.20879281  0.35360828  0.43686444  1
+  N  N17  1  0.09713691  0.01588716  0.12740980  1
+  N  N18  1  0.79120719  0.64639172  0.56313556  1
+  N  N19  1  0.64639172  0.79120719  0.06313556  1
+  N  N20  1  0.90286309  0.98411284  0.87259020  1
+  N  N21  1  0.98411284  0.90286309  0.37259020  1
+  N  N22  1  0.30826926  0.39450582  0.64808844  1
+  N  N23  1  0.39450582  0.30826926  0.14808844  1
+  N  N24  1  0.60549418  0.69173074  0.85191156  1
+  N  N25  1  0.01588716  0.09713691  0.62740980  1

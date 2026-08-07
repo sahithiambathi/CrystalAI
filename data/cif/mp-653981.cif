@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Zr6NiCl15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.88931662
+_cell_length_b   8.88931282
+_cell_length_c   8.88931424
+_cell_angle_alpha   109.47166717
+_cell_angle_beta   109.47093498
+_cell_angle_gamma   109.47091285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6NiCl15
+_chemical_formula_sum   'Zr6 Ni1 Cl15'
+_cell_volume   540.73405266
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.75831250  0.00000083  0.75831358  1
+  Zr  Zr1  1  -0.00000109  0.75830851  0.75830803  1
+  Zr  Zr2  1  0.24168895  0.00000067  0.24169026  1
+  Zr  Zr3  1  -0.00000093  0.24168917  0.24168850  1
+  Zr  Zr4  1  0.24168778  0.24168949  0.00000011  1
+  Zr  Zr5  1  0.75831117  0.75831286  0.00000006  1
+  Ni  Ni6  1  0.00000121  0.00000005  0.00000039  1
+  Cl  Cl7  1  0.50452745  0.75226381  0.75226290  1
+  Cl  Cl8  1  0.24773183  0.49546969  0.24773837  1
+  Cl  Cl9  1  -0.00000179  0.75226167  0.24773663  1
+  Cl  Cl10  1  0.24773387  -0.00000370  0.75226198  1
+  Cl  Cl11  1  0.75226832  0.00000584  0.24773764  1
+  Cl  Cl12  1  0.75226548  0.50452884  0.75226253  1
+  Cl  Cl13  1  0.24773375  0.75226109  -0.00000487  1
+  Cl  Cl14  1  0.75226815  0.24773699  0.00000487  1
+  Cl  Cl15  1  -0.00000160  0.24773612  0.75226253  1
+  Cl  Cl16  1  0.50000085  0.50000077  -0.00000012  1
+  Cl  Cl17  1  0.75226551  0.75226347  0.50452960  1
+  Cl  Cl18  1  0.50000300  0.00000010  0.50000313  1
+  Cl  Cl19  1  0.24773166  0.24773923  0.49547042  1
+  Cl  Cl20  1  0.49547493  0.24773855  0.24773749  1
+  Cl  Cl21  1  0.00000001  0.49999697  0.49999697  1

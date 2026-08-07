@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Cs3Te22
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.69847991
+_cell_length_b   9.79686312
+_cell_length_c   12.53515781
+_cell_angle_alpha   112.82195468
+_cell_angle_beta   112.61610807
+_cell_angle_gamma   90.25796804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Te22
+_chemical_formula_sum   'Cs3 Te22'
+_cell_volume   996.70420258
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.17240223  0.17088759  0.35103061  1
+  Cs  Cs1  1  0.82043879  0.82020139  0.64957761  1
+  Cs  Cs2  1  0.49670445  0.50020355  0.00016927  1
+  Te  Te3  1  0.88600522  0.79390578  0.00091520  1
+  Te  Te4  1  0.09868026  0.51975099  0.76281239  1
+  Te  Te5  1  0.24914106  0.09782966  0.76284742  1
+  Te  Te6  1  0.01535361  0.20854738  0.62195695  1
+  Te  Te7  1  0.33507002  0.75469050  0.23697714  1
+  Te  Te8  1  -0.01638531  0.79746603  0.37849625  1
+  Te  Te9  1  0.67713243  0.26199639  0.77647444  1
+  Te  Te10  1  0.48813837  0.33401161  0.23787321  1
+  Te  Te11  1  0.82196052  0.11647920  0.00178826  1
+  Te  Te12  1  0.52061273  0.67079848  0.77196356  1
+  Te  Te13  1  0.74725438  0.89885311  0.22885474  1
+  Te  Te14  1  0.90214353  0.48724436  0.22499380  1
+  Te  Te15  1  0.42359972  0.02297690  0.62474272  1
+  Te  Te16  1  0.58847678  -0.01094612  0.38407306  1
+  Te  Te17  1  0.20743044  0.60582033  0.61574988  1
+  Te  Te18  1  0.19895616  0.88917420  -0.00049120  1
+  Te  Te19  1  0.60679893  0.41884545  0.62284796  1
+  Te  Te20  1  -0.00633109  0.52640578  -0.00078856  1
+  Te  Te21  1  0.80018540  0.39925532  0.37645515  1
+  Te  Te22  1  0.10089217  0.16285133  0.00011323  1
+  Te  Te23  1  0.47678655  -0.01350458  -0.00116056  1
+  Te  Te24  1  0.39459165  0.58473538  0.37877847  1

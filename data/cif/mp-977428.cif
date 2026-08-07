@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbAl2Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.81730442
+_cell_length_b   8.81730442
+_cell_length_c   8.81730508
+_cell_angle_alpha   35.51465307
+_cell_angle_beta   35.51465307
+_cell_angle_gamma   35.51464906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAl2Cu
+_chemical_formula_sum   'Yb3 Al6 Cu3'
+_cell_volume   206.73060125
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.00000000  0.00000000  0.00000000  1
+  Yb  Yb1  1  0.14230066  0.14230066  0.14230066  1
+  Yb  Yb2  1  0.85769934  0.85769934  0.85769934  1
+  Al  Al3  1  0.07918517  0.58213779  0.58213779  1
+  Al  Al4  1  0.58213779  0.07918517  0.58213779  1
+  Al  Al5  1  0.58213779  0.58213779  0.07918517  1
+  Al  Al6  1  0.41786221  0.41786221  0.92081483  1
+  Al  Al7  1  0.41786221  0.92081483  0.41786221  1
+  Al  Al8  1  0.92081483  0.41786221  0.41786221  1
+  Cu  Cu9  1  0.33450198  0.33450198  0.33450198  1
+  Cu  Cu10  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu11  1  0.66549802  0.66549802  0.66549802  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ScCoC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34281127
+_cell_length_b   3.34281104
+_cell_length_c   7.18148119
+_cell_angle_alpha   90.00005721
+_cell_angle_beta   90.00008156
+_cell_angle_gamma   89.99999931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCoC2
+_chemical_formula_sum   'Sc2 Co2 C4'
+_cell_volume   80.24864587
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.25000116  0.25000068  0.65433093  1
+  Sc  Sc1  1  0.74999916  0.74999976  0.34566908  1
+  Co  Co2  1  0.25000004  0.74999947  0.99999978  1
+  Co  Co3  1  0.75000005  0.24999945  0.00000022  1
+  C  C4  1  0.74999974  0.74999926  0.85013185  1
+  C  C5  1  0.24999962  0.25000002  0.34670389  1
+  C  C6  1  0.25000039  0.25000000  0.14986817  1
+  C  C7  1  0.75000083  0.75000036  0.65329609  1

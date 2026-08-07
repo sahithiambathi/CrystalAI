@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Nd4(SBr2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.21289204
+_cell_length_b   15.21289204
+_cell_length_c   7.19413848
+_cell_angle_alpha   85.39811091
+_cell_angle_beta   85.39811091
+_cell_angle_gamma   26.18253431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd4(SBr2)3
+_chemical_formula_sum   'Nd8 S6 Br12'
+_cell_volume   732.13514493
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.25211697  0.63396724  0.98436645  1
+  Nd  Nd1  1  0.47765928  0.86479524  0.90550427  1
+  Nd  Nd2  1  0.52234072  0.13520476  0.09449573  1
+  Nd  Nd3  1  0.74788303  0.36603276  0.01563355  1
+  Nd  Nd4  1  0.13520476  0.52234072  0.59449573  1
+  Nd  Nd5  1  0.63396724  0.25211697  0.48436645  1
+  Nd  Nd6  1  0.86479524  0.47765928  0.40550427  1
+  Nd  Nd7  1  0.36603276  0.74788303  0.51563355  1
+  S  S8  1  0.43558859  0.33133672  0.79054208  1
+  S  S9  1  0.55247933  0.44752067  0.75000000  1
+  S  S10  1  0.66866328  0.56441141  0.70945792  1
+  S  S11  1  0.56441141  0.66866328  0.20945792  1
+  S  S12  1  0.33133672  0.43558859  0.29054208  1
+  S  S13  1  0.44752067  0.55247933  0.25000000  1
+  Br  Br14  1  0.84085414  0.05586373  0.10943111  1
+  Br  Br15  1  0.15914586  0.94413627  0.89056889  1
+  Br  Br16  1  0.75072530  0.93787312  0.44562797  1
+  Br  Br17  1  0.81775486  0.65241159  0.68524243  1
+  Br  Br18  1  0.06212688  0.24927470  0.05437203  1
+  Br  Br19  1  0.24927470  0.06212688  0.55437203  1
+  Br  Br20  1  0.94413627  0.15914586  0.39056889  1
+  Br  Br21  1  0.05586373  0.84085414  0.60943111  1
+  Br  Br22  1  0.93787312  0.75072530  0.94562797  1
+  Br  Br23  1  0.34758841  0.18224514  0.81475757  1
+  Br  Br24  1  0.65241159  0.81775486  0.18524243  1
+  Br  Br25  1  0.18224514  0.34758841  0.31475757  1

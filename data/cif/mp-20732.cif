@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuAsPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23159403
+_cell_length_b   4.23165860
+_cell_length_c   8.04997576
+_cell_angle_alpha   105.23844941
+_cell_angle_beta   105.23819090
+_cell_angle_gamma   89.99999346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuAsPt
+_chemical_formula_sum   'Eu2 As2 Pt2'
+_cell_volume   133.82015034
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.74953758  0.24953758  0.49907616  1
+  Eu  Eu1  1  0.99954542  0.99954542  0.99909184  1
+  As  As2  1  0.33150703  0.83150703  0.66301307  1
+  As  As3  1  0.58151829  0.58151829  0.16303758  1
+  Pt  Pt4  1  0.41603045  0.41603045  0.83206191  1
+  Pt  Pt5  1  0.16605922  0.66605922  0.33211944  1

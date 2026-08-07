@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_K2MgF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95355503
+_cell_length_b   3.95355329
+_cell_length_c   7.13098032
+_cell_angle_alpha   106.09374586
+_cell_angle_beta   106.09373930
+_cell_angle_gamma   90.00000822
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MgF4
+_chemical_formula_sum   'K2 Mg1 F4'
+_cell_volume   102.53903728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.64766230  0.64766230  0.29532461  1
+  K  K1  1  0.35233770  0.35233770  0.70467539  1
+  Mg  Mg2  1  0.00000000  0.00000000  0.00000000  1
+  F  F3  1  0.00000000  0.50000000  0.00000000  1
+  F  F4  1  0.50000000  0.00000000  0.00000000  1
+  F  F5  1  0.84752759  0.84752759  0.69505617  1
+  F  F6  1  0.15247241  0.15247241  0.30494383  1

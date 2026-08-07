@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Gd2Mg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72047020
+_cell_length_b   8.93790983
+_cell_length_c   5.50002815
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   77.98728756
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Mg
+_chemical_formula_sum   'Gd4 Mg2'
+_cell_volume   178.88857840
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.97750116  0.04500168  -0.00000000  1
+  Gd  Gd1  1  0.66118568  0.67763163  0.00000000  1
+  Gd  Gd2  1  0.80027884  0.39944232  0.50000000  1
+  Gd  Gd3  1  0.11659232  0.76681437  0.50000000  1
+  Mg  Mg4  1  0.31989703  0.36020495  -0.00000000  1
+  Mg  Mg5  1  0.45787997  0.08423905  0.50000000  1

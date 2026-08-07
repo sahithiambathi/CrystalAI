@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce3In4Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50718585
+_cell_length_b   8.50038205
+_cell_length_c   8.50038205
+_cell_angle_alpha   90.76281089
+_cell_angle_beta   119.53460471
+_cell_angle_gamma   119.53460471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3In4Ge
+_chemical_formula_sum   'Ce6 In8 Ge2'
+_cell_volume   437.84332917
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.17072570  0.33536285  0.83536285  1
+  Ce  Ce1  1  0.82927430  0.66463715  0.16463715  1
+  Ce  Ce2  1  0.50000000  0.16436869  0.33563131  1
+  Ce  Ce3  1  0.50000000  0.83563131  0.66436869  1
+  Ce  Ce4  1  0.00000000  0.75000000  0.75000000  1
+  Ce  Ce5  1  0.00000000  0.25000000  0.25000000  1
+  In  In6  1  0.21313902  0.67369044  0.17369044  1
+  In  In7  1  0.78686098  0.32630956  0.82630956  1
+  In  In8  1  0.78686098  0.96055042  0.46055042  1
+  In  In9  1  0.50000000  0.46033268  0.67364565  1
+  In  In10  1  0.50000000  0.82635435  0.03966732  1
+  In  In11  1  0.21313902  0.03944958  0.53944958  1
+  In  In12  1  0.50000000  0.53966732  0.32635435  1
+  In  In13  1  0.50000000  0.17364565  0.96033268  1
+  Ge  Ge14  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge15  1  0.00000000  0.50000000  0.50000000  1

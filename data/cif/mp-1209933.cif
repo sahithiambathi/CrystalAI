@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Nd9Ga4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17085616
+_cell_length_b   8.93040709
+_cell_length_c   8.93040709
+_cell_angle_alpha   85.19210255
+_cell_angle_beta   73.17146458
+_cell_angle_gamma   73.17146458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd9Ga4
+_chemical_formula_sum   'Nd9 Ga4'
+_cell_volume   377.82270638
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.09327708  0.27737434  0.53607050  1
+  Nd  Nd1  1  0.90672292  0.72262566  0.46392950  1
+  Nd  Nd2  1  0.62934758  0.46392950  0.27737434  1
+  Nd  Nd3  1  0.37065242  0.53607050  0.72262566  1
+  Nd  Nd4  1  -0.00000000  0.00000000  -0.00000000  1
+  Nd  Nd5  1  0.38655120  0.92816614  0.29873145  1
+  Nd  Nd6  1  0.61344880  0.07183386  0.70126855  1
+  Nd  Nd7  1  0.68528265  0.70126855  0.92816614  1
+  Nd  Nd8  1  0.31471735  0.29873145  0.07183386  1
+  Ga  Ga9  1  0.23054707  0.88262170  0.65628616  1
+  Ga  Ga10  1  0.76945293  0.11737830  0.34371384  1
+  Ga  Ga11  1  0.88683223  0.34371384  0.88262170  1
+  Ga  Ga12  1  0.11316777  0.65628616  0.11737830  1

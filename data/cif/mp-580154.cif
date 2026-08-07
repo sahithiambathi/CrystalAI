@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_GdMgAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48240033
+_cell_length_b   7.48328598
+_cell_length_c   4.27713595
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99049393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdMgAu
+_chemical_formula_sum   'Gd3 Mg3 Au3'
+_cell_volume   207.42378860
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.41268451  0.99997458  -0.00000000  1
+  Gd  Gd1  1  0.00003274  0.41270431  -0.00000000  1
+  Gd  Gd2  1  0.58731753  0.58732353  -0.00000000  1
+  Mg  Mg3  1  0.99999117  0.75718703  0.50000000  1
+  Mg  Mg4  1  0.75719244  -0.00000645  0.50000000  1
+  Mg  Mg5  1  0.24292231  0.24285365  0.50000000  1
+  Au  Au6  1  0.99971612  0.00009152  0.00000000  1
+  Au  Au7  1  0.66690945  0.33340597  0.50000000  1
+  Au  Au8  1  0.33323274  0.66646486  0.50000000  1

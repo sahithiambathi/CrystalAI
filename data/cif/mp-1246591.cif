@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Co2CuN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.17776855
+_cell_length_b   3.18569543
+_cell_length_c   6.98122302
+_cell_angle_alpha   90.00000532
+_cell_angle_beta   116.80790699
+_cell_angle_gamma   120.08253450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2CuN2
+_chemical_formula_sum   'Co2 Cu1 N2'
+_cell_volume   52.19099699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.84889168  0.42444534  0.13844697  1
+  Co  Co1  1  0.15103097  0.57551598  0.86146155  1
+  Cu  Cu2  1  0.00005405  0.00002703  0.50004815  1
+  N  N3  1  0.41634213  0.20817107  0.81094335  1
+  N  N4  1  0.58368117  0.79184059  0.18909997  1

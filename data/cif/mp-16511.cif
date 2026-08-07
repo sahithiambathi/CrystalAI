@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mn3Al10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49857440
+_cell_length_b   7.49857950
+_cell_length_c   7.82836780
+_cell_angle_alpha   90.00002806
+_cell_angle_beta   89.99994183
+_cell_angle_gamma   119.99994091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Al10
+_chemical_formula_sum   'Mn6 Al20'
+_cell_volume   381.20607865
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.11852864  0.23705110  0.25000021  1
+  Mn  Mn1  1  0.88147389  0.11852290  0.75000003  1
+  Mn  Mn2  1  0.23704550  0.11852356  0.74999974  1
+  Mn  Mn3  1  0.76295450  0.88147644  0.25000026  1
+  Mn  Mn4  1  0.11852611  0.88147710  0.24999997  1
+  Mn  Mn5  1  0.88147136  0.76294890  0.74999979  1
+  Al  Al6  1  -0.00000000  -0.00000000  -0.00000000  1
+  Al  Al7  1  -0.00000000  -0.00000000  0.50000000  1
+  Al  Al8  1  0.45647039  0.91294437  0.25000217  1
+  Al  Al9  1  0.54352979  0.45647568  0.74999770  1
+  Al  Al10  1  0.91294769  0.45647606  0.74999806  1
+  Al  Al11  1  0.08705231  0.54352394  0.25000194  1
+  Al  Al12  1  0.45647021  0.54352432  0.25000230  1
+  Al  Al13  1  0.54352961  0.08705563  0.74999783  1
+  Al  Al14  1  0.20248167  0.40496417  0.93725934  1
+  Al  Al15  1  0.79751959  0.20248196  0.43725939  1
+  Al  Al16  1  0.40496486  0.20248266  0.43725764  1
+  Al  Al17  1  0.59503408  0.79751696  0.93725641  1
+  Al  Al18  1  0.20248076  0.79751733  0.93725841  1
+  Al  Al19  1  0.79751833  0.59503583  0.06274066  1
+  Al  Al20  1  0.79751924  0.20248267  0.06274159  1
+  Al  Al21  1  0.79751924  0.59503691  0.43726057  1
+  Al  Al22  1  0.40496592  0.20248304  0.06274359  1
+  Al  Al23  1  0.59503514  0.79751734  0.56274236  1
+  Al  Al24  1  0.20248076  0.40496309  0.56273943  1
+  Al  Al25  1  0.20248041  0.79751804  0.56274061  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbGeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85341443
+_cell_length_b   5.85341443
+_cell_length_c   6.98897669
+_cell_angle_alpha   50.55969225
+_cell_angle_beta   50.55969225
+_cell_angle_gamma   42.30422172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbGeAu
+_chemical_formula_sum   'Yb2 Ge2 Au2'
+_cell_volume   117.99875966
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.55457270  0.55457270  0.69042612  1
+  Yb  Yb1  1  0.44542730  0.44542730  0.30957388  1
+  Ge  Ge2  1  0.84630592  0.84630592  0.13447057  1
+  Ge  Ge3  1  0.15369408  0.15369408  0.86552943  1
+  Au  Au4  1  0.16694716  0.16694716  0.26221753  1
+  Au  Au5  1  0.83305284  0.83305284  0.73778247  1

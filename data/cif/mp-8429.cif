@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K4IrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54660699
+_cell_length_b   5.54660791
+_cell_length_c   6.15241142
+_cell_angle_alpha   77.35842060
+_cell_angle_beta   77.35843262
+_cell_angle_gamma   69.52274922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4IrO4
+_chemical_formula_sum   'K4 Ir1 O4'
+_cell_volume   170.91028730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62262852  0.62262852  0.13607300  1
+  K  K1  1  0.19242334  0.19242334  0.41527165  1
+  K  K2  1  0.37737148  0.37737148  0.86392700  1
+  K  K3  1  0.80757666  0.80757666  0.58472835  1
+  Ir  Ir4  1  -0.00000000  0.00000000  -0.00000000  1
+  O  O5  1  0.10337556  0.67477254  0.19919565  1
+  O  O6  1  0.67477254  0.10337556  0.19919565  1
+  O  O7  1  0.32522746  0.89662444  0.80080435  1
+  O  O8  1  0.89662444  0.32522746  0.80080435  1

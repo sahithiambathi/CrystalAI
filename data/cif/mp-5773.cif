@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BaRuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93657385
+_cell_length_b   7.93765484
+_cell_length_c   7.93360130
+_cell_angle_alpha   42.71376996
+_cell_angle_beta   43.05868620
+_cell_angle_gamma   42.71305534
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaRuO3
+_chemical_formula_sum   'Ba3 Ru3 O9'
+_cell_volume   209.27383937
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.78223131  0.78187960  0.78223235  1
+  Ba  Ba1  1  0.21776869  0.21812040  0.21776765  1
+  Ba  Ba2  1  -0.00000000  0.00000000  -0.00000000  1
+  Ru  Ru3  1  0.61579654  0.61916830  0.61576122  1
+  Ru  Ru4  1  0.38420346  0.38083170  0.38423878  1
+  Ru  Ru5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.71218700  0.24880218  0.71150237  1
+  O  O7  1  0.24547714  0.71324042  0.71825441  1
+  O  O8  1  0.71838900  0.71267736  0.24539169  1
+  O  O9  1  0.28781300  0.75119782  0.28849763  1
+  O  O10  1  0.75452286  0.28675958  0.28174559  1
+  O  O11  1  0.28161100  0.28732264  0.75460831  1
+  O  O12  1  0.50000000  0.50000000  -0.00000000  1
+  O  O13  1  -0.00000000  0.50000000  0.50000000  1
+  O  O14  1  0.50000000  0.00000000  0.50000000  1

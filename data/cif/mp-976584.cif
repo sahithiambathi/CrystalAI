@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf9Mo4As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.65838866
+_cell_length_b   8.65823226
+_cell_length_c   8.63174991
+_cell_angle_alpha   89.99999664
+_cell_angle_beta   90.00000316
+_cell_angle_gamma   119.99956545
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf9Mo4As
+_chemical_formula_sum   'Hf18 Mo8 As2'
+_cell_volume   560.39943746
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.60851273  0.80425552  0.04442191  1
+  Hf  Hf1  1  0.80427111  0.60853389  0.54445973  1
+  Hf  Hf2  1  0.19574677  0.39150119  0.04443371  1
+  Hf  Hf3  1  0.19574481  0.80424539  0.04443010  1
+  Hf  Hf4  1  0.80427287  0.19573700  0.54445805  1
+  Hf  Hf5  1  0.39145204  0.19572666  0.54444833  1
+  Hf  Hf6  1  0.80427099  0.60853400  0.95553960  1
+  Hf  Hf7  1  0.80427288  0.19573693  0.95554144  1
+  Hf  Hf8  1  0.39145161  0.19572656  0.95555135  1
+  Hf  Hf9  1  0.60851269  0.80425553  0.45557859  1
+  Hf  Hf10  1  0.19574502  0.80424541  0.45557009  1
+  Hf  Hf11  1  0.19574683  0.39150119  0.45556670  1
+  Hf  Hf12  1  0.54073823  0.08147906  0.25000039  1
+  Hf  Hf13  1  0.45925077  0.91849693  0.74999948  1
+  Hf  Hf14  1  0.91852466  0.45926202  0.25000021  1
+  Hf  Hf15  1  0.54073786  0.45925879  0.25000018  1
+  Hf  Hf16  1  0.45924947  0.54075281  0.74999961  1
+  Hf  Hf17  1  0.08149986  0.54074867  0.74999969  1
+  Mo  Mo18  1  0.00000001  -0.00000000  0.99996160  1
+  Mo  Mo19  1  -0.00000017  -0.00000009  0.50003846  1
+  Mo  Mo20  1  0.89009763  0.78018329  0.24999973  1
+  Mo  Mo21  1  0.10992180  0.21985673  0.75000024  1
+  Mo  Mo22  1  0.21981516  0.10990828  0.24999971  1
+  Mo  Mo23  1  0.89009811  0.10991536  0.24999976  1
+  Mo  Mo24  1  0.10992110  0.89006583  0.75000023  1
+  Mo  Mo25  1  0.78014528  0.89007270  0.75000017  1
+  As  As26  1  0.66661870  0.33330663  0.74999990  1
+  As  As27  1  0.33337915  0.66669370  0.25000005  1

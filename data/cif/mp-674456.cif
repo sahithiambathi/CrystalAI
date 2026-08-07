@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Zr10HN8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60663600
+_cell_length_b   5.60693533
+_cell_length_c   8.58355344
+_cell_angle_alpha   71.47731248
+_cell_angle_beta   71.52798489
+_cell_angle_gamma   80.14325857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr10HN8
+_chemical_formula_sum   'Zr10 H1 N8'
+_cell_volume   241.92561368
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.63867462  0.25488668  0.94778325  1
+  Zr  Zr1  1  0.95055236  0.73984060  0.84618543  1
+  Zr  Zr2  1  0.04944764  0.26015940  0.15381457  1
+  Zr  Zr3  1  0.36132538  0.74511332  0.05221675  1
+  Zr  Zr4  1  0.45198140  0.24372407  0.34686089  1
+  Zr  Zr5  1  0.75050523  0.75109068  0.25057056  1
+  Zr  Zr6  1  0.85709370  0.24570054  0.55239099  1
+  Zr  Zr7  1  0.14290630  0.75429946  0.44760901  1
+  Zr  Zr8  1  0.24949477  0.24890932  0.74942944  1
+  Zr  Zr9  1  0.54801860  0.75627593  0.65313911  1
+  H  H10  1  0.50000000  0.50000000  0.50000000  1
+  N  N11  1  0.60140902  0.99705649  0.80092407  1
+  N  N12  1  0.29917665  0.50098612  0.90185642  1
+  N  N13  1  0.39859098  0.00294351  0.19907593  1
+  N  N14  1  0.70082335  0.49901388  0.09814358  1
+  N  N15  1  0.80233247  0.00124353  0.40033954  1
+  N  N16  1  0.10227799  0.49939369  0.29962721  1
+  N  N17  1  0.19766753  0.99875647  0.59966046  1
+  N  N18  1  0.89772201  0.50060631  0.70037279  1

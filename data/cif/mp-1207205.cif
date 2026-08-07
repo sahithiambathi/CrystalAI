@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Pr(AlGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26649776
+_cell_length_b   4.26649756
+_cell_length_c   6.96137109
+_cell_angle_alpha   90.00021834
+_cell_angle_beta   89.99978676
+_cell_angle_gamma   119.99930950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(AlGe)2
+_chemical_formula_sum   'Pr1 Al2 Ge2'
+_cell_volume   109.74164415
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  -0.00000005  0.00000010  0.00000007  1
+  Al  Al1  1  0.66666706  0.33333286  0.36110397  1
+  Al  Al2  1  0.33333294  0.66666709  0.63889625  1
+  Ge  Ge3  1  0.66666699  0.33333302  0.72914291  1
+  Ge  Ge4  1  0.33333306  0.66666693  0.27085680  1

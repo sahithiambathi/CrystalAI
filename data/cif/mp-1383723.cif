@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MgBiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66215591
+_cell_length_b   5.66215590
+_cell_length_c   5.66215548
+_cell_angle_alpha   54.98306482
+_cell_angle_beta   54.98306489
+_cell_angle_gamma   54.98306726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgBiF6
+_chemical_formula_sum   'Mg1 Bi1 F6'
+_cell_volume   113.37582335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.50000000  1
+  Bi  Bi1  1  -0.00000000  0.00000000  -0.00000000  1
+  F  F2  1  0.59662806  0.88065163  0.26277872  1
+  F  F3  1  0.88065163  0.26277872  0.59662806  1
+  F  F4  1  0.73722128  0.40337194  0.11934837  1
+  F  F5  1  0.11934837  0.73722128  0.40337194  1
+  F  F6  1  0.40337194  0.11934837  0.73722128  1
+  F  F7  1  0.26277872  0.59662806  0.88065163  1

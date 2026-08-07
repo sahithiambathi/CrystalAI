@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Zr2CoNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17873811
+_cell_length_b   5.17873811
+_cell_length_c   4.06699104
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   143.44401711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2CoNi
+_chemical_formula_sum   'Zr2 Co1 Ni1'
+_cell_volume   64.96532170
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.14067072  0.85932928  -0.00000000  1
+  Zr  Zr1  1  0.86217271  0.13782729  0.50000000  1
+  Co  Co2  1  0.41398944  0.58601056  0.00000000  1
+  Ni  Ni3  1  0.58316713  0.41683287  0.50000000  1

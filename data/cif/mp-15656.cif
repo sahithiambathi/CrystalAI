@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Si4Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70380703
+_cell_length_b   5.81779004
+_cell_length_c   18.92930819
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si4Ir3
+_chemical_formula_sum   'Si16 Ir12'
+_cell_volume   407.88819622
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.25000000  0.97373575  0.45033173  1
+  Si  Si1  1  0.75000000  0.02626425  0.54966827  1
+  Si  Si2  1  0.75000000  0.47373575  0.04966827  1
+  Si  Si3  1  0.25000000  0.52626425  0.95033173  1
+  Si  Si4  1  0.25000000  0.07741000  0.90912518  1
+  Si  Si5  1  0.75000000  0.92259000  0.09087482  1
+  Si  Si6  1  0.75000000  0.57741000  0.59087482  1
+  Si  Si7  1  0.25000000  0.42259000  0.40912518  1
+  Si  Si8  1  0.25000000  0.71671576  0.26982659  1
+  Si  Si9  1  0.75000000  0.28328424  0.73017341  1
+  Si  Si10  1  0.75000000  0.21671576  0.23017341  1
+  Si  Si11  1  0.25000000  0.78328424  0.76982659  1
+  Si  Si12  1  0.25000000  0.38780907  0.14362770  1
+  Si  Si13  1  0.75000000  0.61219093  0.85637230  1
+  Si  Si14  1  0.75000000  0.88780907  0.35637230  1
+  Si  Si15  1  0.25000000  0.11219093  0.64362770  1
+  Ir  Ir16  1  0.25000000  0.39353363  0.82624364  1
+  Ir  Ir17  1  0.75000000  0.60646637  0.17375636  1
+  Ir  Ir18  1  0.75000000  0.89353363  0.67375636  1
+  Ir  Ir19  1  0.25000000  0.10646637  0.32624364  1
+  Ir  Ir20  1  0.25000000  0.49948459  0.67620713  1
+  Ir  Ir21  1  0.75000000  0.50051541  0.32379287  1
+  Ir  Ir22  1  0.75000000  -0.00051541  0.82379287  1
+  Ir  Ir23  1  0.25000000  0.00051541  0.17620713  1
+  Ir  Ir24  1  0.25000000  0.30355911  0.53133448  1
+  Ir  Ir25  1  0.75000000  0.69644089  0.46866552  1
+  Ir  Ir26  1  0.75000000  0.80355911  0.96866552  1
+  Ir  Ir27  1  0.25000000  0.19644089  0.03133448  1

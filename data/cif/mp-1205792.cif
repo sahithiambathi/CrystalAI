@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Zr6NiTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71248813
+_cell_length_b   7.71416339
+_cell_length_c   7.71433728
+_cell_angle_alpha   119.99810313
+_cell_angle_beta   90.00001124
+_cell_angle_gamma   89.99999844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6NiTe2
+_chemical_formula_sum   'Zr6 Ni1 Te2'
+_cell_volume   191.33369655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000170  0.76181774  0.76180097  1
+  Zr  Zr1  1  0.50000194  1.00004045  0.23823737  1
+  Zr  Zr2  1  0.50000147  0.23823650  0.00002357  1
+  Zr  Zr3  1  1.00000172  0.40743932  0.40744176  1
+  Zr  Zr4  1  1.00000174  1.00002174  0.59260228  1
+  Zr  Zr5  1  0.00000232  0.59262394  0.00002149  1
+  Ni  Ni6  1  0.99998513  -0.00023990  0.99983305  1
+  Te  Te7  1  0.50000186  0.66669020  0.33332688  1
+  Te  Te8  1  0.50000213  0.33337201  0.66671262  1

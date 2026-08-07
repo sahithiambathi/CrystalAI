@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaCeRh4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37758475
+_cell_length_b   5.37047996
+_cell_length_c   5.37049599
+_cell_angle_alpha   60.00029630
+_cell_angle_beta   60.04396475
+_cell_angle_gamma   60.04388364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCeRh4
+_chemical_formula_sum   'La1 Ce1 Rh4'
+_cell_volume   109.74601296
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.99909511  0.00030130  0.00030330  1
+  Ce  Ce1  1  0.75089158  0.74970281  0.74970081  1
+  Rh  Rh2  1  0.37493399  0.37507536  0.37507536  1
+  Rh  Rh3  1  0.37493399  0.87491730  0.37507536  1
+  Rh  Rh4  1  0.87521236  0.37492988  0.37492988  1
+  Rh  Rh5  1  0.37493399  0.37507536  0.87491730  1

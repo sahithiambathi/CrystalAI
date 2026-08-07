@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CoSbTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81074597
+_cell_length_b   5.26899857
+_cell_length_c   6.23072862
+_cell_angle_alpha   91.21877721
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSbTe
+_chemical_formula_sum   'Co2 Sb2 Te2'
+_cell_volume   125.07734472
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co1  1  0.00000000  0.00000000  -0.00000000  1
+  Sb  Sb2  1  0.50000000  0.71882758  0.13623961  1
+  Sb  Sb3  1  0.50000000  0.28117242  0.86376039  1
+  Te  Te4  1  0.00000000  0.22378335  0.35680238  1
+  Te  Te5  1  0.00000000  0.77621665  0.64319762  1

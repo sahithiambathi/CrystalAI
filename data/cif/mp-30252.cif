@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Na10CaSn12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.70465379
+_cell_length_b   9.70465513
+_cell_length_c   9.70465609
+_cell_angle_alpha   109.47142387
+_cell_angle_beta   109.47143392
+_cell_angle_gamma   109.47141240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na10CaSn12
+_chemical_formula_sum   'Na10 Ca1 Sn12'
+_cell_volume   703.58269961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24999559  0.49999517  0.74999511  1
+  Na  Na1  1  0.38649015  0.38649017  0.38649016  1
+  Na  Na2  1  0.00000112  0.61352022  0.00000113  1
+  Na  Na3  1  0.61352021  0.00000112  0.00000113  1
+  Na  Na4  1  0.00000114  0.00000112  0.61352022  1
+  Na  Na5  1  0.74999511  0.49999517  0.24999557  1
+  Na  Na6  1  0.24999559  0.74999509  0.49999517  1
+  Na  Na7  1  0.74999507  0.24999558  0.49999516  1
+  Na  Na8  1  0.49999519  0.24999560  0.74999513  1
+  Na  Na9  1  0.49999514  0.74999507  0.24999557  1
+  Ca  Ca10  1  0.00000062  0.00000054  0.00000036  1
+  Sn  Sn11  1  0.62987563  0.62987568  0.81773551  1
+  Sn  Sn12  1  0.00000138  0.18785999  0.37012599  1
+  Sn  Sn13  1  0.18786074  0.00000127  0.37012614  1
+  Sn  Sn14  1  0.81214259  0.18226690  0.81214266  1
+  Sn  Sn15  1  0.18226685  0.81214257  0.81214260  1
+  Sn  Sn16  1  0.81773544  0.62987571  0.62987568  1
+  Sn  Sn17  1  0.00000130  0.37012606  0.18786019  1
+  Sn  Sn18  1  0.37012619  0.00000135  0.18786006  1
+  Sn  Sn19  1  0.62987574  0.81773549  0.62987578  1
+  Sn  Sn20  1  0.18786020  0.37012616  0.00000135  1
+  Sn  Sn21  1  0.37012618  0.18786021  0.00000135  1
+  Sn  Sn22  1  0.81214281  0.81214277  0.18226702  1

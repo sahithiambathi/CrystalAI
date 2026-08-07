@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgV5O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54774153
+_cell_length_b   7.45279797
+_cell_length_c   5.43930981
+_cell_angle_alpha   69.66361044
+_cell_angle_beta   61.62971183
+_cell_angle_gamma   78.89941868
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV5O10
+_chemical_formula_sum   'Mg1 V5 O10'
+_cell_volume   185.44707282
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.98054800  0.39274200  0.69194700  1
+  V  V1  1  0.00160400  0.98503900  0.00946300  1
+  V  V2  1  0.48553400  0.61939000  0.70191100  1
+  V  V3  1  0.47643100  0.18582600  0.91097700  1
+  V  V4  1  0.52988200  0.39607300  0.28639900  1
+  V  V5  1  0.98257200  0.81101600  0.58980400  1
+  O  O6  1  0.72327900  0.59199600  0.89370400  1
+  O  O7  1  0.78653100  0.79367100  0.39557300  1
+  O  O8  1  0.78033300  0.98863400  0.78136000  1
+  O  O9  1  0.70455300  0.39742400  0.55071200  1
+  O  O10  1  0.73922600  0.20187600  0.08318800  1
+  O  O11  1  0.21818600  0.79592100  0.80489800  1
+  O  O12  1  0.29279800  0.20003100  0.67798100  1
+  O  O13  1  0.26863000  0.59347800  0.49016400  1
+  O  O14  1  0.20798500  0.99109500  0.21186200  1
+  O  O15  1  0.30603600  0.38654500  0.06111600  1

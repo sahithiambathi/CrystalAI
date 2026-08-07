@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Hg2Pt2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23003614
+_cell_length_b   7.23016313
+_cell_length_c   7.23003337
+_cell_angle_alpha   60.00101734
+_cell_angle_beta   60.00057701
+_cell_angle_gamma   60.00063458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2Pt2O7
+_chemical_formula_sum   'Hg4 Pt4 O14'
+_cell_volume   267.25213508
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.12500239  0.12500290  0.12499631  1
+  Hg  Hg1  1  0.62499868  0.12498966  0.12500896  1
+  Hg  Hg2  1  0.12499513  0.62500289  0.12499322  1
+  Hg  Hg3  1  0.12501105  0.12498990  0.62500025  1
+  Pt  Pt4  1  0.62500706  0.62500501  0.12499772  1
+  Pt  Pt5  1  0.62499069  0.62501578  0.62499253  1
+  Pt  Pt6  1  0.62499469  0.12499332  0.62500181  1
+  Pt  Pt7  1  0.12500056  0.62500005  0.62500910  1
+  O  O8  1  0.70336129  0.29666700  0.29660896  1
+  O  O9  1  0.70335878  0.29667868  0.70335993  1
+  O  O10  1  0.99998791  0.00003412  0.99998487  1
+  O  O11  1  0.29664506  0.70335340  0.29664842  1
+  O  O12  1  0.70335453  0.70335655  0.29665383  1
+  O  O13  1  0.95334404  0.54665061  0.54664556  1
+  O  O14  1  0.29665417  0.70335397  0.70335296  1
+  O  O15  1  0.25001451  0.24996092  0.25001473  1
+  O  O16  1  0.95335710  0.54665101  0.95335125  1
+  O  O17  1  0.54663832  0.95331892  0.54664091  1
+  O  O18  1  0.54664249  0.54665030  0.95334279  1
+  O  O19  1  0.95339559  0.95332739  0.54664084  1
+  O  O20  1  0.54664001  0.95332998  0.95339200  1
+  O  O21  1  0.29660596  0.29666766  0.70336304  1

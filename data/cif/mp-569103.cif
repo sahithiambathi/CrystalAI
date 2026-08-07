@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Mg3Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.96089010
+_cell_length_b   9.96089055
+_cell_length_c   9.96088894
+_cell_angle_alpha   48.95669917
+_cell_angle_beta   48.95669533
+_cell_angle_gamma   48.95670429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3Hg
+_chemical_formula_sum   'Mg18 Hg6'
+_cell_volume   516.14276846
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.08357310  0.32860859  0.75622847  1
+  Mg  Mg1  1  0.86362266  0.86362266  0.86362266  1
+  Mg  Mg2  1  0.03261722  0.76974542  0.52340839  1
+  Mg  Mg3  1  0.44397313  0.44397313  0.44397313  1
+  Mg  Mg4  1  0.32860859  0.75622847  0.08357310  1
+  Mg  Mg5  1  0.24377153  0.67139141  0.91642690  1
+  Mg  Mg6  1  0.23025458  0.96738278  0.47659161  1
+  Mg  Mg7  1  0.52340839  0.03261722  0.76974542  1
+  Mg  Mg8  1  0.76974542  0.52340839  0.03261722  1
+  Mg  Mg9  1  0.67863188  0.67863188  0.67863188  1
+  Mg  Mg10  1  0.75622847  0.08357310  0.32860859  1
+  Mg  Mg11  1  0.67139141  0.91642690  0.24377153  1
+  Mg  Mg12  1  0.13637734  0.13637734  0.13637734  1
+  Mg  Mg13  1  0.96738278  0.47659161  0.23025458  1
+  Mg  Mg14  1  0.55602687  0.55602687  0.55602687  1
+  Mg  Mg15  1  0.47659161  0.23025458  0.96738278  1
+  Mg  Mg16  1  0.91642690  0.24377153  0.67139141  1
+  Mg  Mg17  1  0.32136812  0.32136812  0.32136812  1
+  Hg  Hg18  1  0.81996939  0.18003061  0.50000000  1
+  Hg  Hg19  1  0.32954886  1.00000000  0.67045114  1
+  Hg  Hg20  1  0.67045114  0.32954886  1.00000000  1
+  Hg  Hg21  1  0.00000000  0.67045114  0.32954886  1
+  Hg  Hg22  1  0.18003061  0.50000000  0.81996939  1
+  Hg  Hg23  1  0.50000000  0.81996939  0.18003061  1

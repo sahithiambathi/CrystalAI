@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K(WCl3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.33559102
+_cell_length_b   9.33570453
+_cell_length_c   8.57144878
+_cell_angle_alpha   89.80899799
+_cell_angle_beta   89.80960549
+_cell_angle_gamma   119.94197812
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(WCl3)3
+_chemical_formula_sum   'K2 W6 Cl18'
+_cell_volume   647.31816913
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33351816  0.66647101  0.49978210  1
+  K  K1  1  0.66652572  0.33332474  0.50013841  1
+  W  W2  1  0.81999111  0.81999212  0.86140527  1
+  W  W3  1  0.18102276  0.00034395  0.86034423  1
+  W  W4  1  0.81893679  0.99963982  0.13957643  1
+  W  W5  1  0.18005251  0.17996512  0.13859315  1
+  W  W6  1  0.00043893  0.18109966  0.86042732  1
+  W  W7  1  0.99958133  0.81896027  0.13966923  1
+  Cl  Cl8  1  0.39815151  0.00072054  0.69259143  1
+  Cl  Cl9  1  0.60416054  0.60400513  0.69474826  1
+  Cl  Cl10  1  0.41530425  0.20921465  0.99742090  1
+  Cl  Cl11  1  0.79067849  0.58471077  0.00258407  1
+  Cl  Cl12  1  0.20773290  0.79216185  0.00002807  1
+  Cl  Cl13  1  0.58465994  0.79403788  -0.00009654  1
+  Cl  Cl14  1  0.79473797  0.00121464  0.67883793  1
+  Cl  Cl15  1  0.20815152  0.99879103  0.31904767  1
+  Cl  Cl16  1  0.99910939  0.60178562  0.30743090  1
+  Cl  Cl17  1  0.60187469  0.99926864  0.30728379  1
+  Cl  Cl18  1  0.00086322  0.39816968  0.69270741  1
+  Cl  Cl19  1  0.39610401  0.39577527  0.30522501  1
+  Cl  Cl20  1  0.00114147  0.79179244  0.68098572  1
+  Cl  Cl21  1  0.20611408  0.41534157  1.00008628  1
+  Cl  Cl22  1  0.79228947  0.20791247  0.00002009  1
+  Cl  Cl23  1  0.20851578  0.20846599  0.67839312  1
+  Cl  Cl24  1  0.99887380  0.20531776  0.32116903  1
+  Cl  Cl25  1  0.79146967  0.79151736  0.32160071  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Zn10Pd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83058785
+_cell_length_b   7.83058785
+_cell_length_c   7.77331586
+_cell_angle_alpha   70.94937113
+_cell_angle_beta   70.94937113
+_cell_angle_gamma   109.63035600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn10Pd3
+_chemical_formula_sum   'Zn20 Pd6'
+_cell_volume   369.96827418
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00454168  0.00454168  0.79566073  1
+  Zn  Zn1  1  0.75945902  0.75945902  0.24059548  1
+  Zn  Zn2  1  0.22378080  0.00130225  0.99423673  1
+  Zn  Zn3  1  0.00130225  0.22378080  0.99423673  1
+  Zn  Zn4  1  0.26002751  0.26002751  0.39997252  1
+  Zn  Zn5  1  0.01207155  0.73887875  0.64601941  1
+  Zn  Zn6  1  0.73887875  0.01207155  0.64601941  1
+  Zn  Zn7  1  0.65380947  0.65380947  0.63686913  1
+  Zn  Zn8  1  0.36352927  0.64202571  0.34645567  1
+  Zn  Zn9  1  0.64202571  0.36352927  0.34645567  1
+  Zn  Zn10  1  0.35689249  0.73562551  0.97458709  1
+  Zn  Zn11  1  0.61922500  0.26142950  0.72122497  1
+  Zn  Zn12  1  0.35586360  0.00994740  0.27718404  1
+  Zn  Zn13  1  0.73562551  0.35689249  0.97458709  1
+  Zn  Zn14  1  0.00994740  0.35586360  0.27718404  1
+  Zn  Zn15  1  0.26142950  0.61922500  0.72122497  1
+  Zn  Zn16  1  0.64601417  0.64601417  0.99443022  1
+  Zn  Zn17  1  0.00457497  0.65142901  0.35356484  1
+  Zn  Zn18  1  0.65142901  0.00457497  0.35356484  1
+  Zn  Zn19  1  0.35425124  0.35425124  0.00929611  1
+  Pd  Pd20  1  0.99505245  0.35975774  0.63673863  1
+  Pd  Pd21  1  0.35975774  0.99505245  0.63673863  1
+  Pd  Pd22  1  0.99971704  0.99971704  0.33805826  1
+  Pd  Pd23  1  0.36152713  0.36152713  0.65414318  1
+  Pd  Pd24  1  0.64367907  0.98558566  0.01547630  1
+  Pd  Pd25  1  0.98558566  0.64367907  0.01547630  1

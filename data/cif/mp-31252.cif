@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_La5(AlBr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.72709532
+_cell_length_b   11.72709532
+_cell_length_c   11.72772019
+_cell_angle_alpha   138.37222662
+_cell_angle_beta   138.37222662
+_cell_angle_gamma   60.34791040
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5(AlBr)4
+_chemical_formula_sum   'La10 Al8 Br8'
+_cell_volume   704.19591040
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25003371  0.24996629  -0.00000000  1
+  La  La1  1  0.74996629  0.75003371  -0.00000000  1
+  La  La2  1  0.72408538  0.54659349  0.50000945  1
+  La  La3  1  0.27591462  0.45340651  0.49999055  1
+  La  La4  1  0.95340651  0.77591462  0.49999055  1
+  La  La5  1  0.77564725  0.27564725  0.82193224  1
+  La  La6  1  0.45354883  0.95354883  0.17756726  1
+  La  La7  1  0.54645117  0.04645117  0.82243274  1
+  La  La8  1  0.22435275  0.72435275  0.17806776  1
+  La  La9  1  0.04659349  0.22408538  0.50000945  1
+  Al  Al10  1  0.57819031  0.36297359  0.50000915  1
+  Al  Al11  1  0.42180969  0.63702641  0.49999085  1
+  Al  Al12  1  0.13702641  0.92180969  0.49999085  1
+  Al  Al13  1  0.92156603  0.42156603  0.78443688  1
+  Al  Al14  1  0.63714642  0.13714642  0.21564857  1
+  Al  Al15  1  0.36285358  0.86285358  0.78435143  1
+  Al  Al16  1  0.07843397  0.57843397  0.21556312  1
+  Al  Al17  1  0.86297359  0.07819031  0.50000915  1
+  Br  Br18  1  0.64425355  0.85574645  0.50000000  1
+  Br  Br19  1  0.85554818  0.35554818  0.21110141  1
+  Br  Br20  1  0.90672453  0.90667687  0.00003996  1
+  Br  Br21  1  0.59332313  0.59327547  0.99996004  1
+  Br  Br22  1  0.09327547  0.09332313  0.99996004  1
+  Br  Br23  1  0.40667687  0.40672453  0.00003996  1
+  Br  Br24  1  0.35574645  0.14425355  0.50000000  1
+  Br  Br25  1  0.14445182  0.64445182  0.78889859  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TlNiCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86076490
+_cell_length_b   6.86076438
+_cell_length_c   5.86128446
+_cell_angle_alpha   89.99999487
+_cell_angle_beta   89.99998601
+_cell_angle_gamma   120.00013662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlNiCl3
+_chemical_formula_sum   'Tl2 Ni2 Cl6'
+_cell_volume   238.92845489
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.33333300  0.66666700  0.75000100  1
+  Tl  Tl1  1  0.66666700  0.33333300  0.24999900  1
+  Ni  Ni2  1  0.00000000  0.00000000  -0.00000000  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl4  1  0.15957212  0.31914424  0.24999900  1
+  Cl  Cl5  1  0.84042788  0.68085576  0.75000100  1
+  Cl  Cl6  1  0.68085576  0.84042788  0.24999900  1
+  Cl  Cl7  1  0.31914424  0.15957212  0.75000100  1
+  Cl  Cl8  1  0.15957212  0.84042788  0.24999900  1
+  Cl  Cl9  1  0.84042788  0.15957212  0.75000100  1

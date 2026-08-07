@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaMnBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53419052
+_cell_length_b   4.52985612
+_cell_length_c   21.64680020
+_cell_angle_alpha   89.98711890
+_cell_angle_beta   90.04994737
+_cell_angle_gamma   90.02288560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMnBi2
+_chemical_formula_sum   'Ca4 Mn4 Bi8'
+_cell_volume   444.60840696
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.24989300  0.25055200  0.12965700  1
+  Ca  Ca1  1  0.24930900  0.25012600  0.62969500  1
+  Ca  Ca2  1  0.75006800  0.74966500  0.37024700  1
+  Ca  Ca3  1  0.75092100  0.74982300  0.87022500  1
+  Mn  Mn4  1  0.74928900  0.25029900  0.50022400  1
+  Mn  Mn5  1  0.24923300  0.74901100  0.99989900  1
+  Mn  Mn6  1  0.75068600  0.24940600  0.99994100  1
+  Mn  Mn7  1  0.25091200  0.75083700  0.50003000  1
+  Bi  Bi8  1  0.75018900  0.23308400  0.25019500  1
+  Bi  Bi9  1  0.73264500  0.25021700  0.74955100  1
+  Bi  Bi10  1  0.24962100  0.76690500  0.24966600  1
+  Bi  Bi11  1  0.26721100  0.74974900  0.75033200  1
+  Bi  Bi12  1  0.24971800  0.25064800  0.42154100  1
+  Bi  Bi13  1  0.24967800  0.24954500  0.92126900  1
+  Bi  Bi14  1  0.74981100  0.74993100  0.07861100  1
+  Bi  Bi15  1  0.75081700  0.75020000  0.57891800  1

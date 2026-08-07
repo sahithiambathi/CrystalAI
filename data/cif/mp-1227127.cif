@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaMgCd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09932445
+_cell_length_b   6.09932445
+_cell_length_c   9.64329205
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.24960412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgCd
+_chemical_formula_sum   'Ca4 Mg4 Cd4'
+_cell_volume   313.00690653
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.66855265  0.33144735  0.31569310  1
+  Ca  Ca1  1  0.33550359  0.66449641  0.19599922  1
+  Ca  Ca2  1  0.33550359  0.66449641  0.80400078  1
+  Ca  Ca3  1  0.66855265  0.33144735  0.68430690  1
+  Mg  Mg4  1  0.16347067  0.83652933  0.50000000  1
+  Mg  Mg5  1  0.33472933  0.16497297  -0.00000000  1
+  Mg  Mg6  1  0.83502703  0.66527067  -0.00000000  1
+  Mg  Mg7  1  0.83270539  0.16729461  -0.00000000  1
+  Cd  Cd8  1  0.00114301  0.99885699  0.24911357  1
+  Cd  Cd9  1  0.00114301  0.99885699  0.75088643  1
+  Cd  Cd10  1  0.65606166  0.83233659  0.50000000  1
+  Cd  Cd11  1  0.16766341  0.34393834  0.50000000  1

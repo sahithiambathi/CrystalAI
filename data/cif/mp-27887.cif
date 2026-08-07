@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba3(Si2P3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35616574
+_cell_length_b   7.56463277
+_cell_length_c   11.62388855
+_cell_angle_alpha   80.65469571
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3(Si2P3)2
+_chemical_formula_sum   'Ba6 Si8 P12'
+_cell_volume   638.24596913
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75000000  0.50171649  0.49365087  1
+  Ba  Ba1  1  0.25000000  0.49828351  0.50634913  1
+  Ba  Ba2  1  0.75000000  0.91203032  0.85274507  1
+  Ba  Ba3  1  0.25000000  0.08796968  0.14725493  1
+  Ba  Ba4  1  0.75000000  0.40818294  0.86329207  1
+  Ba  Ba5  1  0.25000000  0.59181706  0.13670793  1
+  Si  Si6  1  0.42133256  0.97725822  0.58997459  1
+  Si  Si7  1  0.92133256  0.02274178  0.41002541  1
+  Si  Si8  1  0.57866744  0.02274178  0.41002541  1
+  Si  Si9  1  0.07866744  0.97725822  0.58997459  1
+  Si  Si10  1  0.75000000  0.32549327  0.20345442  1
+  Si  Si11  1  0.25000000  0.17699421  0.79658918  1
+  Si  Si12  1  0.25000000  0.67450673  0.79654558  1
+  Si  Si13  1  0.75000000  0.82300579  0.20341082  1
+  P  P14  1  0.00321744  0.20521822  0.68203136  1
+  P  P15  1  0.50321744  0.79478178  0.31796864  1
+  P  P16  1  0.25000000  0.39699252  0.91109090  1
+  P  P17  1  0.75000000  0.60300748  0.08890910  1
+  P  P18  1  0.25000000  0.89715366  0.91213453  1
+  P  P19  1  0.75000000  0.10284634  0.08786547  1
+  P  P20  1  0.49697763  0.70355234  0.68206882  1
+  P  P21  1  -0.00302237  0.29644766  0.31793118  1
+  P  P22  1  0.50302237  0.29644766  0.31793118  1
+  P  P23  1  0.00302237  0.70355234  0.68206882  1
+  P  P24  1  0.49678256  0.20521822  0.68203136  1
+  P  P25  1  -0.00321744  0.79478178  0.31796864  1

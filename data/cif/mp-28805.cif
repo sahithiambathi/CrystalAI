@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Tl2Pt5S6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01398207
+_cell_length_b   7.01098077
+_cell_length_c   12.40200921
+_cell_angle_alpha   63.73814361
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Pt5S6
+_chemical_formula_sum   'Tl4 Pt10 S12'
+_cell_volume   546.91769057
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.21181281  0.66274722  0.45407066  1
+  Tl  Tl1  1  0.71181281  0.33725278  0.04592934  1
+  Tl  Tl2  1  0.78818719  0.33725278  0.54592934  1
+  Tl  Tl3  1  0.28818719  0.66274722  0.95407066  1
+  Pt  Pt4  1  0.68855097  0.49938504  0.24522687  1
+  Pt  Pt5  1  0.18855097  0.50061496  0.25477313  1
+  Pt  Pt6  1  0.92864901  0.99953694  0.26772720  1
+  Pt  Pt7  1  0.42864901  0.00046306  0.23227280  1
+  Pt  Pt8  1  0.07135099  0.00046306  0.73227280  1
+  Pt  Pt9  1  0.57135099  0.99953694  0.76772720  1
+  Pt  Pt10  1  -0.00000000  0.00000000  -0.00000000  1
+  Pt  Pt11  1  0.50000000  0.00000000  0.50000000  1
+  Pt  Pt12  1  0.31144903  0.50061496  0.75477313  1
+  Pt  Pt13  1  0.81144903  0.49938504  0.74522687  1
+  S  S14  1  0.15852110  0.15395267  0.11210162  1
+  S  S15  1  0.65852110  0.84604733  0.38789838  1
+  S  S16  1  0.84147890  0.84604733  0.88789838  1
+  S  S17  1  0.34147890  0.15395267  0.61210162  1
+  S  S18  1  0.06479699  0.25755005  0.80677633  1
+  S  S19  1  0.56479699  0.74244995  0.69322367  1
+  S  S20  1  0.94189450  0.25638907  0.33590285  1
+  S  S21  1  0.44189450  0.74361093  0.16409715  1
+  S  S22  1  0.05810550  0.74361093  0.66409715  1
+  S  S23  1  0.55810550  0.25638907  0.83590285  1
+  S  S24  1  0.43520301  0.25755005  0.30677633  1
+  S  S25  1  0.93520301  0.74244995  0.19322367  1

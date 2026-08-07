@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_BaSrN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.68418646
+_cell_length_b   7.68418646
+_cell_length_c   7.68418671
+_cell_angle_alpha   29.70629365
+_cell_angle_beta   29.70629365
+_cell_angle_gamma   29.70628909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrN
+_chemical_formula_sum   'Ba1 Sr1 N1'
+_cell_volume   98.65392763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.73326878  0.73326878  0.73326878  1
+  Sr  Sr1  1  0.26915145  0.26915145  0.26915145  1
+  N  N2  1  0.99757978  0.99757978  0.99757978  1

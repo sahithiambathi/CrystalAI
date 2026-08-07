@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HfFeCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28209780
+_cell_length_b   6.28209780
+_cell_length_c   12.16128260
+_cell_angle_alpha   90.18455618
+_cell_angle_beta   90.18455618
+_cell_angle_gamma   120.10016804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfFeCl6
+_chemical_formula_sum   'Hf2 Fe2 Cl12'
+_cell_volume   415.21316368
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33596514  0.66403486  0.25000000  1
+  Hf  Hf1  1  0.66403966  0.33596034  0.75000000  1
+  Fe  Fe2  1  -0.00002350  0.00002350  0.25000000  1
+  Fe  Fe3  1  0.00002800  -0.00002800  0.75000000  1
+  Cl  Cl4  1  0.66522185  0.97696385  0.13545316  1
+  Cl  Cl5  1  0.02505950  0.68921469  0.13558192  1
+  Cl  Cl6  1  0.31063080  0.33842289  0.13227791  1
+  Cl  Cl7  1  0.02303615  0.33477815  0.36454684  1
+  Cl  Cl8  1  0.33842208  0.31066669  0.63229563  1
+  Cl  Cl9  1  0.68918323  0.02502867  0.63558535  1
+  Cl  Cl10  1  0.97698359  0.66521357  0.63545367  1
+  Cl  Cl11  1  0.68933331  0.66157792  0.86770437  1
+  Cl  Cl12  1  0.97497133  0.31081677  0.86441465  1
+  Cl  Cl13  1  0.33478643  0.02301641  0.86454633  1
+  Cl  Cl14  1  0.66157711  0.68936920  0.36772209  1
+  Cl  Cl15  1  0.31078531  0.97494050  0.36441808  1

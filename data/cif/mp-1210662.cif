@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu4CdNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.27282386
+_cell_length_b   9.27281059
+_cell_length_c   9.27278417
+_cell_angle_alpha   60.00135540
+_cell_angle_beta   60.00138676
+_cell_angle_gamma   60.00145279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4CdNi
+_chemical_formula_sum   'Lu16 Cd4 Ni4'
+_cell_volume   563.80941075
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.34838709  0.34837065  0.34841789  1
+  Lu  Lu1  1  0.34840994  0.34839510  0.95479921  1
+  Lu  Lu2  1  0.34838477  0.95482105  0.34842022  1
+  Lu  Lu3  1  0.95480477  0.34838514  0.34842633  1
+  Lu  Lu4  1  0.81157397  0.18842755  0.18840915  1
+  Lu  Lu5  1  0.18841071  0.81162842  0.81155514  1
+  Lu  Lu6  1  0.18843277  0.81157754  0.18842095  1
+  Lu  Lu7  1  0.81162461  0.18840951  0.81156742  1
+  Lu  Lu8  1  0.18840421  0.18840925  0.81156117  1
+  Lu  Lu9  1  0.81156572  0.81159102  0.18841841  1
+  Lu  Lu10  1  0.93726803  0.56273676  0.56273742  1
+  Lu  Lu11  1  0.56273614  0.93724129  0.93728798  1
+  Lu  Lu12  1  0.56273748  0.93725439  0.56274010  1
+  Lu  Lu13  1  0.93725161  0.56273769  0.93727722  1
+  Lu  Lu14  1  0.56273993  0.56273637  0.93728090  1
+  Lu  Lu15  1  0.93727275  0.93725855  0.56273471  1
+  Cd  Cd16  1  0.58101877  0.58101653  0.58102837  1
+  Cd  Cd17  1  0.58103270  0.58102580  0.25689572  1
+  Cd  Cd18  1  0.58101821  0.25693913  0.58102138  1
+  Cd  Cd19  1  0.25692692  0.58101581  0.58102607  1
+  Ni  Ni20  1  0.14242031  0.14242365  0.14242282  1
+  Ni  Ni21  1  0.14242161  0.14242541  0.57272255  1
+  Ni  Ni22  1  0.14241060  0.57275180  0.14241619  1
+  Ni  Ni23  1  0.57274338  0.14241857  0.14241370  1

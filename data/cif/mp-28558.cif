@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_RbGeBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62829121
+_cell_length_b   8.26688561
+_cell_length_c   11.30344188
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbGeBr3
+_chemical_formula_sum   'Rb4 Ge4 Br12'
+_cell_volume   712.82003497
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.96652112  0.41363798  0.25031292  1
+  Rb  Rb1  1  0.46652112  0.08636202  0.75031292  1
+  Rb  Rb2  1  0.53347888  0.91363798  0.25031292  1
+  Rb  Rb3  1  0.03347888  0.58636202  0.75031292  1
+  Ge  Ge4  1  0.48246269  0.46595052  0.47950345  1
+  Ge  Ge5  1  0.51753731  0.53404948  0.97950345  1
+  Ge  Ge6  1  0.01753731  0.96595052  0.47950345  1
+  Ge  Ge7  1  0.98246269  0.03404948  0.97950345  1
+  Br  Br8  1  0.32940000  0.78822076  0.96060993  1
+  Br  Br9  1  0.17060000  0.28822076  0.96060993  1
+  Br  Br10  1  0.82940000  0.71177924  0.46060993  1
+  Br  Br11  1  0.29715973  0.81780084  0.53360150  1
+  Br  Br12  1  0.20284027  0.31780084  0.53360150  1
+  Br  Br13  1  0.79716073  0.68219916  0.03360150  1
+  Br  Br14  1  0.42037875  0.49397995  0.26077320  1
+  Br  Br15  1  0.70283927  0.18219916  0.03360150  1
+  Br  Br16  1  0.92037875  0.00602005  0.76077320  1
+  Br  Br17  1  0.57962125  0.50602005  0.76077320  1
+  Br  Br18  1  0.07962125  0.99397995  0.26077320  1
+  Br  Br19  1  0.67060000  0.21177924  0.46060993  1

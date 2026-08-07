@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5Mn8O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.29077540
+_cell_length_b   3.29077540
+_cell_length_c   34.55198299
+_cell_angle_alpha   92.72949424
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5Mn8O13
+_chemical_formula_sum   'Ca5 Mn8 O13'
+_cell_volume   323.55083462
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.46102539  0.92205178  0.38307718  1
+  Ca  Ca1  1  0.53729659  0.07459219  0.61188878  1
+  Ca  Ca2  1  0.92178993  0.84357986  0.76536979  1
+  Ca  Ca3  1  0.31001569  0.62003139  0.93004808  1
+  Ca  Ca4  1  0.61587165  0.23174430  0.84761595  1
+  Mn  Mn5  1  0.00242493  0.00484987  0.00727480  1
+  Mn  Mn6  1  0.69364836  0.38729573  0.08094409  1
+  Mn  Mn7  1  0.38501211  0.77002422  0.15503632  1
+  Mn  Mn8  1  0.07652179  0.15304357  0.22956436  1
+  Mn  Mn9  1  0.76814087  0.53628275  0.30442362  1
+  Mn  Mn10  1  0.15374954  0.30749908  0.46124862  1
+  Mn  Mn11  1  0.84495818  0.68991537  0.53487355  1
+  Mn  Mn12  1  0.22955561  0.45911122  0.68866682  1
+  O  O13  1  0.34797993  0.69596086  0.04394080  1
+  O  O14  1  0.03926194  0.07852387  0.11778581  1
+  O  O15  1  0.73070913  0.46141926  0.19212839  1
+  O  O16  1  0.42229312  0.84458623  0.26687935  1
+  O  O17  1  0.11393237  0.22786474  0.34179811  1
+  O  O18  1  0.80804935  0.61609871  0.42414806  1
+  O  O19  1  0.19055693  0.38111387  0.57167080  1
+  O  O20  1  0.49941902  0.99883805  0.49825607  1
+  O  O21  1  0.88415235  0.76830369  0.65245604  1
+  O  O22  1  0.57505586  0.15011173  0.72516759  1
+  O  O23  1  0.26884736  0.53769372  0.80654108  1
+  O  O24  1  0.96290970  0.92582040  0.88873010  1
+  O  O25  1  0.65682227  0.31364354  0.97046581  1

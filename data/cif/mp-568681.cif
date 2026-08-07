@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg8BPt4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.65863784
+_cell_length_b   8.65863790
+_cell_length_c   8.65863879
+_cell_angle_alpha   60.00023746
+_cell_angle_beta   60.00023732
+_cell_angle_gamma   60.00023170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg8BPt4
+_chemical_formula_sum   'Mg16 B2 Pt8'
+_cell_volume   459.02474351
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.44997978  0.05002111  0.05002116  1
+  Mg  Mg1  1  0.44997985  0.44997980  0.05001997  1
+  Mg  Mg2  1  0.19998014  0.80002018  0.80002017  1
+  Mg  Mg3  1  0.62499997  0.12500008  0.62499997  1
+  Mg  Mg4  1  0.19997892  0.80002023  0.19997883  1
+  Mg  Mg5  1  0.80002015  0.80002016  0.19998021  1
+  Mg  Mg6  1  0.80002020  0.19997889  0.19997890  1
+  Mg  Mg7  1  0.05002114  0.44997974  0.05002112  1
+  Mg  Mg8  1  0.62499996  0.62499999  0.12500004  1
+  Mg  Mg9  1  0.44997981  0.05001987  0.44997982  1
+  Mg  Mg10  1  0.05002105  0.05002126  0.44997975  1
+  Mg  Mg11  1  0.80002017  0.19998010  0.80002014  1
+  Mg  Mg12  1  0.62499997  0.62499998  0.62499999  1
+  Mg  Mg13  1  0.19997882  0.19997897  0.80002021  1
+  Mg  Mg14  1  0.12500004  0.62499997  0.62500000  1
+  Mg  Mg15  1  0.05001990  0.44997979  0.44997983  1
+  B  B16  1  0.75000020  0.75000020  0.75000019  1
+  B  B17  1  0.49999981  0.49999979  0.49999980  1
+  Pt  Pt18  1  0.40078428  0.79764715  0.40078416  1
+  Pt  Pt19  1  0.40078418  0.40078415  0.40078411  1
+  Pt  Pt20  1  0.79764717  0.40078416  0.40078424  1
+  Pt  Pt21  1  0.45235278  0.84921576  0.84921585  1
+  Pt  Pt22  1  0.84921586  0.45235278  0.84921580  1
+  Pt  Pt23  1  0.84921577  0.84921584  0.45235276  1
+  Pt  Pt24  1  0.84921583  0.84921587  0.84921588  1
+  Pt  Pt25  1  0.40078424  0.40078418  0.79764712  1

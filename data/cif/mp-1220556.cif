@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NbBr3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93851640
+_cell_length_b   11.93692868
+_cell_length_c   11.94580251
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.53614677
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbBr3O
+_chemical_formula_sum   'Nb4 Br12 O4'
+_cell_volume   561.59285379
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.44723941  0.37704323  0.62305488  1
+  Nb  Nb1  1  0.94723941  0.12295677  0.12305488  1
+  Nb  Nb2  1  0.55276059  0.62295677  0.37694512  1
+  Nb  Nb3  1  0.05276059  0.87704323  0.87694512  1
+  Br  Br4  1  0.50266289  0.39858976  0.82633464  1
+  Br  Br5  1  0.49733711  0.60141024  0.17366536  1
+  Br  Br6  1  0.00266289  0.10141024  0.32633464  1
+  Br  Br7  1  0.99733711  0.89858976  0.67366536  1
+  Br  Br8  1  0.50151349  0.82632885  0.39835055  1
+  Br  Br9  1  0.49848651  0.17367115  0.60164945  1
+  Br  Br10  1  0.99848651  0.32632885  0.10164945  1
+  Br  Br11  1  0.00151349  0.67367115  0.89835055  1
+  Br  Br12  1  0.50323688  0.60317328  0.60304839  1
+  Br  Br13  1  0.49676312  0.39682672  0.39695161  1
+  Br  Br14  1  0.00323688  0.89682672  0.10304839  1
+  Br  Br15  1  0.99676312  0.10317328  0.89695161  1
+  O  O16  1  0.98897489  0.38601471  0.61390382  1
+  O  O17  1  0.01102511  0.61398529  0.38609618  1
+  O  O18  1  0.48897489  0.11398529  0.11390382  1
+  O  O19  1  0.51102511  0.88601471  0.88609618  1

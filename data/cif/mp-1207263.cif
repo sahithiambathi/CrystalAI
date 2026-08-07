@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Zr6FeSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52530895
+_cell_length_b   7.97809591
+_cell_length_c   7.97855887
+_cell_angle_alpha   120.00077343
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6FeSn2
+_chemical_formula_sum   'Zr6 Fe1 Sn2'
+_cell_volume   194.33370819
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.75654004  0.75656693  1
+  Zr  Zr1  1  0.50000000  0.00000292  0.24341354  1
+  Zr  Zr2  1  0.50000000  0.24346007  0.00003135  1
+  Zr  Zr3  1  -0.00000000  0.39353604  0.39352505  1
+  Zr  Zr4  1  -0.00000000  0.99999947  0.60643138  1
+  Zr  Zr5  1  -0.00000000  0.60648849  -0.00001579  1
+  Fe  Fe6  1  0.00000000  0.99998103  0.00005965  1
+  Sn  Sn7  1  0.50000000  0.66664161  0.33330965  1
+  Sn  Sn8  1  0.50000000  0.33334932  0.66667724  1

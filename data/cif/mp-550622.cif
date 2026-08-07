@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_V2CdO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60032632
+_cell_length_b   5.25199263
+_cell_length_c   7.09146794
+_cell_angle_alpha   102.30812239
+_cell_angle_beta   90.02430018
+_cell_angle_gamma   110.01026224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2CdO6
+_chemical_formula_sum   'V2 Cd1 O6'
+_cell_volume   122.70708605
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.23313969  0.46574363  0.67292113  1
+  V  V1  1  0.76686604  0.53427134  0.32706156  1
+  Cd  Cd2  1  -0.00000705  0.00000194  -0.00000120  1
+  O  O3  1  0.08077331  0.16046646  0.72937274  1
+  O  O4  1  0.24884288  0.49798015  0.39698585  1
+  O  O5  1  0.75116814  0.50202507  0.60301128  1
+  O  O6  1  0.35903643  0.71804106  0.87937842  1
+  O  O7  1  0.64096859  0.28197217  0.12063764  1
+  O  O8  1  0.91921298  0.83949817  0.27063357  1

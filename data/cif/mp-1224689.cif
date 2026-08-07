@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GdErCo4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05733347
+_cell_length_b   5.05720213
+_cell_length_c   5.05728867
+_cell_angle_alpha   59.99912169
+_cell_angle_beta   59.99858378
+_cell_angle_gamma   60.00208437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdErCo4
+_chemical_formula_sum   'Gd1 Er1 Co4'
+_cell_volume   91.46058153
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.49998046  0.50000038  0.50003487  1
+  Er  Er1  1  0.24999516  0.24999742  0.24998350  1
+  Co  Co2  1  0.87520285  0.37441784  0.87518885  1
+  Co  Co3  1  0.87519358  0.87519220  0.87518875  1
+  Co  Co4  1  0.87520935  0.87519357  0.37440528  1
+  Co  Co5  1  0.37441660  0.87519759  0.87519775  1

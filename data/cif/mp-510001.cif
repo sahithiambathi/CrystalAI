@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca2Ni7P4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66932335
+_cell_length_b   9.12472337
+_cell_length_c   10.30836067
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ni7P4
+_chemical_formula_sum   'Ca4 Ni14 P8'
+_cell_volume   345.14000167
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  -0.00000000  0.06107692  0.39435534  1
+  Ca  Ca1  1  0.50000000  0.93892308  0.89435534  1
+  Ca  Ca2  1  -0.00000000  0.43807880  0.17861110  1
+  Ca  Ca3  1  0.50000000  0.56192120  0.67861110  1
+  Ni  Ni4  1  0.00000000  0.06098816  0.70076396  1
+  Ni  Ni5  1  0.50000000  0.93901184  0.20076396  1
+  Ni  Ni6  1  -0.00000000  0.72892503  0.50745495  1
+  Ni  Ni7  1  0.50000000  0.27107497  0.00745495  1
+  Ni  Ni8  1  0.00000000  0.09389365  0.09456025  1
+  Ni  Ni9  1  0.50000000  0.90610635  0.59456025  1
+  Ni  Ni10  1  -0.00000000  0.74744831  0.27361101  1
+  Ni  Ni11  1  0.50000000  0.25255169  0.77361101  1
+  Ni  Ni12  1  0.00000000  0.30447659  0.60012986  1
+  Ni  Ni13  1  0.50000000  0.69552341  0.10012986  1
+  Ni  Ni14  1  0.00000000  0.68400973  0.91472822  1
+  Ni  Ni15  1  0.50000000  0.31599027  0.41472822  1
+  Ni  Ni16  1  -0.00000000  0.41570084  0.87410338  1
+  Ni  Ni17  1  0.50000000  0.58429916  0.37410338  1
+  P  P18  1  0.00000000  0.18139815  0.89169923  1
+  P  P19  1  0.50000000  0.81860185  0.39169923  1
+  P  P20  1  0.00000000  0.84231810  0.08432710  1
+  P  P21  1  0.50000000  0.15768190  0.58432710  1
+  P  P22  1  0.00000000  0.81393773  0.71027200  1
+  P  P23  1  0.50000000  0.18606227  0.21027200  1
+  P  P24  1  -0.00000000  0.47847006  0.45948160  1
+  P  P25  1  0.50000000  0.52152994  0.95948160  1

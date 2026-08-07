@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Mg(CoO2)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.85030170
+_cell_length_b   2.84649431
+_cell_length_c   39.96655606
+_cell_angle_alpha   88.02875680
+_cell_angle_beta   85.06255916
+_cell_angle_gamma   120.07676101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(CoO2)8
+_chemical_formula_sum   'Mg1 Co8 O16'
+_cell_volume   278.42886653
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.68849800  0.82845500  0.68813300  1
+  Co  Co1  1  0.97460200  0.99901700  0.00013700  1
+  Co  Co2  1  0.82335000  0.92091000  0.62411700  1
+  Co  Co3  1  0.62829100  0.99583700  0.87513900  1
+  Co  Co4  1  0.75012900  0.00976400  0.24992700  1
+  Co  Co5  1  0.49357900  0.99570200  0.49986400  1
+  Co  Co6  1  0.22863500  0.07253700  0.75019600  1
+  Co  Co7  1  0.38574000  0.00951300  0.12521900  1
+  Co  Co8  1  0.15068600  0.99892800  0.37491600  1
+  O  O9  1  0.78109200  0.62772100  0.52354800  1
+  O  O10  1  0.76488800  0.71119600  0.10152500  1
+  O  O11  1  0.51729800  0.70595500  0.77310400  1
+  O  O12  1  0.95868900  0.45131300  0.71889600  1
+  O  O13  1  0.68707100  0.36701100  0.97645100  1
+  O  O14  1  0.52971400  0.70060000  0.35123000  1
+  O  O15  1  0.77156400  0.29725800  0.39860800  1
+  O  O16  1  0.20134200  0.62102400  0.60127600  1
+  O  O17  1  0.42369400  0.20854500  0.65616000  1
+  O  O18  1  0.00732600  0.69754100  0.85144500  1
+  O  O19  1  0.26216400  0.63099800  0.02383400  1
+  O  O20  1  0.46261000  0.37779900  0.22623300  1
+  O  O21  1  0.03769200  0.64175900  0.27361300  1
+  O  O22  1  0.24914200  0.29413100  0.89884100  1
+  O  O23  1  0.20609300  0.36370200  0.47617800  1
+  O  O24  1  0.00655600  0.30784100  0.14890700  1

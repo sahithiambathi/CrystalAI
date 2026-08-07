@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3Zn3C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13845115
+_cell_length_b   8.13844744
+_cell_length_c   8.13844691
+_cell_angle_alpha   60.00071189
+_cell_angle_beta   60.00067956
+_cell_angle_gamma   60.00080082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Zn3C
+_chemical_formula_sum   'Ti12 Zn12 C4'
+_cell_volume   381.16854623
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.93323880  0.93323067  0.56677467  1
+  Ti  Ti1  1  0.56677199  0.93323777  0.56676069  1
+  Ti  Ti2  1  0.93324330  0.56676521  0.56676493  1
+  Ti  Ti3  1  0.56677366  0.56676009  0.93323637  1
+  Ti  Ti4  1  0.93324260  0.56677205  0.93323188  1
+  Ti  Ti5  1  0.56677891  0.93323801  0.93323608  1
+  Ti  Ti6  1  0.31676986  0.31677146  0.68323506  1
+  Ti  Ti7  1  0.68323936  0.31676851  0.68323196  1
+  Ti  Ti8  1  0.31677191  0.68323073  0.68323369  1
+  Ti  Ti9  1  0.68324206  0.68323133  0.31676879  1
+  Ti  Ti10  1  0.31676943  0.68323300  0.31677337  1
+  Ti  Ti11  1  0.68324089  0.31676766  0.31677038  1
+  Zn  Zn12  1  0.33389721  0.33389238  0.99833091  1
+  Zn  Zn13  1  0.33389753  0.99833354  0.33389057  1
+  Zn  Zn14  1  0.99830059  0.33390429  0.33390383  1
+  Zn  Zn15  1  0.33387367  0.33386797  0.33386601  1
+  Zn  Zn16  1  0.91612392  0.91612340  0.25163131  1
+  Zn  Zn17  1  0.91612600  0.25163747  0.91611957  1
+  Zn  Zn18  1  0.25160125  0.91613249  0.91613499  1
+  Zn  Zn19  1  0.91611202  0.91610557  0.91610726  1
+  Zn  Zn20  1  0.12495507  0.12499427  0.62499946  1
+  Zn  Zn21  1  0.12495843  0.62499782  0.12499320  1
+  Zn  Zn22  1  0.62502151  0.12497833  0.12496968  1
+  Zn  Zn23  1  0.12498488  0.12502397  0.12502397  1
+  C  C24  1  0.62502967  0.62499725  0.12501894  1
+  C  C25  1  0.62502177  0.12502163  0.62499953  1
+  C  C26  1  0.12500616  0.62500628  0.62501566  1
+  C  C27  1  0.62500854  0.62497786  0.62497723  1

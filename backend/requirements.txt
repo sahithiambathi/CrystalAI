@@ -1,0 +1,7 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+python-multipart==0.0.20
+mp-api>=0.45,<1.0
+pymatgen==2026.3.23
+numpy>=2.2,<2.5
+torch>=2.6,<3.0

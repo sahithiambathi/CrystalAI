@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbAlCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22639451
+_cell_length_b   5.22638165
+_cell_length_c   8.53363445
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.29897863
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAlCo
+_chemical_formula_sum   'Yb4 Al4 Co4'
+_cell_volume   202.47364913
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.33392968  0.33390999  0.55720253  1
+  Yb  Yb1  1  0.66973342  0.66973807  0.42640927  1
+  Yb  Yb2  1  0.66973342  0.66973807  0.07359073  1
+  Yb  Yb3  1  0.33392968  0.33390999  0.94279747  1
+  Al  Al4  1  0.99451189  0.99452531  0.49179286  1
+  Al  Al5  1  0.99451189  0.99452531  0.00820714  1
+  Al  Al6  1  0.83437845  0.34240150  0.75000000  1
+  Al  Al7  1  0.34237356  0.83439429  0.75000000  1
+  Co  Co8  1  0.83435777  0.83437575  0.75000000  1
+  Co  Co9  1  0.17554410  0.64445002  0.25000000  1
+  Co  Co10  1  0.64445978  0.17552229  0.25000000  1
+  Co  Co11  1  0.17253636  0.17251041  0.25000000  1

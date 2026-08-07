@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZrTi3As2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75991036
+_cell_length_b   7.75991036
+_cell_length_c   7.75991036
+_cell_angle_alpha   152.20683323
+_cell_angle_beta   152.20683323
+_cell_angle_gamma   39.71133393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTi3As2
+_chemical_formula_sum   'Zr1 Ti3 As2'
+_cell_volume   101.40296140
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.68132483  0.68132483  -0.00000000  1
+  Ti  Ti1  1  0.99820709  0.49820709  0.50000000  1
+  Ti  Ti2  1  0.49820709  0.99820709  0.50000000  1
+  Ti  Ti3  1  0.32271144  0.32271144  0.00000000  1
+  As  As4  1  0.86716773  0.86716773  0.00000000  1
+  As  As5  1  0.13238282  0.13238282  -0.00000000  1

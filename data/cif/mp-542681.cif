@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na3In2Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.64747465
+_cell_length_b   9.64743946
+_cell_length_c   9.64745236
+_cell_angle_alpha   60.02176845
+_cell_angle_beta   60.02188275
+_cell_angle_gamma   60.02183718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3In2Ag
+_chemical_formula_sum   'Na12 In8 Ag4'
+_cell_volume   635.24055263
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.04475261  0.45515348  0.04475454  1
+  Na  Na1  1  0.79484623  0.20524831  0.20524926  1
+  Na  Na2  1  0.20528190  0.79471038  0.79471426  1
+  Na  Na3  1  0.79471138  0.20528495  0.79471019  1
+  Na  Na4  1  0.20524640  0.20524938  0.79484657  1
+  Na  Na5  1  0.79471412  0.79470871  0.20528481  1
+  Na  Na6  1  0.04475140  0.04475389  0.45515242  1
+  Na  Na7  1  0.45515098  0.04475361  0.04475301  1
+  Na  Na8  1  0.04471470  0.45528784  0.45528381  1
+  Na  Na9  1  0.45528211  0.45528814  0.04471626  1
+  Na  Na10  1  0.20524521  0.79484535  0.20524923  1
+  Na  Na11  1  0.45528490  0.04471595  0.45528673  1
+  In  In12  1  0.83228224  0.83227876  0.83228069  1
+  In  In13  1  0.74696910  0.41770492  0.41770397  1
+  In  In14  1  0.41770298  0.74696674  0.41770549  1
+  In  In15  1  0.41770265  0.41770554  0.74696941  1
+  In  In16  1  0.83229414  0.50304001  0.83229176  1
+  In  In17  1  0.83229557  0.83229191  0.50303694  1
+  In  In18  1  0.50304330  0.83229074  0.83229213  1
+  In  In19  1  0.41771684  0.41772145  0.41771921  1
+  Ag  Ag20  1  0.62500103  0.62499387  0.62499423  1
+  Ag  Ag21  1  0.12500208  0.62500167  0.62500055  1
+  Ag  Ag22  1  0.62500428  0.12500672  0.62499756  1
+  Ag  Ag23  1  0.62500384  0.62499767  0.12500696  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Th2Co17
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28847943
+_cell_length_b   6.28856340
+_cell_length_c   6.28845747
+_cell_angle_alpha   83.00292741
+_cell_angle_beta   83.00267928
+_cell_angle_gamma   83.00294905
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2Co17
+_chemical_formula_sum   'Th2 Co17'
+_cell_volume   243.54101324
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.65581593  0.65583167  0.65581290  1
+  Th  Th1  1  0.34417778  0.34419127  0.34417802  1
+  Co  Co2  1  0.34437221  0.34438839  0.85158439  1
+  Co  Co3  1  0.34437380  0.85160398  0.34438699  1
+  Co  Co4  1  0.09544085  0.09541372  0.09540477  1
+  Co  Co5  1  0.90460086  0.90457242  0.90456184  1
+  Co  Co6  1  -0.00000437  -0.00001872  0.50002631  1
+  Co  Co7  1  0.49997490  -0.00000786  0.00000990  1
+  Co  Co8  1  0.00000280  0.50001171  0.00001162  1
+  Co  Co9  1  0.28057141  0.71941915  -0.00000419  1
+  Co  Co10  1  0.00000644  0.28058638  0.71941723  1
+  Co  Co11  1  0.71941492  -0.00001191  0.28059052  1
+  Co  Co12  1  0.71941498  0.28057593  -0.00000708  1
+  Co  Co13  1  0.00000877  0.71942575  0.28058286  1
+  Co  Co14  1  0.28058454  -0.00001607  0.71942676  1
+  Co  Co15  1  0.65560816  0.14839113  0.65561490  1
+  Co  Co16  1  0.65561500  0.65563235  0.14838470  1
+  Co  Co17  1  0.14840769  0.65562530  0.65562326  1
+  Co  Co18  1  0.85161434  0.34438543  0.34439430  1

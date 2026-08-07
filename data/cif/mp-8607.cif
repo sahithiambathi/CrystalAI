@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Na(Cu2Sb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78053099
+_cell_length_b   8.78053099
+_cell_length_c   8.78053135
+_cell_angle_alpha   27.93169004
+_cell_angle_beta   27.93169004
+_cell_angle_gamma   27.93168680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(Cu2Sb)2
+_chemical_formula_sum   'Na1 Cu4 Sb2'
+_cell_volume   131.18040258
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  -0.00000000  1
+  Cu  Cu1  1  0.14330156  0.14330156  0.14330156  1
+  Cu  Cu2  1  0.85669844  0.85669844  0.85669844  1
+  Cu  Cu3  1  0.45017114  0.45017114  0.45017114  1
+  Cu  Cu4  1  0.54982886  0.54982886  0.54982886  1
+  Sb  Sb5  1  0.24865233  0.24865233  0.24865233  1
+  Sb  Sb6  1  0.75134767  0.75134767  0.75134767  1

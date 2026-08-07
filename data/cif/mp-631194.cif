@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La3Ga4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13036509
+_cell_length_b   8.13036527
+_cell_length_c   8.13036550
+_cell_angle_alpha   90.87041645
+_cell_angle_beta   119.49873972
+_cell_angle_gamma   119.49874278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Ga4Cl
+_chemical_formula_sum   'La6 Ga8 Cl2'
+_cell_volume   382.85910660
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.82117249  0.16058625  0.66058625  1
+  La  La1  1  0.50000000  0.66058625  0.83941375  1
+  La  La2  1  0.50000000  0.33941375  0.16058625  1
+  La  La3  1  -0.00000000  0.25000000  0.25000000  1
+  La  La4  1  0.17882751  0.83941375  0.33941375  1
+  La  La5  1  -0.00000000  0.75000000  0.75000000  1
+  Ga  Ga6  1  0.78500359  0.44266517  0.94266517  1
+  Ga  Ga7  1  0.50000000  0.34233843  0.55733483  1
+  Ga  Ga8  1  0.78500359  0.84233843  0.34233843  1
+  Ga  Ga9  1  0.50000000  0.94266517  0.15766157  1
+  Ga  Ga10  1  0.50000000  0.05733483  0.84233843  1
+  Ga  Ga11  1  0.21499641  0.55733483  0.05733483  1
+  Ga  Ga12  1  0.50000000  0.65766157  0.44266517  1
+  Ga  Ga13  1  0.21499641  0.15766157  0.65766157  1
+  Cl  Cl14  1  -0.00000000  -0.00000000  -0.00000000  1
+  Cl  Cl15  1  -0.00000000  0.50000000  0.50000000  1

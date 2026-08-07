@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sr2MgH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47543795
+_cell_length_b   5.47543864
+_cell_length_c   4.18846773
+_cell_angle_alpha   90.00004552
+_cell_angle_beta   89.99999145
+_cell_angle_gamma   120.00012087
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2MgH6
+_chemical_formula_sum   'Sr2 Mg1 H6'
+_cell_volume   108.74844478
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.66666497  0.33333391  0.26353257  1
+  Sr  Sr1  1  0.33333503  0.66666609  0.73646743  1
+  Mg  Mg2  1  -0.00000000  -0.00000000  0.00000000  1
+  H  H3  1  0.82345558  0.64691889  0.76524835  1
+  H  H4  1  0.82345564  0.17654081  0.76524558  1
+  H  H5  1  0.35307898  0.17654262  0.76524624  1
+  H  H6  1  0.17654442  0.35308111  0.23475165  1
+  H  H7  1  0.17654436  0.82345919  0.23475442  1
+  H  H8  1  0.64692102  0.82345738  0.23475376  1

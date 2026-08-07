@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ce(Al2Fe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97354386
+_cell_length_b   6.69075923
+_cell_length_c   6.69064545
+_cell_angle_alpha   82.05490109
+_cell_angle_beta   68.19070997
+_cell_angle_gamma   68.19185976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(Al2Fe)4
+_chemical_formula_sum   'Ce1 Al8 Fe4'
+_cell_volume   191.91417784
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00000000  -0.00000000  0.00000000  1
+  Al  Al1  1  0.34490766  0.65501275  0.65497996  1
+  Al  Al2  1  0.00002302  0.34491180  0.65507603  1
+  Al  Al3  1  -0.00002302  0.65508820  0.34492397  1
+  Al  Al4  1  0.65509234  0.34498725  0.34502004  1
+  Al  Al5  1  0.27509120  0.22507307  0.22510348  1
+  Al  Al6  1  0.49998382  0.77503289  0.22499779  1
+  Al  Al7  1  0.50001618  0.22496711  0.77500221  1
+  Al  Al8  1  0.72490880  0.77492693  0.77489652  1
+  Fe  Fe9  1  -0.00000000  -0.00000000  0.50000000  1
+  Fe  Fe10  1  0.50000000  -0.00000000  0.50000000  1
+  Fe  Fe11  1  -0.00000000  0.50000000  0.00000000  1
+  Fe  Fe12  1  0.50000000  0.50000000  0.00000000  1

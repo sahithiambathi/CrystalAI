@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoB3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.15426580
+_cell_length_b   5.41466446
+_cell_length_c   6.81689681
+_cell_angle_alpha   78.02809308
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoB3Mo
+_chemical_formula_sum   'Ho2 B6 Mo2'
+_cell_volume   113.89539324
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25000000  0.32389475  0.70996759  1
+  Ho  Ho1  1  0.75000000  0.67610525  0.29003241  1
+  B  B2  1  0.25000000  0.91801961  0.52459777  1
+  B  B3  1  0.75000000  0.08198039  0.47540223  1
+  B  B4  1  0.25000000  0.91241474  0.00438549  1
+  B  B5  1  0.75000000  0.08758526  0.99561451  1
+  B  B6  1  0.25000000  0.58350987  0.00697088  1
+  B  B7  1  0.75000000  0.41649013  0.99302912  1
+  Mo  Mo8  1  0.25000000  0.18847921  0.21995976  1
+  Mo  Mo9  1  0.75000000  0.81152079  0.78004024  1

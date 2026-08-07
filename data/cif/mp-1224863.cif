@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_GaCo4Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60856006
+_cell_length_b   4.60855282
+_cell_length_c   4.60854509
+_cell_angle_alpha   89.47977773
+_cell_angle_beta   89.47970340
+_cell_angle_gamma   89.47980218
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaCo4Ge3
+_chemical_formula_sum   'Ga1 Co4 Ge3'
+_cell_volume   97.86790122
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.34167684  0.34167684  0.34167684  1
+  Co  Co1  1  0.64063293  0.64063393  0.64063493  1
+  Co  Co2  1  0.13271007  0.36326230  0.86207131  1
+  Co  Co3  1  0.36326230  0.86206831  0.13270907  1
+  Co  Co4  1  0.86207031  0.13270907  0.36325930  1
+  Ge  Ge5  1  0.84045214  0.65514877  0.16404764  1
+  Ge  Ge6  1  0.65514777  0.16404664  0.84045314  1
+  Ge  Ge7  1  0.16404764  0.84045314  0.65514877  1

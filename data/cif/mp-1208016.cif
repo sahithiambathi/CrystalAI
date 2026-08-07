@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tm5Ni2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54924100
+_cell_length_b   8.54924100
+_cell_length_c   8.54915513
+_cell_angle_alpha   127.82926392
+_cell_angle_beta   127.82926392
+_cell_angle_gamma   76.90713017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm5Ni2Bi
+_chemical_formula_sum   'Tm10 Ni4 Bi2'
+_cell_volume   378.43800300
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.00000000  0.00000000  0.00000000  1
+  Tm  Tm1  1  0.50000000  0.50000000  0.00000000  1
+  Tm  Tm2  1  0.78814220  0.28814220  0.81157123  1
+  Tm  Tm3  1  0.21185780  0.71185780  0.18842877  1
+  Tm  Tm4  1  0.47656005  0.97656005  0.18839140  1
+  Tm  Tm5  1  0.28814671  0.47667937  0.49999038  1
+  Tm  Tm6  1  0.02332063  0.21185329  0.50000962  1
+  Tm  Tm7  1  0.52343995  0.02343995  0.81160860  1
+  Tm  Tm8  1  0.71185329  0.52332063  0.50000962  1
+  Tm  Tm9  1  0.97667937  0.78814671  0.49999038  1
+  Ni  Ni10  1  0.13313298  0.63313298  0.76625674  1
+  Ni  Ni11  1  0.86686702  0.36686702  0.23374326  1
+  Ni  Ni12  1  0.63321138  0.86678862  0.50000000  1
+  Ni  Ni13  1  0.36678862  0.13321138  0.50000000  1
+  Bi  Bi14  1  0.24997995  0.25002005  0.00000000  1
+  Bi  Bi15  1  0.75002005  0.74997995  0.00000000  1

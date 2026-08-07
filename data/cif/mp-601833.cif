@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Fe13Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76904533
+_cell_length_b   5.76054543
+_cell_length_c   5.76590484
+_cell_angle_alpha   90.00010968
+_cell_angle_beta   89.99988564
+_cell_angle_gamma   90.00008735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe13Ge3
+_chemical_formula_sum   'Fe13 Ge3'
+_cell_volume   191.61743758
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.25436876  0.25449876  0.74558772  1
+  Fe  Fe1  1  0.25448387  0.25444886  0.25442151  1
+  Fe  Fe2  1  0.25433660  0.74549712  0.74557901  1
+  Fe  Fe3  1  0.74554042  0.74550885  0.25448241  1
+  Fe  Fe4  1  0.74550163  0.25450070  0.25447607  1
+  Fe  Fe5  1  0.49998582  -0.00001685  0.50003558  1
+  Fe  Fe6  1  0.49995818  0.50002390  0.50003169  1
+  Fe  Fe7  1  0.74561319  0.25454559  0.74553370  1
+  Fe  Fe8  1  0.25444910  0.74555160  0.25442707  1
+  Fe  Fe9  1  0.00001397  0.50000726  0.49999487  1
+  Fe  Fe10  1  0.74564842  0.74545266  0.74552360  1
+  Fe  Fe11  1  0.49999341  0.50002725  0.99998645  1
+  Fe  Fe12  1  0.00000634  0.00000814  -0.00001120  1
+  Ge  Ge13  1  0.50005346  0.99992929  0.99986620  1
+  Ge  Ge14  1  0.00003293  -0.00000231  0.49998563  1
+  Ge  Ge15  1  0.00001392  0.50002019  0.00007668  1

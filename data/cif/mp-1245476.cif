@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Sr10IrN8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.93639739
+_cell_length_b   4.86587291
+_cell_length_c   8.75519955
+_cell_angle_alpha   90.00000108
+_cell_angle_beta   64.56505923
+_cell_angle_gamma   78.23927372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr10IrN8
+_chemical_formula_sum   'Sr10 Ir1 N8'
+_cell_volume   447.37299930
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.40921765  0.79539117  0.69847694  1
+  Sr  Sr1  1  0.59078235  0.20460883  0.30152306  1
+  Sr  Sr2  1  0.05788712  0.97105644  0.78173774  1
+  Sr  Sr3  1  0.94211288  0.02894356  0.21826226  1
+  Sr  Sr4  1  0.71553822  0.64223089  0.54851087  1
+  Sr  Sr5  1  0.28446178  0.35776911  0.45148913  1
+  Sr  Sr6  1  0.80308627  0.59845687  0.94571995  1
+  Sr  Sr7  1  0.19691373  0.40154313  0.05428005  1
+  Sr  Sr8  1  0.39662525  0.80168787  0.13769560  1
+  Sr  Sr9  1  0.60337475  0.19831213  0.86230440  1
+  Ir  Ir10  1  -0.00000000  0.50000000  0.50000000  1
+  N  N11  1  0.18024133  0.90987884  0.95620472  1
+  N  N12  1  0.81975867  0.09012116  0.04379528  1
+  N  N13  1  0.38311250  0.80844375  0.43875835  1
+  N  N14  1  0.61688750  0.19155625  0.56124165  1
+  N  N15  1  0.61860237  0.69069881  0.86768485  1
+  N  N16  1  0.38139763  0.30930119  0.13231515  1
+  N  N17  1  0.96573615  0.51713192  0.31920405  1
+  N  N18  1  0.03426385  0.48286808  0.68079595  1

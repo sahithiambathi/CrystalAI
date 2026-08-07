@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs6InAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38915172
+_cell_length_b   10.60654224
+_cell_length_c   12.32187342
+_cell_angle_alpha   78.64223433
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs6InAs3
+_chemical_formula_sum   'Cs12 In2 As6'
+_cell_volume   818.66161780
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75000000  0.46325050  0.07372568  1
+  Cs  Cs1  1  0.25000000  0.53674950  0.92627432  1
+  Cs  Cs2  1  0.75000000  0.74747547  0.22255277  1
+  Cs  Cs3  1  0.25000000  0.25252453  0.77744723  1
+  Cs  Cs4  1  0.25000000  0.56176804  0.53870712  1
+  Cs  Cs5  1  0.75000000  0.43823196  0.46129288  1
+  Cs  Cs6  1  0.25000000  0.86792133  0.01791499  1
+  Cs  Cs7  1  0.75000000  0.13207867  0.98208501  1
+  Cs  Cs8  1  0.25000000  0.88254398  0.67520168  1
+  Cs  Cs9  1  0.75000000  0.11745602  0.32479832  1
+  Cs  Cs10  1  0.25000000  0.91289344  0.36381232  1
+  Cs  Cs11  1  0.75000000  0.08710656  0.63618768  1
+  In  In12  1  0.25000000  0.32737482  0.27716985  1
+  In  In13  1  0.75000000  0.67262518  0.72283015  1
+  As  As14  1  0.25000000  0.18661303  0.12091037  1
+  As  As15  1  0.75000000  0.81338697  0.87908963  1
+  As  As16  1  0.25000000  0.21080963  0.48643917  1
+  As  As17  1  0.75000000  0.78919037  0.51356083  1
+  As  As18  1  0.25000000  0.57742073  0.22728798  1
+  As  As19  1  0.75000000  0.42257927  0.77271202  1

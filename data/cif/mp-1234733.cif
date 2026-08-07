@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mg(CoN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94730521
+_cell_length_b   3.75795915
+_cell_length_c   3.51963159
+_cell_angle_alpha   100.68879904
+_cell_angle_beta   94.24938096
+_cell_angle_gamma   76.20967141
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(CoN)2
+_chemical_formula_sum   'Mg1 Co2 N2'
+_cell_volume   49.80037746
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.94847500  0.05358000  0.73437800  1
+  Co  Co1  1  0.56564000  0.71502400  0.01791300  1
+  Co  Co2  1  0.34477300  0.37649600  0.43905500  1
+  N  N3  1  0.47171000  0.87713000  0.53538500  1
+  N  N4  1  0.10112700  0.56119500  0.97666800  1

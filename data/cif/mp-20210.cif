@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ag2PbO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19365430
+_cell_length_b   6.19365430
+_cell_length_c   6.08605759
+_cell_angle_alpha   62.70234065
+_cell_angle_beta   62.70234065
+_cell_angle_gamma   91.25926155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2PbO2
+_chemical_formula_sum   'Ag4 Pb2 O4'
+_cell_volume   176.20682526
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag1  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag2  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag3  1  -0.00000000  0.50000000  0.50000000  1
+  Pb  Pb4  1  0.87984728  0.12015272  0.25000000  1
+  Pb  Pb5  1  0.12015272  0.87984728  0.75000000  1
+  O  O6  1  0.86308623  0.75309902  0.26058390  1
+  O  O7  1  0.13691377  0.24690098  0.73941610  1
+  O  O8  1  0.24690098  0.13691377  0.23941610  1
+  O  O9  1  0.75309902  0.86308623  0.76058390  1

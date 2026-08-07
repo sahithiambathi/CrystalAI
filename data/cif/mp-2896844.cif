@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CuGeI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90590164
+_cell_length_b   6.90590164
+_cell_length_c   4.05388340
+_cell_angle_alpha   90.13059003
+_cell_angle_beta   90.13059003
+_cell_angle_gamma   88.67662909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuGeI3
+_chemical_formula_sum   'Cu1 Ge1 I3'
+_cell_volume   193.28313909
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.95759927  0.95759927  0.40266519  1
+  Ge  Ge1  1  0.46317624  0.46317624  0.90127833  1
+  I  I2  1  0.65614037  0.65614037  0.40273267  1
+  I  I3  1  0.78605783  0.16102629  0.90266140  1
+  I  I4  1  0.16102629  0.78605783  0.90266140  1

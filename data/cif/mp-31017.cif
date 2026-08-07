@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ce4B2N5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38215027
+_cell_length_b   6.38215027
+_cell_length_c   8.95424928
+_cell_angle_alpha   52.35215835
+_cell_angle_beta   52.35215835
+_cell_angle_gamma   32.42634790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4B2N5
+_chemical_formula_sum   'Ce4 B2 N5'
+_cell_volume   150.90233720
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.07587002  0.07587002  0.65544295  1
+  Ce  Ce1  1  0.92412998  0.92412998  0.34455705  1
+  Ce  Ce2  1  0.68768857  0.68768857  0.88586286  1
+  Ce  Ce3  1  0.31231143  0.31231143  0.11413714  1
+  B  B4  1  0.41243538  0.41243538  0.60821960  1
+  B  B5  1  0.58756462  0.58756462  0.39178040  1
+  N  N6  1  0.29514833  0.29514833  0.60039580  1
+  N  N7  1  0.70485167  0.70485167  0.39960420  1
+  N  N8  1  -0.00000000  -0.00000000  -0.00000000  1
+  N  N9  1  0.38096944  0.38096944  0.79865520  1
+  N  N10  1  0.61903056  0.61903056  0.20134480  1

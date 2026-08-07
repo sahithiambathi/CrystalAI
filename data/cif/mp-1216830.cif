@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_U2Be25Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27890844
+_cell_length_b   7.27891013
+_cell_length_c   7.27890754
+_cell_angle_alpha   60.00149290
+_cell_angle_beta   60.00148776
+_cell_angle_gamma   60.00146774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Be25Cu
+_chemical_formula_sum   'U2 Be25 Cu1'
+_cell_volume   272.70833947
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.24999311  0.24999606  0.25000771  1
+  U  U1  1  0.75000689  0.75000394  0.74999229  1
+  Be  Be2  1  0.78811671  0.56298520  0.21188404  1
+  Be  Be3  1  0.21188329  0.43701480  0.78811596  1
+  Be  Be4  1  0.56298502  0.78811746  0.43701393  1
+  Be  Be5  1  0.43701498  0.21188254  0.56298607  1
+  Be  Be6  1  0.30094570  0.93998300  0.69905238  1
+  Be  Be7  1  0.69905430  0.06001700  0.30094762  1
+  Be  Be8  1  0.93998326  0.30094622  0.06001873  1
+  Be  Be9  1  0.06001674  0.69905378  0.93998127  1
+  Be  Be10  1  0.21188242  0.78811706  0.56298574  1
+  Be  Be11  1  0.78811758  0.21188294  0.43701426  1
+  Be  Be12  1  0.43701361  0.56298558  0.78811637  1
+  Be  Be13  1  0.56298639  0.43701442  0.21188363  1
+  Be  Be14  1  0.69905435  0.30094553  0.93998182  1
+  Be  Be15  1  0.30094565  0.69905447  0.06001818  1
+  Be  Be16  1  0.06001750  0.93998300  0.30094782  1
+  Be  Be17  1  0.93998250  0.06001700  0.69905218  1
+  Be  Be18  1  0.56298649  0.21188303  0.78811538  1
+  Be  Be19  1  0.43701351  0.78811697  0.21188462  1
+  Be  Be20  1  0.78811836  0.43701344  0.56298416  1
+  Be  Be21  1  0.21188164  0.56298656  0.43701584  1
+  Be  Be22  1  0.93998203  0.69905328  0.30094701  1
+  Be  Be23  1  0.06001797  0.30094672  0.69905299  1
+  Be  Be24  1  0.30094634  0.06001817  0.93998311  1
+  Be  Be25  1  0.69905366  0.93998183  0.06001689  1
+  Be  Be26  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu27  1  0.00000000  -0.00000000  -0.00000000  1

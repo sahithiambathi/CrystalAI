@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr(ZnN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10860552
+_cell_length_b   10.40602066
+_cell_length_c   6.32441525
+_cell_angle_alpha   90.00000094
+_cell_angle_beta   89.98900988
+_cell_angle_gamma   31.59738176
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(ZnN)2
+_chemical_formula_sum   'Sr3 Zn6 N6'
+_cell_volume   210.63690149
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.00000000  0.32467598  0.50000000  1
+  Sr  Sr1  1  0.00000000  0.67532402  0.50000000  1
+  Sr  Sr2  1  -0.00000000  0.50000000  -0.00000000  1
+  Zn  Zn3  1  0.71492192  0.98011829  0.86208222  1
+  Zn  Zn4  1  0.71492192  0.30495879  0.86208222  1
+  Zn  Zn5  1  0.28507808  0.01988171  0.13791778  1
+  Zn  Zn6  1  0.28507808  0.69504121  0.13791778  1
+  Zn  Zn7  1  0.26270262  0.86864819  0.64927096  1
+  Zn  Zn8  1  0.73729738  0.13135181  0.35072904  1
+  N  N9  1  0.38951952  0.97263472  0.80305239  1
+  N  N10  1  0.38951952  0.63784476  0.80305239  1
+  N  N11  1  0.61048048  0.02736528  0.19694761  1
+  N  N12  1  0.61048048  0.36215524  0.19694761  1
+  N  N13  1  0.52272712  0.23863644  0.67827849  1
+  N  N14  1  0.47727288  0.76136356  0.32172151  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TiCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96493398
+_cell_length_b   5.96495525
+_cell_length_c   3.67628078
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00074791
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCoSi
+_chemical_formula_sum   'Ti3 Co3 Si3'
+_cell_volume   113.27885830
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.56491994  0.56492027  0.50000000  1
+  Ti  Ti1  1  0.43506792  0.99999719  0.50000000  1
+  Ti  Ti2  1  0.99999677  0.43506252  0.50000000  1
+  Co  Co3  1  0.75722798  0.00005015  0.00000000  1
+  Co  Co4  1  0.24275073  0.24276022  0.00000000  1
+  Co  Co5  1  0.00003991  0.75721144  0.00000000  1
+  Si  Si6  1  0.66666905  0.33332677  -0.00000000  1
+  Si  Si7  1  0.33332671  0.66666707  -0.00000000  1
+  Si  Si8  1  0.00000099  0.00000438  0.50000000  1

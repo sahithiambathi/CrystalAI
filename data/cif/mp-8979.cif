@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaInO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84467191
+_cell_length_b   5.17807931
+_cell_length_c   5.81351481
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.28113106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaInO4
+_chemical_formula_sum   'Ta2 In2 O8'
+_cell_volume   145.80193136
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.25000000  0.82727309  1
+  Ta  Ta1  1  0.00000000  0.75000000  0.17272691  1
+  In  In2  1  0.50000000  0.25000000  0.32339812  1
+  In  In3  1  0.50000000  0.75000000  0.67660188  1
+  O  O4  1  0.25994386  0.40029375  0.62051500  1
+  O  O5  1  0.74005614  0.09970625  0.62051500  1
+  O  O6  1  0.74005614  0.59970625  0.37948500  1
+  O  O7  1  0.25994386  0.90029375  0.37948500  1
+  O  O8  1  0.21438005  0.43610097  0.10305048  1
+  O  O9  1  0.78561995  0.06389903  0.10305048  1
+  O  O10  1  0.78561995  0.56389903  0.89694952  1
+  O  O11  1  0.21438005  0.93610097  0.89694952  1

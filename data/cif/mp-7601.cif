@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbGaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82229066
+_cell_length_b   6.55956290
+_cell_length_c   6.66166210
+_cell_angle_alpha   107.09395313
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.93895270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbGaO4
+_chemical_formula_sum   'Nb2 Ga2 O8'
+_cell_volume   152.04892416
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.10191347  0.20753601  0.23302888  1
+  Nb  Nb1  1  0.89437746  0.79246399  0.76697112  1
+  Ga  Ga2  1  0.19609870  0.39640040  0.81763024  1
+  Ga  Ga3  1  0.79970030  0.60359960  0.18236976  1
+  O  O4  1  0.86055547  0.72478104  0.48149374  1
+  O  O5  1  0.13577443  0.27521896  0.51850626  1
+  O  O6  1  0.94311018  0.88980707  0.13414538  1
+  O  O7  1  0.05330311  0.11019293  0.86585462  1
+  O  O8  1  0.25733245  0.51860119  0.14464647  1
+  O  O9  1  0.73873225  0.48139881  0.85535353  1
+  O  O10  1  0.35856249  0.72090180  0.79768298  1
+  O  O11  1  0.63765969  0.27909820  0.20231702  1

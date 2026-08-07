@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Pu2Si4Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05329515
+_cell_length_b   5.63247534
+_cell_length_c   6.80731432
+_cell_angle_alpha   76.40549802
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pu2Si4Tc3
+_chemical_formula_sum   'Pu4 Si8 Tc6'
+_cell_volume   300.12877717
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.56283500  0.07748685  0.25640694  1
+  Pu  Pu1  1  0.06283500  0.42251315  0.74359306  1
+  Pu  Pu2  1  0.43716500  0.92251315  0.74359306  1
+  Pu  Pu3  1  0.93716500  0.57748685  0.25640694  1
+  Si  Si4  1  0.74777863  0.21990201  0.58743153  1
+  Si  Si5  1  0.24777863  0.28009799  0.41256847  1
+  Si  Si6  1  0.25222137  0.78009799  0.41256847  1
+  Si  Si7  1  0.75222137  0.71990201  0.58743153  1
+  Si  Si8  1  0.09342263  0.87833924  0.87467439  1
+  Si  Si9  1  0.59342263  0.62166076  0.12532561  1
+  Si  Si10  1  0.40657737  0.37833924  0.87467439  1
+  Si  Si11  1  0.90657737  0.12166076  0.12532561  1
+  Tc  Tc12  1  0.50000000  0.50000000  0.50000000  1
+  Tc  Tc13  1  0.00000000  -0.00000000  0.50000000  1
+  Tc  Tc14  1  0.79499798  0.88663685  0.88991387  1
+  Tc  Tc15  1  0.29499798  0.61336315  0.11008613  1
+  Tc  Tc16  1  0.70500202  0.38663685  0.88991387  1
+  Tc  Tc17  1  0.20500202  0.11336315  0.11008613  1

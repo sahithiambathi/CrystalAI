@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Mg(AlH4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61868900
+_cell_length_b   4.79623988
+_cell_length_c   6.46489572
+_cell_angle_alpha   81.07897965
+_cell_angle_beta   75.54992692
+_cell_angle_gamma   62.79813717
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(AlH4)2
+_chemical_formula_sum   'Mg1 Al2 H8'
+_cell_volume   123.20421410
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al1  1  0.41781300  0.36900000  0.70399500  1
+  Al  Al2  1  0.58218700  0.63100000  0.29600500  1
+  H  H3  1  0.35833200  0.06258100  0.83599600  1
+  H  H4  1  0.07936200  0.66850600  0.80807500  1
+  H  H5  1  0.74608800  0.31167000  0.79279900  1
+  H  H6  1  0.53437600  0.71154100  0.53028300  1
+  H  H7  1  0.46562400  0.28845900  0.46971700  1
+  H  H8  1  0.25391200  0.68833000  0.20720100  1
+  H  H9  1  0.90598300  0.33190300  0.18201300  1
+  H  H10  1  0.62617400  0.93714300  0.15370500  1

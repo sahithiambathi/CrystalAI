@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04000137
+_cell_length_b   4.03831971
+_cell_length_c   7.51284737
+_cell_angle_alpha   105.59054880
+_cell_angle_beta   105.59719998
+_cell_angle_gamma   90.00001092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSiNi
+_chemical_formula_sum   'Ce2 Si2 Ni2'
+_cell_volume   113.36798601
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.74899206  0.24899206  0.49798412  1
+  Ce  Ce1  1  -0.00100019  -0.00100019  -0.00199938  1
+  Si  Si2  1  0.16821018  0.66821018  0.33642035  1
+  Si  Si3  1  0.41822848  0.41822848  0.83645696  1
+  Ni  Ni4  1  0.58680812  0.58680812  0.17361623  1
+  Ni  Ni5  1  0.33676036  0.83676036  0.67352071  1

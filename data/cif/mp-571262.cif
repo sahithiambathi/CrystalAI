@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31333425
+_cell_length_b   5.31341407
+_cell_length_c   5.31298517
+_cell_angle_alpha   60.00310268
+_cell_angle_beta   60.01180004
+_cell_angle_gamma   60.00357676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaRh2
+_chemical_formula_sum   'Ca2 Rh4'
+_cell_volume   106.07793194
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.37498391  0.37500988  0.37496235  1
+  Ca  Ca1  1  0.62501709  0.62499012  0.62503765  1
+  Rh  Rh2  1  -0.00000000  0.50000000  0.00000000  1
+  Rh  Rh3  1  0.50000000  0.00000000  0.00000000  1
+  Rh  Rh4  1  -0.00000000  -0.00000000  0.00000000  1
+  Rh  Rh5  1  -0.00000000  0.00000000  0.50000000  1

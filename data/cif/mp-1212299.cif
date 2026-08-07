@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ho4CdNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.44547192
+_cell_length_b   9.44546526
+_cell_length_c   9.44547234
+_cell_angle_alpha   60.00124435
+_cell_angle_beta   60.00128125
+_cell_angle_gamma   60.00120973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4CdNi
+_chemical_formula_sum   'Ho16 Cd4 Ni4'
+_cell_volume   595.89255415
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.34880855  0.34881674  0.34880599  1
+  Ho  Ho1  1  0.34880407  0.34881152  0.95357323  1
+  Ho  Ho2  1  0.34880834  0.95356904  0.34880630  1
+  Ho  Ho3  1  0.95357239  0.34881240  0.34880279  1
+  Ho  Ho4  1  0.81102449  0.18897857  0.18897886  1
+  Ho  Ho5  1  0.18897858  0.81101449  0.81102815  1
+  Ho  Ho6  1  0.18897823  0.81101918  0.18897864  1
+  Ho  Ho7  1  0.81102024  0.18897893  0.81102226  1
+  Ho  Ho8  1  0.18897892  0.18897805  0.81102574  1
+  Ho  Ho9  1  0.81102710  0.81101609  0.18897848  1
+  Ho  Ho10  1  0.93659173  0.56341053  0.56340700  1
+  Ho  Ho11  1  0.56340792  0.93659073  0.93659231  1
+  Ho  Ho12  1  0.56340989  0.93659018  0.56340996  1
+  Ho  Ho13  1  0.93659320  0.56340784  0.93659297  1
+  Ho  Ho14  1  0.56340764  0.56341098  0.93659209  1
+  Ho  Ho15  1  0.93659148  0.93658961  0.56340876  1
+  Cd  Cd16  1  0.58079113  0.58078845  0.58079082  1
+  Cd  Cd17  1  0.58079313  0.58079139  0.25762754  1
+  Cd  Cd18  1  0.58079212  0.25762891  0.58079159  1
+  Cd  Cd19  1  0.25762699  0.58079159  0.58079296  1
+  Ni  Ni20  1  0.14249815  0.14249888  0.14249551  1
+  Ni  Ni21  1  0.14250061  0.14250277  0.57249647  1
+  Ni  Ni22  1  0.14249851  0.57250134  0.14249992  1
+  Ni  Ni23  1  0.57249860  0.14250280  0.14250064  1

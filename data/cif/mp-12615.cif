@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TbBe13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22243705
+_cell_length_b   7.22243729
+_cell_length_c   7.22233654
+_cell_angle_alpha   60.00047081
+_cell_angle_beta   60.00046968
+_cell_angle_gamma   60.00127836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbBe13
+_chemical_formula_sum   'Tb2 Be26'
+_cell_volume   266.40204312
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.25000000  0.25000000  0.25000000  1
+  Tb  Tb1  1  0.75000000  0.75000000  0.75000000  1
+  Be  Be2  1  -0.00000000  0.00000000  -0.00000000  1
+  Be  Be3  1  0.50000000  0.50000000  0.50000000  1
+  Be  Be4  1  0.28968311  0.06255705  0.93744487  1
+  Be  Be5  1  0.43744364  0.56255636  0.78970292  1
+  Be  Be6  1  0.78968728  0.21031272  0.43744542  1
+  Be  Be7  1  0.43744633  0.78970335  0.21028661  1
+  Be  Be8  1  0.56255367  0.21029665  0.78971339  1
+  Be  Be9  1  0.56255705  0.78968311  0.43744487  1
+  Be  Be10  1  0.78968311  0.56255705  0.21031497  1
+  Be  Be11  1  0.93744633  0.28970335  0.06256372  1
+  Be  Be12  1  0.06255636  0.93744364  0.28970292  1
+  Be  Be13  1  0.71031272  0.28968728  0.93744542  1
+  Be  Be14  1  0.06255367  0.71029665  0.93743628  1
+  Be  Be15  1  0.71029665  0.06255367  0.28971339  1
+  Be  Be16  1  0.93744364  0.06255636  0.71029708  1
+  Be  Be17  1  0.28970335  0.93744633  0.71028661  1
+  Be  Be18  1  0.28968728  0.71031272  0.06255458  1
+  Be  Be19  1  0.78970335  0.43744633  0.56256372  1
+  Be  Be20  1  0.21031272  0.78968728  0.56255458  1
+  Be  Be21  1  0.21031689  0.43744295  0.78968503  1
+  Be  Be22  1  0.43744295  0.21031689  0.56255513  1
+  Be  Be23  1  0.56255636  0.43744364  0.21029708  1
+  Be  Be24  1  0.21029665  0.56255367  0.43743628  1
+  Be  Be25  1  0.93744295  0.71031689  0.28968503  1
+  Be  Be26  1  0.71031689  0.93744295  0.06255513  1
+  Be  Be27  1  0.06255705  0.28968311  0.71031497  1

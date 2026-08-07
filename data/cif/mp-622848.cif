@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sm2Ga9Ru5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16236223
+_cell_length_b   6.16180584
+_cell_length_c   8.04231187
+_cell_angle_alpha   112.52357158
+_cell_angle_beta   112.52645012
+_cell_angle_gamma   90.00209176
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Ga9Ru5
+_chemical_formula_sum   'Sm2 Ga9 Ru5'
+_cell_volume   256.67620275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.50183260  0.99863181  0.00040871  1
+  Sm  Sm1  1  0.00115871  0.50030309  0.00047114  1
+  Ga  Ga2  1  0.86046355  0.44125868  0.30182768  1
+  Ga  Ga3  1  0.14233723  0.14012241  0.69934758  1
+  Ga  Ga4  1  0.44381035  0.85825322  0.30212132  1
+  Ga  Ga5  1  0.86050131  0.85820327  0.30236062  1
+  Ga  Ga6  1  0.14218677  0.55663663  0.69879995  1
+  Ga  Ga7  1  0.55910760  0.13991610  0.69903922  1
+  Ga  Ga8  1  0.55866982  0.55642678  0.69849488  1
+  Ga  Ga9  1  0.00173959  0.00036357  0.00041472  1
+  Ga  Ga10  1  0.44329978  0.44107482  0.30157725  1
+  Ru  Ru11  1  0.17972935  0.17739633  0.35755749  1
+  Ru  Ru12  1  0.82283980  0.82052674  0.64325206  1
+  Ru  Ru13  1  0.75131836  0.24914554  0.50048395  1
+  Ru  Ru14  1  0.25135730  0.74907003  0.50043487  1
+  Ru  Ru15  1  0.50130386  0.49898397  0.00045255  1

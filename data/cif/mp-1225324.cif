@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_EuCdAu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79698406
+_cell_length_b   5.79698357
+_cell_length_c   5.81190759
+_cell_angle_alpha   102.96276318
+_cell_angle_beta   102.96276719
+_cell_angle_gamma   123.70423993
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCdAu5
+_chemical_formula_sum   'Eu1 Cd1 Au5'
+_cell_volume   142.93628573
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00001022  0.99998978  -0.00000000  1
+  Cd  Cd1  1  0.74986546  0.25013454  0.50000000  1
+  Au  Au2  1  0.69481671  0.30518329  -0.00000000  1
+  Au  Au3  1  0.30535575  0.69464425  0.00000000  1
+  Au  Au4  1  0.30540835  0.30544108  0.61008468  1
+  Au  Au5  1  0.69455892  0.69459165  0.38991532  1
+  Au  Au6  1  0.24998559  0.75001441  0.50000000  1

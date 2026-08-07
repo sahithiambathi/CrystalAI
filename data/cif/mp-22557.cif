@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba5Co5O14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66327605
+_cell_length_b   5.66080207
+_cell_length_c   11.90914268
+_cell_angle_alpha   89.92538992
+_cell_angle_beta   90.09844874
+_cell_angle_gamma   119.85848322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Co5O14
+_chemical_formula_sum   'Ba5 Co5 O14'
+_cell_volume   331.11105402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66566124  0.33381716  0.58162892  1
+  Ba  Ba1  1  0.33434151  0.66618307  0.41838335  1
+  Ba  Ba2  1  0.66651730  0.33339740  0.22682321  1
+  Ba  Ba3  1  0.33348216  0.66660200  0.77317905  1
+  Ba  Ba4  1  -0.00000332  -0.00000279  -0.00001599  1
+  Co  Co5  1  0.66675375  0.33335020  0.85913840  1
+  Co  Co6  1  0.33324533  0.66664848  0.14086171  1
+  Co  Co7  1  -0.00106431  0.00053494  0.70833528  1
+  Co  Co8  1  0.00106531  -0.00053558  0.29166853  1
+  Co  Co9  1  0.00000115  0.00000117  0.49999235  1
+  O  O10  1  0.85713331  0.14335318  0.39833080  1
+  O  O11  1  0.85537196  0.70826321  0.39699173  1
+  O  O12  1  0.29346016  0.14575876  0.39660981  1
+  O  O13  1  0.70653304  0.85423884  0.60339383  1
+  O  O14  1  0.14463040  0.29174040  0.60301203  1
+  O  O15  1  0.14286637  0.85664115  0.60167401  1
+  O  O16  1  0.83857717  0.16148340  0.80181124  1
+  O  O17  1  0.83867453  0.67671874  0.80162265  1
+  O  O18  1  0.32334902  0.16138107  0.80158148  1
+  O  O19  1  0.67667120  0.83862949  0.19842102  1
+  O  O20  1  0.33312759  0.66675999  0.99503157  1
+  O  O21  1  0.66687407  0.33324591  0.00495597  1
+  O  O22  1  0.16141510  0.83852445  0.19819000  1
+  O  O23  1  0.16131695  0.32326436  0.19837805  1

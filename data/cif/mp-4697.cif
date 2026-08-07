@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn(CrSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45409649
+_cell_length_b   7.45411345
+_cell_length_c   7.45411528
+_cell_angle_alpha   60.00023503
+_cell_angle_beta   60.00015618
+_cell_angle_gamma   60.00016331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(CrSe2)2
+_chemical_formula_sum   'Zn2 Cr4 Se8'
+_cell_volume   292.86935808
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.12500205  0.12500012  0.12499941  1
+  Zn  Zn1  1  0.87499789  0.87499893  0.87500069  1
+  Cr  Cr2  1  0.49999999  -0.00000015  0.50000006  1
+  Cr  Cr3  1  -0.00000005  0.49999991  0.49999997  1
+  Cr  Cr4  1  0.50000004  0.49999983  0.49999990  1
+  Cr  Cr5  1  0.50000009  0.49999982  0.00000022  1
+  Se  Se6  1  0.25958968  0.25958867  0.25958804  1
+  Se  Se7  1  0.74041013  0.74041128  0.27876537  1
+  Se  Se8  1  0.27876386  0.74041163  0.74041200  1
+  Se  Se9  1  0.74040940  0.27876610  0.74041199  1
+  Se  Se10  1  0.72123603  0.25958864  0.25958795  1
+  Se  Se11  1  0.25959073  0.72123391  0.25958795  1
+  Se  Se12  1  0.25958988  0.25958887  0.72123459  1
+  Se  Se13  1  0.74041028  0.74041145  0.74041185  1

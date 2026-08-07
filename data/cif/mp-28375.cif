@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ta2AgF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06549849
+_cell_length_b   5.50658887
+_cell_length_c   8.93070293
+_cell_angle_alpha   76.30496833
+_cell_angle_beta   87.90724995
+_cell_angle_gamma   63.92043279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2AgF12
+_chemical_formula_sum   'Ta2 Ag1 F12'
+_cell_volume   216.73264346
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.22816297  0.51808786  0.72167229  1
+  Ta  Ta1  1  0.77183703  0.48191214  0.27832771  1
+  Ag  Ag2  1  -0.00000000  0.00000000  0.00000000  1
+  F  F3  1  0.17597113  0.25819333  0.27506527  1
+  F  F4  1  0.82402887  0.74180667  0.72493473  1
+  F  F5  1  0.80332530  0.73037758  0.07831344  1
+  F  F6  1  0.28765055  0.74345125  0.54753980  1
+  F  F7  1  0.71234945  0.25654875  0.45246020  1
+  F  F8  1  0.18636822  0.27422126  0.62275511  1
+  F  F9  1  0.81363178  0.72577874  0.37724489  1
+  F  F10  1  0.64219922  0.29747252  0.77709334  1
+  F  F11  1  0.35780078  0.70252748  0.22290666  1
+  F  F12  1  0.27096896  0.73432061  0.86365065  1
+  F  F13  1  0.72903104  0.26567939  0.13634935  1
+  F  F14  1  0.19667470  0.26962242  0.92168656  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaSmB12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11980734
+_cell_length_b   4.11980734
+_cell_length_c   8.24987876
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSmB12
+_chemical_formula_sum   'Ca1 Sm1 B12'
+_cell_volume   140.02364550
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  -0.00000000  -0.00000000  0.00000000  1
+  Sm  Sm1  1  -0.00000000  -0.00000000  0.50000000  1
+  B  B2  1  0.20039677  0.50000000  0.25042259  1
+  B  B3  1  0.20039677  0.50000000  0.74957741  1
+  B  B4  1  0.50000000  0.50000000  0.40017606  1
+  B  B5  1  0.50000000  0.50000000  0.89936809  1
+  B  B6  1  0.50000000  0.20039677  0.25042259  1
+  B  B7  1  0.50000000  0.20039677  0.74957741  1
+  B  B8  1  0.50000000  0.50000000  0.10063191  1
+  B  B9  1  0.50000000  0.50000000  0.59982494  1
+  B  B10  1  0.50000000  0.79960323  0.25042259  1
+  B  B11  1  0.50000000  0.79960323  0.74957741  1
+  B  B12  1  0.79960323  0.50000000  0.25042259  1
+  B  B13  1  0.79960323  0.50000000  0.74957741  1

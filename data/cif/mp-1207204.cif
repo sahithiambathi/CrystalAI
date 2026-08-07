@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LuF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81588052
+_cell_length_b   3.81588795
+_cell_length_c   4.20718675
+_cell_angle_alpha   89.99964943
+_cell_angle_beta   90.00031077
+_cell_angle_gamma   120.00001244
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuF3
+_chemical_formula_sum   'Lu1 F3'
+_cell_volume   53.05334233
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  -0.00000495  -0.00005058  -0.00004294  1
+  F  F1  1  0.66667039  0.33335090  0.88996773  1
+  F  F2  1  0.33333344  0.66668739  0.11006408  1
+  F  F3  1  0.00000113  0.00001129  0.50001113  1

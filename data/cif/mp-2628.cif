@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05062266
+_cell_length_b   5.05120527
+_cell_length_c   5.05062556
+_cell_angle_alpha   59.99351319
+_cell_angle_beta   59.99712983
+_cell_angle_gamma   60.00101594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCo2
+_chemical_formula_sum   'Dy2 Co4'
+_cell_volume   91.10510923
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.12498364  0.12501291  0.12500092  1
+  Dy  Dy1  1  0.87501473  0.87498754  0.87499967  1
+  Co  Co2  1  0.50000220  0.99999939  0.49999915  1
+  Co  Co3  1  0.00000025  0.50000133  0.49999926  1
+  Co  Co4  1  0.49999904  0.49999996  0.50000085  1
+  Co  Co5  1  0.49999913  0.49999986  0.00000015  1

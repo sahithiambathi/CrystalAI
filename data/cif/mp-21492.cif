@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeInNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29006660
+_cell_length_b   7.29034891
+_cell_length_c   4.03253753
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00127163
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeInNi
+_chemical_formula_sum   'Ce3 In3 Ni3'
+_cell_volume   185.60227463
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00000000  0.58367747  -0.00000000  1
+  Ce  Ce1  1  0.41631115  0.41631565  0.00000000  1
+  Ce  Ce2  1  0.58368885  0.00000450  0.00000000  1
+  In  In3  1  0.75420505  0.75430531  0.50000000  1
+  In  In4  1  -0.00000000  0.24560487  0.50000000  1
+  In  In5  1  0.24579495  0.00010126  0.50000000  1
+  Ni  Ni6  1  0.33340320  0.66668489  0.50000000  1
+  Ni  Ni7  1  0.00000000  0.00002536  0.00000000  1
+  Ni  Ni8  1  0.66659680  0.33328069  0.50000000  1

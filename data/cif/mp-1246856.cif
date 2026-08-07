@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca3Fe3N5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66688626
+_cell_length_b   6.86192517
+_cell_length_c   8.29489086
+_cell_angle_alpha   107.36465750
+_cell_angle_beta   107.18239342
+_cell_angle_gamma   94.63733197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3Fe3N5
+_chemical_formula_sum   'Ca6 Fe6 N10'
+_cell_volume   289.01613900
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.81040027  0.41328020  0.60187974  1
+  Ca  Ca1  1  0.18959973  0.58671980  0.39812026  1
+  Ca  Ca2  1  0.67078729  0.87355575  0.88306925  1
+  Ca  Ca3  1  0.32921271  0.12644425  0.11693075  1
+  Ca  Ca4  1  0.64958864  0.67269753  0.19669840  1
+  Ca  Ca5  1  0.35041136  0.32730247  0.80330160  1
+  Fe  Fe6  1  0.91068756  0.32533708  0.97393354  1
+  Fe  Fe7  1  0.08931244  0.67466292  0.02606646  1
+  Fe  Fe8  1  0.70161523  0.94906223  0.57002980  1
+  Fe  Fe9  1  0.29838477  0.05093777  0.42997020  1
+  Fe  Fe10  1  0.11851630  0.87004857  0.71246731  1
+  Fe  Fe11  1  0.88148370  0.12995143  0.28753269  1
+  N  N12  1  0.97650923  0.10615987  0.79821973  1
+  N  N13  1  0.02349077  0.89384013  0.20178027  1
+  N  N14  1  0.83021074  0.69973404  0.50721692  1
+  N  N15  1  0.16978926  0.30026596  0.49278308  1
+  N  N16  1  0.75834868  0.52983673  0.89463412  1
+  N  N17  1  0.24165132  0.47016327  0.10536588  1
+  N  N18  1  0.38064436  0.93468350  0.62550705  1
+  N  N19  1  0.61935564  0.06531650  0.37449295  1
+  N  N20  1  0.26310462  0.76093369  0.89974060  1
+  N  N21  1  0.73689538  0.23906631  0.10025940  1

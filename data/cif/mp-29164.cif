@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95496435
+_cell_length_b   6.14411663
+_cell_length_c   8.50541073
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.03479930
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrBiO3
+_chemical_formula_sum   'Sr4 Bi4 O12'
+_cell_volume   311.19587176
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.98561291  0.55115133  0.24924234  1
+  Sr  Sr1  1  0.51438709  0.05115133  0.25075766  1
+  Sr  Sr2  1  0.01438709  0.44884867  0.75075766  1
+  Sr  Sr3  1  0.48561291  0.94884867  0.74924234  1
+  Bi  Bi4  1  0.00000000  -0.00000000  -0.00000000  1
+  Bi  Bi5  1  0.50000000  0.50000000  0.50000000  1
+  Bi  Bi6  1  0.00000000  -0.00000000  0.50000000  1
+  Bi  Bi7  1  0.50000000  0.50000000  -0.00000000  1
+  O  O8  1  0.68916415  0.78560001  0.05888547  1
+  O  O9  1  0.81083585  0.28560001  0.44111453  1
+  O  O10  1  0.31083585  0.21439999  0.94111453  1
+  O  O11  1  0.18916415  0.71439999  0.55888547  1
+  O  O12  1  0.78819207  0.30597339  0.05260084  1
+  O  O13  1  0.71180793  0.80597339  0.44739916  1
+  O  O14  1  0.21180793  0.69402661  0.94739916  1
+  O  O15  1  0.28819207  0.19402661  0.55260084  1
+  O  O16  1  0.39498233  0.45771509  0.23864113  1
+  O  O17  1  0.10501767  0.95771509  0.26135887  1
+  O  O18  1  0.60501767  0.54228491  0.76135887  1
+  O  O19  1  0.89498233  0.04228491  0.73864113  1

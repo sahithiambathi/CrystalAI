@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MnFeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38788786
+_cell_length_b   6.38780440
+_cell_length_c   3.32936887
+_cell_angle_alpha   90.00000230
+_cell_angle_beta   89.99999806
+_cell_angle_gamma   119.99793458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFeAs
+_chemical_formula_sum   'Mn3 Fe3 As3'
+_cell_volume   117.65502413
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.60167169  0.00000201  0.50000001  1
+  Mn  Mn1  1  0.39832734  0.39834385  0.50000003  1
+  Mn  Mn2  1  -0.00001419  0.60163095  0.50000003  1
+  Fe  Fe3  1  0.26057647  -0.00002868  0.00000004  1
+  Fe  Fe4  1  0.73944817  0.73944222  -0.00000008  1
+  Fe  Fe5  1  -0.00002216  0.26058382  -0.00000004  1
+  As  As6  1  0.33338469  0.66664850  -0.00000009  1
+  As  As7  1  0.66658237  0.33333075  0.00000015  1
+  As  As8  1  0.00004662  0.00004658  0.49999995  1

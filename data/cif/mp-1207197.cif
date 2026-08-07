@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Tb2CI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77978523
+_cell_length_b   3.77978523
+_cell_length_c   14.74791551
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2CI
+_chemical_formula_sum   'Tb4 C2 I2'
+_cell_volume   182.47168663
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.33333300  0.66666700  0.58559023  1
+  Tb  Tb1  1  0.66666700  0.33333300  0.41440977  1
+  Tb  Tb2  1  0.66666700  0.33333300  0.08557888  1
+  Tb  Tb3  1  0.33333300  0.66666700  0.91442112  1
+  C  C4  1  0.00000000  -0.00000000  -0.00000000  1
+  C  C5  1  0.00000000  -0.00000000  0.50000000  1
+  I  I6  1  0.33333300  0.66666700  0.24992440  1
+  I  I7  1  0.66666700  0.33333300  0.75007560  1

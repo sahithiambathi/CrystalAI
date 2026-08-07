@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KAgBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42791303
+_cell_length_b   7.42791266
+_cell_length_c   7.42791369
+_cell_angle_alpha   61.64015932
+_cell_angle_beta   61.64014645
+_cell_angle_gamma   61.64015786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAgBr3
+_chemical_formula_sum   'K2 Ag2 Br6'
+_cell_volume   300.45017184
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25767897  0.25767897  0.25767897  1
+  K  K1  1  0.75767897  0.75767897  0.75767897  1
+  Ag  Ag2  1  0.00479249  0.00479249  0.00479249  1
+  Ag  Ag3  1  0.50479249  0.50479249  0.50479249  1
+  Br  Br4  1  0.25632222  0.81108100  0.69862432  1
+  Br  Br5  1  0.81108100  0.69862432  0.25632222  1
+  Br  Br6  1  0.69862432  0.25632222  0.81108100  1
+  Br  Br7  1  0.19862432  0.31108100  0.75632222  1
+  Br  Br8  1  0.75632222  0.19862432  0.31108100  1
+  Br  Br9  1  0.31108100  0.75632222  0.19862432  1

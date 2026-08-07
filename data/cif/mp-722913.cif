@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf3Zn3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42919852
+_cell_length_b   8.42919972
+_cell_length_c   8.42919947
+_cell_angle_alpha   60.00126647
+_cell_angle_beta   60.00126051
+_cell_angle_gamma   60.00125965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Zn3N
+_chemical_formula_sum   'Hf12 Zn12 N4'
+_cell_volume   423.50289926
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.81374075  0.18625471  0.18625230  1
+  Hf  Hf1  1  0.18624632  0.81374817  0.18625362  1
+  Hf  Hf2  1  0.81374184  0.81374850  0.18625074  1
+  Hf  Hf3  1  0.18624411  0.81374926  0.81374700  1
+  Hf  Hf4  1  0.81374206  0.18625232  0.81374739  1
+  Hf  Hf5  1  0.18624592  0.18625529  0.81374576  1
+  Hf  Hf6  1  0.43624728  0.06374845  0.06374551  1
+  Hf  Hf7  1  0.06374032  0.43625370  0.06374771  1
+  Hf  Hf8  1  0.43624791  0.43625490  0.06374607  1
+  Hf  Hf9  1  0.06374030  0.43625459  0.43625281  1
+  Hf  Hf10  1  0.43624811  0.06374786  0.43625401  1
+  Hf  Hf11  1  0.06373926  0.06374951  0.43625276  1
+  Zn  Zn12  1  0.41827097  0.41826838  0.74518740  1
+  Zn  Zn13  1  0.41827846  0.41827539  0.41827614  1
+  Zn  Zn14  1  0.74520127  0.41826446  0.41826469  1
+  Zn  Zn15  1  0.41827168  0.74518513  0.41826941  1
+  Zn  Zn16  1  0.83173193  0.83173018  0.50481651  1
+  Zn  Zn17  1  0.83172997  0.83172741  0.83172975  1
+  Zn  Zn18  1  0.50482719  0.83172711  0.83172613  1
+  Zn  Zn19  1  0.83173353  0.50481234  0.83173034  1
+  Zn  Zn20  1  0.62503594  0.62500219  0.12497711  1
+  Zn  Zn21  1  0.62502059  0.62498654  0.62499529  1
+  Zn  Zn22  1  0.12495728  0.62501775  0.62502602  1
+  Zn  Zn23  1  0.62503058  0.12498274  0.62500681  1
+  N  N24  1  0.12499548  0.12500064  0.62500139  1
+  N  N25  1  0.12499598  0.12500113  0.12500013  1
+  N  N26  1  0.62499824  0.12500047  0.12499935  1
+  N  N27  1  0.12499573  0.62500189  0.12499985  1

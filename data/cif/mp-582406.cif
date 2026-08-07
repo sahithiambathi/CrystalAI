@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Gd2(Zn2Ge)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54454076
+_cell_length_b   7.54456652
+_cell_length_c   4.01277658
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99803850
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2(Zn2Ge)3
+_chemical_formula_sum   'Gd2 Zn6 Ge3'
+_cell_volume   197.81139099
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.66664992  0.33334495  0.00000000  1
+  Gd  Gd1  1  0.33334052  0.66665544  0.00000000  1
+  Zn  Zn2  1  0.28572786  0.28573782  0.50000000  1
+  Zn  Zn3  1  0.19010483  0.99997867  0.00000000  1
+  Zn  Zn4  1  0.71426613  0.00001419  0.50000000  1
+  Zn  Zn5  1  -0.00000214  0.19010453  0.00000000  1
+  Zn  Zn6  1  0.80990458  0.80990150  -0.00000000  1
+  Zn  Zn7  1  0.00001399  0.71426222  0.50000000  1
+  Ge  Ge8  1  0.38611273  -0.00000653  0.50000000  1
+  Ge  Ge9  1  0.61388508  0.61389421  0.50000000  1
+  Ge  Ge10  1  0.99999551  0.38611200  0.50000000  1

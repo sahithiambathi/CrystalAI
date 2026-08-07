@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KAgO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44848319
+_cell_length_b   7.47577979
+_cell_length_c   7.47578083
+_cell_angle_alpha   82.36892555
+_cell_angle_beta   68.62879014
+_cell_angle_gamma   68.62878881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAgO
+_chemical_formula_sum   'K4 Ag4 O4'
+_cell_volume   264.06510988
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.32119976  0.67880024  1
+  K  K1  1  0.50000000  0.67880024  0.32119976  1
+  K  K2  1  0.17880024  0.32119976  0.32119976  1
+  K  K3  1  0.82119976  0.67880024  0.67880024  1
+  Ag  Ag4  1  0.85139278  0.00000000  0.29721344  1
+  Ag  Ag5  1  0.85139278  0.29721344  0.00000000  1
+  Ag  Ag6  1  0.14860722  -0.00000000  0.70278656  1
+  Ag  Ag7  1  0.14860722  0.70278656  -0.00000000  1
+  O  O8  1  0.70532603  0.29467397  0.29467397  1
+  O  O9  1  0.00000000  0.29467397  0.70532603  1
+  O  O10  1  -0.00000000  0.70532603  0.29467397  1
+  O  O11  1  0.29467397  0.70532603  0.70532603  1

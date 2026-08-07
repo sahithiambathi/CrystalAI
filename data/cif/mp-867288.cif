@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TbHg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62477376
+_cell_length_b   6.62477224
+_cell_length_c   4.94935762
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHg3
+_chemical_formula_sum   'Tb2 Hg6'
+_cell_volume   188.11415773
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.33333300  0.66666600  0.75000000  1
+  Tb  Tb1  1  0.66666600  0.33333200  0.25000100  1
+  Hg  Hg2  1  0.16532784  0.33065567  0.25000100  1
+  Hg  Hg3  1  0.66934333  0.83467216  0.25000100  1
+  Hg  Hg4  1  0.16532884  0.83467216  0.25000100  1
+  Hg  Hg5  1  0.83467216  0.66934433  0.75000000  1
+  Hg  Hg6  1  0.33065767  0.16532884  0.75000000  1
+  Hg  Hg7  1  0.83467216  0.16532884  0.75000000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_In5Cl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.30077932
+_cell_length_b   9.30077853
+_cell_length_c   9.30077987
+_cell_angle_alpha   83.48865744
+_cell_angle_beta   83.48866045
+_cell_angle_gamma   83.48865727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In5Cl9
+_chemical_formula_sum   'In10 Cl18'
+_cell_volume   790.08284906
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.14832649  0.14832649  0.14832649  1
+  In  In1  1  0.35167351  0.35167351  0.35167351  1
+  In  In2  1  0.85167351  0.85167351  0.85167351  1
+  In  In3  1  0.64832649  0.64832649  0.64832649  1
+  In  In4  1  0.56648934  0.25000000  0.93351066  1
+  In  In5  1  0.25000000  0.93351066  0.56648934  1
+  In  In6  1  0.93351066  0.56648934  0.25000000  1
+  In  In7  1  0.43351066  0.75000000  0.06648934  1
+  In  In8  1  0.75000000  0.06648934  0.43351066  1
+  In  In9  1  0.06648934  0.43351066  0.75000000  1
+  Cl  Cl10  1  0.41754576  0.57861008  0.77099549  1
+  Cl  Cl11  1  0.57861008  0.77099549  0.41754576  1
+  Cl  Cl12  1  0.77099549  0.41754576  0.57861008  1
+  Cl  Cl13  1  0.72900451  0.92138992  0.08245424  1
+  Cl  Cl14  1  0.92138992  0.08245424  0.72900451  1
+  Cl  Cl15  1  0.08245424  0.72900451  0.92138992  1
+  Cl  Cl16  1  0.58245424  0.42138992  0.22900451  1
+  Cl  Cl17  1  0.42138992  0.22900451  0.58245424  1
+  Cl  Cl18  1  0.22900451  0.58245424  0.42138992  1
+  Cl  Cl19  1  0.27099549  0.07861008  0.91754576  1
+  Cl  Cl20  1  0.25000000  0.40684864  0.09315136  1
+  Cl  Cl21  1  0.09315136  0.25000000  0.40684864  1
+  Cl  Cl22  1  0.40684864  0.09315136  0.25000000  1
+  Cl  Cl23  1  0.75000000  0.59315136  0.90684864  1
+  Cl  Cl24  1  0.90684864  0.75000000  0.59315136  1
+  Cl  Cl25  1  0.59315136  0.90684864  0.75000000  1
+  Cl  Cl26  1  0.91754576  0.27099549  0.07861008  1
+  Cl  Cl27  1  0.07861008  0.91754576  0.27099549  1

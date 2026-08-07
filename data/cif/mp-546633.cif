@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21240583
+_cell_length_b   5.21224906
+_cell_length_c   5.21240529
+_cell_angle_alpha   59.99900265
+_cell_angle_beta   59.99999759
+_cell_angle_gamma   59.99899688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KClO4
+_chemical_formula_sum   'K1 Cl1 O4'
+_cell_volume   100.13363606
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49999867  0.50000498  0.49999867  1
+  Cl  Cl1  1  -0.00000381  0.00001044  -0.00000381  1
+  O  O2  1  0.66302645  0.11229649  0.11233953  1
+  O  O3  1  0.11233953  0.11229649  0.66302645  1
+  O  O4  1  0.11233953  0.11229649  0.11233953  1
+  O  O5  1  0.11230163  0.66309711  0.11230163  1

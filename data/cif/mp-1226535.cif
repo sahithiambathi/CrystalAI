@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeU2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85727547
+_cell_length_b   3.88770756
+_cell_length_c   9.34509328
+_cell_angle_alpha   90.49808909
+_cell_angle_beta   89.99763434
+_cell_angle_gamma   119.73914215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeU2O6
+_chemical_formula_sum   'Ce1 U2 O6'
+_cell_volume   121.67530316
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000040  0.00000042  0.00003935  1
+  U  U1  1  0.33533380  0.67061512  0.66607890  1
+  U  U2  1  0.66467937  0.32940503  0.33388996  1
+  O  O3  1  0.00273979  0.00556520  0.26396028  1
+  O  O4  1  0.33130498  0.66255980  0.90295250  1
+  O  O5  1  0.66569457  0.33138358  0.57977016  1
+  O  O6  1  0.66868645  0.33743269  0.09709157  1
+  O  O7  1  -0.00274765  -0.00557429  0.73605146  1
+  O  O8  1  0.33430829  0.66861345  0.42016581  1

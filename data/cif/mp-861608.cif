@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_PrNiB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95617147
+_cell_length_b   6.95617385
+_cell_length_c   6.95579352
+_cell_angle_alpha   112.80570395
+_cell_angle_beta   112.80500208
+_cell_angle_gamma   102.98664813
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNiB4
+_chemical_formula_sum   'Pr4 Ni4 B16'
+_cell_volume   256.66374423
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.20642967  0.20643144  0.00013300  1
+  Pr  Pr1  1  0.79356736  0.79356901  0.99986462  1
+  Pr  Pr2  1  0.74997552  0.25001185  0.49999778  1
+  Pr  Pr3  1  0.25001871  0.74998944  0.49999787  1
+  Ni  Ni4  1  0.49993273  0.27327622  0.77330326  1
+  Ni  Ni5  1  0.50007650  0.72672259  0.22670599  1
+  Ni  Ni6  1  0.72672242  0.50007149  0.22669927  1
+  Ni  Ni7  1  0.27328178  0.49992746  0.77330316  1
+  B  B8  1  0.11308600  0.27711901  0.39022268  1
+  B  B9  1  0.88691238  0.72288040  0.60977529  1
+  B  B10  1  0.88687326  0.27720404  0.16409202  1
+  B  B11  1  0.11312565  0.72279539  0.83590636  1
+  B  B12  1  0.72287376  0.88691251  0.60976889  1
+  B  B13  1  0.27712858  0.11308874  0.39023505  1
+  B  B14  1  0.72278939  0.11312707  0.83590189  1
+  B  B15  1  0.27721304  0.88687197  0.16409977  1
+  B  B16  1  0.41622728  0.41622721  0.53037599  1
+  B  B17  1  0.88588742  0.88588868  0.46963762  1
+  B  B18  1  0.58381586  0.11403757  0.99995606  1
+  B  B19  1  0.11403634  0.58381847  0.99995702  1
+  B  B20  1  0.58377068  0.58377183  0.46962203  1
+  B  B21  1  0.11411050  0.11411064  0.53035963  1
+  B  B22  1  0.88596148  0.41618327  0.00004237  1
+  B  B23  1  0.41618169  0.88596370  0.00004340  1

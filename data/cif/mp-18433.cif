@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NdTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48792689
+_cell_length_b   7.61628518
+_cell_length_c   7.71926332
+_cell_angle_alpha   80.09854592
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdTaO4
+_chemical_formula_sum   'Nd4 Ta4 O16'
+_cell_volume   317.84096972
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.22318009  0.34895164  0.89858361  1
+  Nd  Nd1  1  0.72318009  0.65104836  0.60141639  1
+  Nd  Nd2  1  0.77681991  0.65104836  0.10141639  1
+  Nd  Nd3  1  0.27681991  0.34895164  0.39858361  1
+  Ta  Ta4  1  0.73133804  0.16522224  0.69362612  1
+  Ta  Ta5  1  0.23133804  0.83477776  0.80637388  1
+  Ta  Ta6  1  0.26866196  0.83477776  0.30637388  1
+  Ta  Ta7  1  0.76866196  0.16522224  0.19362612  1
+  O  O8  1  0.50926038  0.33158630  0.12951555  1
+  O  O9  1  0.00926038  0.66841370  0.37048445  1
+  O  O10  1  0.49073962  0.66841370  0.87048445  1
+  O  O11  1  0.99073962  0.33158630  0.62951555  1
+  O  O12  1  0.98627640  0.38360009  0.16963768  1
+  O  O13  1  0.48627640  0.61639991  0.33036232  1
+  O  O14  1  0.01372360  0.61639991  0.83036232  1
+  O  O15  1  0.51372360  0.38360009  0.66963768  1
+  O  O16  1  0.85119239  0.16656869  0.94359626  1
+  O  O17  1  0.35119239  0.83343131  0.55640374  1
+  O  O18  1  0.14880761  0.83343131  0.05640374  1
+  O  O19  1  0.64880761  0.16656869  0.44359626  1
+  O  O20  1  0.40837037  0.05922063  0.79936093  1
+  O  O21  1  0.90837037  0.94077937  0.70063907  1
+  O  O22  1  0.59162963  0.94077937  0.20063907  1
+  O  O23  1  0.09162963  0.05922063  0.29936093  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Er3GaS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38823605
+_cell_length_b   8.43151277
+_cell_length_c   8.43151251
+_cell_angle_alpha   102.39109062
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3GaS6
+_chemical_formula_sum   'Er6 Ga2 S12'
+_cell_volume   443.56334475
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.33713411  0.59727195  0.40272805  1
+  Er  Er1  1  0.83713411  0.40272805  0.59727195  1
+  Er  Er2  1  0.24610236  0.08561651  0.28434227  1
+  Er  Er3  1  0.74610236  0.91438349  0.71565773  1
+  Er  Er4  1  0.24610236  0.71565773  0.91438349  1
+  Er  Er5  1  0.74610236  0.28434227  0.08561651  1
+  Ga  Ga6  1  0.71052341  0.79861397  0.20138603  1
+  Ga  Ga7  1  0.21052341  0.20138603  0.79861397  1
+  S  S8  1  0.06410441  0.04052462  0.95947538  1
+  S  S9  1  0.56410441  0.95947538  0.04052462  1
+  S  S10  1  0.06287389  0.78274221  0.21725779  1
+  S  S11  1  0.56287389  0.21725779  0.78274221  1
+  S  S12  1  0.04312044  0.69432096  0.63138378  1
+  S  S13  1  0.54312044  0.30567904  0.36861622  1
+  S  S14  1  0.04312044  0.36861622  0.30567904  1
+  S  S15  1  0.54312044  0.63138378  0.69432096  1
+  S  S16  1  0.52976029  0.56571975  0.10220073  1
+  S  S17  1  0.02976029  0.43428025  0.89779927  1
+  S  S18  1  0.52976029  0.89779927  0.43428025  1
+  S  S19  1  0.02976029  0.10220073  0.56571975  1

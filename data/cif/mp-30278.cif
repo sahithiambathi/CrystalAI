@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce3Ga4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00185071
+_cell_length_b   8.00184757
+_cell_length_c   8.00259044
+_cell_angle_alpha   119.47378520
+_cell_angle_beta   119.47379842
+_cell_angle_gamma   90.90818774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Ga4Cl
+_chemical_formula_sum   'Ce6 Ga8 Cl2'
+_cell_volume   365.17321223
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.83863620  0.66136380  0.50000000  1
+  Ce  Ce1  1  0.66142210  0.16142210  0.82284119  1
+  Ce  Ce2  1  0.33857790  0.83857790  0.17715881  1
+  Ce  Ce3  1  0.16136380  0.33863620  0.50000000  1
+  Ce  Ce4  1  0.25000200  0.24999800  -0.00000000  1
+  Ce  Ce5  1  0.74999800  0.75000200  -0.00000000  1
+  Ga  Ga6  1  0.15821297  0.94520973  0.50000400  1
+  Ga  Ga7  1  0.44520973  0.65821297  0.50000400  1
+  Ga  Ga8  1  0.55479027  0.34178703  0.49999600  1
+  Ga  Ga9  1  0.65811415  0.15811415  0.21293000  1
+  Ga  Ga10  1  0.84178703  0.05479027  0.49999600  1
+  Ga  Ga11  1  0.05481884  0.55481884  0.21293000  1
+  Ga  Ga12  1  0.34188585  0.84188585  0.78707000  1
+  Ga  Ga13  1  0.94518116  0.44518116  0.78707000  1
+  Cl  Cl14  1  -0.00000000  -0.00000000  -0.00000000  1
+  Cl  Cl15  1  0.50000000  0.50000000  -0.00000000  1

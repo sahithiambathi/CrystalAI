@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ti6P2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18666438
+_cell_length_b   5.18666438
+_cell_length_c   7.69550443
+_cell_angle_alpha   88.84254669
+_cell_angle_beta   88.84254669
+_cell_angle_gamma   36.89600633
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti6P2O
+_chemical_formula_sum   'Ti6 P2 O1'
+_cell_volume   124.25958267
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.55548764  0.55548764  0.75997682  1
+  Ti  Ti1  1  0.44451236  0.44451236  0.24002318  1
+  Ti  Ti2  1  0.86238104  0.86238104  0.54712395  1
+  Ti  Ti3  1  0.13761896  0.13761896  0.45287605  1
+  Ti  Ti4  1  0.86055804  0.86055804  0.94398499  1
+  Ti  Ti5  1  0.13944196  0.13944196  0.05601501  1
+  P  P6  1  0.25095423  0.25095423  0.75124431  1
+  P  P7  1  0.74904577  0.74904577  0.24875569  1
+  O  O8  1  0.50000000  0.50000000  0.50000000  1

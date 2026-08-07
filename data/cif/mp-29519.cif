@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KAuI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08628613
+_cell_length_b   9.99804387
+_cell_length_c   14.17537097
+_cell_angle_alpha   78.11384582
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAuI4
+_chemical_formula_sum   'K4 Au4 I16'
+_cell_volume   982.77720848
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.06410883  0.20095809  0.31653263  1
+  K  K1  1  0.56410883  0.79904191  0.18346737  1
+  K  K2  1  0.93589117  0.79904191  0.68346737  1
+  K  K3  1  0.43589117  0.20095809  0.81653263  1
+  Au  Au4  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au5  1  -0.00000000  0.50000000  -0.00000000  1
+  Au  Au6  1  0.50000000  -0.00000000  0.50000000  1
+  Au  Au7  1  -0.00000000  -0.00000000  -0.00000000  1
+  I  I8  1  0.93363121  0.08793305  0.81289176  1
+  I  I9  1  0.43363121  0.91206695  0.68710824  1
+  I  I10  1  0.06636879  0.91206695  0.18710824  1
+  I  I11  1  0.56636879  0.08793305  0.31289176  1
+  I  I12  1  0.29254727  0.85348664  0.96026394  1
+  I  I13  1  0.79254727  0.14651336  0.53973606  1
+  I  I14  1  0.70745273  0.14651336  0.03973606  1
+  I  I15  1  0.20745273  0.85348664  0.46026394  1
+  I  I16  1  0.15474485  0.50021002  0.82953438  1
+  I  I17  1  0.65474485  0.49978998  0.67046562  1
+  I  I18  1  0.84525515  0.49978998  0.17046562  1
+  I  I19  1  0.34525515  0.50021002  0.32953438  1
+  I  I20  1  0.72012538  0.65649649  0.91549452  1
+  I  I21  1  0.22012538  0.34350351  0.58450548  1
+  I  I22  1  0.27987462  0.34350351  0.08450548  1
+  I  I23  1  0.77987462  0.65649649  0.41549452  1

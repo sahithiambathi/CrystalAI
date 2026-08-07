@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GdCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98567858
+_cell_length_b   5.98565825
+_cell_length_c   5.98555523
+_cell_angle_alpha   106.16209605
+_cell_angle_beta   106.16227017
+_cell_angle_gamma   116.31405121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdCrO4
+_chemical_formula_sum   'Gd2 Cr2 O8'
+_cell_volume   163.29809858
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.50000167  0.50000020  0.00000172  1
+  Gd  Gd1  1  0.74999823  0.25000002  0.49999850  1
+  Cr  Cr2  1  0.25000079  0.74999875  0.49999920  1
+  Cr  Cr3  1  -0.00000085  -0.00000139  -0.00000216  1
+  O  O4  1  0.82303177  0.00914914  0.17665681  1
+  O  O5  1  0.89635406  0.57300273  0.31387631  1
+  O  O6  1  0.25912874  0.58248221  0.68612502  1
+  O  O7  1  0.83248383  0.64636613  0.82334478  1
+  O  O8  1  0.35363076  0.16751292  0.17665531  1
+  O  O9  1  0.41752503  0.74087500  0.31387596  1
+  O  O10  1  0.42699159  0.10364041  0.68612354  1
+  O  O11  1  0.99085438  0.17697288  0.82334501  1

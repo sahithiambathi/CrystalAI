@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScAlCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18923867
+_cell_length_b   4.18922850
+_cell_length_c   4.18917034
+_cell_angle_alpha   60.00463842
+_cell_angle_beta   60.00473680
+_cell_angle_gamma   60.00255711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAlCo2
+_chemical_formula_sum   'Sc1 Al1 Co2'
+_cell_volume   51.99018187
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.74999810  0.75000496  0.75000456  1
+  Al  Al1  1  0.24998796  0.25000381  0.25000457  1
+  Co  Co2  1  0.50001543  0.50000765  0.50000206  1
+  Co  Co3  1  -0.00000049  0.99998357  0.99998981  1

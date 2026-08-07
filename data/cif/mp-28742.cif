@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca4Ni3C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74895067
+_cell_length_b   5.84720715
+_cell_length_c   9.36342754
+_cell_angle_alpha   75.76140539
+_cell_angle_beta   78.45186195
+_cell_angle_gamma   71.30222841
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4Ni3C5
+_chemical_formula_sum   'Ca4 Ni3 C5'
+_cell_volume   186.79615489
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.10004171  0.19818494  0.60173264  1
+  Ca  Ca1  1  0.74431710  0.67458525  0.83677855  1
+  Ca  Ca2  1  0.25568290  0.32541475  0.16322145  1
+  Ca  Ca3  1  0.89995829  0.80181506  0.39826736  1
+  Ni  Ni4  1  0.54119661  0.75444041  0.16316637  1
+  Ni  Ni5  1  0.00000000  -0.00000000  0.00000000  1
+  Ni  Ni6  1  0.45880339  0.24555959  0.83683363  1
+  C  C7  1  0.39823894  0.51339898  0.69012413  1
+  C  C8  1  0.50000000  -0.00000000  0.00000000  1
+  C  C9  1  0.67253673  0.26590129  0.38902525  1
+  C  C10  1  0.32746327  0.73409871  0.61097475  1
+  C  C11  1  0.60176106  0.48660102  0.30987587  1

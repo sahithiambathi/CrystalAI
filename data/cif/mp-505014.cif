@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cs4Sn2Te7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.29380344
+_cell_length_b   9.29380344
+_cell_length_c   19.45132859
+_cell_angle_alpha   75.64878702
+_cell_angle_beta   75.64878702
+_cell_angle_gamma   50.99223140
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs4Sn2Te7
+_chemical_formula_sum   'Cs8 Sn4 Te14'
+_cell_volume   1255.35297382
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.02970107  0.46044646  0.14733831  1
+  Cs  Cs1  1  0.68243731  0.14108560  0.93779223  1
+  Cs  Cs2  1  0.85891440  0.31756269  0.56220777  1
+  Cs  Cs3  1  0.14108560  0.68243731  0.43779223  1
+  Cs  Cs4  1  0.53955354  0.97029893  0.35266169  1
+  Cs  Cs5  1  0.31756269  0.85891440  0.06220777  1
+  Cs  Cs6  1  0.46044646  0.02970107  0.64733831  1
+  Cs  Cs7  1  0.97029893  0.53955354  0.85266169  1
+  Sn  Sn8  1  0.22068682  0.68712607  0.65418897  1
+  Sn  Sn9  1  0.68712607  0.22068682  0.15418897  1
+  Sn  Sn10  1  0.31287393  0.77931318  0.84581103  1
+  Sn  Sn11  1  0.77931318  0.31287393  0.34581103  1
+  Te  Te12  1  0.19228669  0.63748294  0.96317904  1
+  Te  Te13  1  0.40578123  -0.00348772  0.85647593  1
+  Te  Te14  1  -0.00348772  0.40578123  0.35647593  1
+  Te  Te15  1  0.00348772  0.59421877  0.64352407  1
+  Te  Te16  1  0.36251706  0.80771331  0.53682096  1
+  Te  Te17  1  0.80771331  0.36251706  0.03682096  1
+  Te  Te18  1  0.48810287  0.35988965  0.73654935  1
+  Te  Te19  1  0.04265405  0.95734595  0.75000000  1
+  Te  Te20  1  0.63748294  0.19228669  0.46317904  1
+  Te  Te21  1  0.95734595  0.04265405  0.25000000  1
+  Te  Te22  1  0.35988965  0.48810287  0.23654935  1
+  Te  Te23  1  0.64011035  0.51189713  0.76345065  1
+  Te  Te24  1  0.51189713  0.64011035  0.26345065  1
+  Te  Te25  1  0.59421877  0.00348772  0.14352407  1

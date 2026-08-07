@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Te16(Mo3Ru)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10556607
+_cell_length_b   9.82179111
+_cell_length_c   10.45902513
+_cell_angle_alpha   90.60750542
+_cell_angle_beta   91.48372058
+_cell_angle_gamma   94.75685174
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te16(Mo3Ru)3
+_chemical_formula_sum   'Te16 Mo9 Ru3'
+_cell_volume   727.11132222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.77923314  0.78220470  0.00160433  1
+  Te  Te1  1  0.78239821  0.29245865  0.50264544  1
+  Te  Te2  1  0.20509921  0.20723431  0.99396122  1
+  Te  Te3  1  0.21497043  0.70691292  0.48796135  1
+  Te  Te4  1  0.60688759  0.57878649  0.70622379  1
+  Te  Te5  1  0.60709325  0.08237676  0.20097799  1
+  Te  Te6  1  0.88498224  0.44617447  0.16885891  1
+  Te  Te7  1  0.89199357  0.94365800  0.67942125  1
+  Te  Te8  1  0.26409288  0.74868218  0.12545464  1
+  Te  Te9  1  0.26844342  0.25005805  0.62637449  1
+  Te  Te10  1  0.38286946  0.42405266  0.30817307  1
+  Te  Te11  1  0.39463287  0.92438658  0.80822858  1
+  Te  Te12  1  0.11197035  0.55639081  0.82170433  1
+  Te  Te13  1  0.11839247  0.05748714  0.32249059  1
+  Te  Te14  1  0.73688024  0.25331573  0.87270019  1
+  Te  Te15  1  0.73471601  0.74613635  0.37257014  1
+  Mo  Mo16  1  0.75011222  0.02004538  0.43957562  1
+  Mo  Mo17  1  0.58500730  0.60008045  0.15068052  1
+  Mo  Mo18  1  0.59279999  0.10521863  0.65012246  1
+  Mo  Mo19  1  0.54675786  0.33218475  0.08026192  1
+  Mo  Mo20  1  0.55274583  0.83041113  0.58230001  1
+  Mo  Mo21  1  0.24991632  0.47640716  0.06480108  1
+  Mo  Mo22  1  0.26111278  0.97862568  0.56323428  1
+  Mo  Mo23  1  0.41016659  0.39569024  0.85352040  1
+  Mo  Mo24  1  0.41414572  0.89758162  0.34803931  1
+  Ru  Ru25  1  0.44645728  0.66894538  0.91794554  1
+  Ru  Ru26  1  0.44960996  0.17277579  0.41674198  1
+  Ru  Ru27  1  0.75651281  0.52171997  0.93342455  1

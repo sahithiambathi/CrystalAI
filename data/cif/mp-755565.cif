@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoBrO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.23021593
+_cell_length_b   10.23021593
+_cell_length_c   10.23021643
+_cell_angle_alpha   21.41799962
+_cell_angle_beta   21.41799962
+_cell_angle_gamma   21.41800432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoBrO
+_chemical_formula_sum   'Ho2 Br2 O2'
+_cell_volume   125.08342198
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.11979027  0.11979027  0.11979027  1
+  Ho  Ho1  1  0.88020973  0.88020973  0.88020973  1
+  Br  Br2  1  0.38917208  0.38917208  0.38917208  1
+  Br  Br3  1  0.61082792  0.61082792  0.61082792  1
+  O  O4  1  0.80518153  0.80518153  0.80518153  1
+  O  O5  1  0.19481847  0.19481847  0.19481847  1

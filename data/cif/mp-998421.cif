@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KCaCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23424146
+_cell_length_b   7.23424189
+_cell_length_c   8.02707338
+_cell_angle_alpha   63.21683877
+_cell_angle_beta   63.21683933
+_cell_angle_gamma   60.00000336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaCl3
+_chemical_formula_sum   'K2 Ca2 Cl6'
+_cell_volume   310.68155861
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.85765361  0.85765361  0.42704016  1
+  K  K1  1  0.14234739  0.14234739  0.57295784  1
+  Ca  Ca2  1  0.65895706  0.65895706  0.02312781  1
+  Ca  Ca3  1  0.34104194  0.34104294  0.97687319  1
+  Cl  Cl4  1  0.46425968  0.70363784  0.77155239  1
+  Cl  Cl5  1  0.06054909  0.46425968  0.77155239  1
+  Cl  Cl6  1  0.70363884  0.06055009  0.77155239  1
+  Cl  Cl7  1  0.53574032  0.29636116  0.22844761  1
+  Cl  Cl8  1  0.29636216  0.93944891  0.22844661  1
+  Cl  Cl9  1  0.93944991  0.53574032  0.22844661  1

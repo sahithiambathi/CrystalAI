@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_V4GeSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31578208
+_cell_length_b   7.38301343
+_cell_length_c   7.31338665
+_cell_angle_alpha   59.70462477
+_cell_angle_beta   61.11769568
+_cell_angle_gamma   59.67059939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4GeSe8
+_chemical_formula_sum   'V4 Ge1 Se8'
+_cell_volume   280.23978272
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.62561349  0.60274132  0.16848259  1
+  V  V1  1  0.60240447  0.61907270  0.60261870  1
+  V  V2  1  0.16863039  0.60299937  0.62552856  1
+  V  V3  1  0.60276536  0.17550455  0.60237335  1
+  Ge  Ge4  1  0.00254051  -0.00229937  0.00269254  1
+  Se  Se5  1  0.36655688  0.38990166  0.36634382  1
+  Se  Se6  1  0.88114978  0.36692799  0.38496461  1
+  Se  Se7  1  0.36604756  0.87705348  0.36652155  1
+  Se  Se8  1  0.38511670  0.36695495  0.88114106  1
+  Se  Se9  1  0.86488485  0.86325151  0.86508877  1
+  Se  Se10  1  0.41302810  0.86538549  0.85661767  1
+  Se  Se11  1  0.86484600  0.40745925  0.86437686  1
+  Se  Se12  1  0.85641491  0.86504910  0.41325091  1

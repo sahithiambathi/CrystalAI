@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti4Cu2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05892305
+_cell_length_b   8.05966958
+_cell_length_c   8.05871996
+_cell_angle_alpha   60.01332611
+_cell_angle_beta   60.01043205
+_cell_angle_gamma   60.01411995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4Cu2O
+_chemical_formula_sum   'Ti16 Cu8 O4'
+_cell_volume   370.22829524
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.81634199  0.18368277  0.81633047  1
+  Ti  Ti1  1  0.18364710  0.81633440  0.18364856  1
+  Ti  Ti2  1  0.43364032  0.06633640  0.43365218  1
+  Ti  Ti3  1  0.43365294  0.06635090  0.06636656  1
+  Ti  Ti4  1  0.06633414  0.43366288  0.43365449  1
+  Ti  Ti5  1  0.06634930  0.43367478  0.06634436  1
+  Ti  Ti6  1  0.18364930  0.18365373  0.81632627  1
+  Ti  Ti7  1  0.43364606  0.43366605  0.06633422  1
+  Ti  Ti8  1  0.12500967  0.62499222  0.62500172  1
+  Ti  Ti9  1  0.62500174  0.62499233  0.12501058  1
+  Ti  Ti10  1  0.62500245  0.62499121  0.62499985  1
+  Ti  Ti11  1  0.62500447  0.12499584  0.62500326  1
+  Ti  Ti12  1  0.18367685  0.81634475  0.81633402  1
+  Ti  Ti13  1  0.81633258  0.18365210  0.18364818  1
+  Ti  Ti14  1  0.06636615  0.06634484  0.43366222  1
+  Ti  Ti15  1  0.81633997  0.81633934  0.18367696  1
+  Cu  Cu16  1  0.41577408  0.75260303  0.41587003  1
+  Cu  Cu17  1  0.83415925  0.83417675  0.49746131  1
+  Cu  Cu18  1  0.83420876  0.83422843  0.83411990  1
+  Cu  Cu19  1  0.49743287  0.83421873  0.83410765  1
+  Cu  Cu20  1  0.41578403  0.41578294  0.41587901  1
+  Cu  Cu21  1  0.41582216  0.41580992  0.75256798  1
+  Cu  Cu22  1  0.83422597  0.49738110  0.83413160  1
+  Cu  Cu23  1  0.75260730  0.41576400  0.41587244  1
+  O  O24  1  0.12500465  0.12500770  0.62498751  1
+  O  O25  1  0.62498352  0.12500888  0.12500686  1
+  O  O26  1  0.12500140  0.12500605  0.12499969  1
+  O  O27  1  0.12500099  0.62499793  0.12500215  1

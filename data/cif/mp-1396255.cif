@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_ZnCr2F12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13483900
+_cell_length_b   5.38522340
+_cell_length_c   8.87346846
+_cell_angle_alpha   106.11503794
+_cell_angle_beta   89.97000734
+_cell_angle_gamma   118.39282034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCr2F12
+_chemical_formula_sum   'Zn1 Cr2 F12'
+_cell_volume   204.84928137
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr1  1  0.75185800  0.25290500  0.23989200  1
+  Cr  Cr2  1  0.24814200  0.74709500  0.76010800  1
+  F  F3  1  0.91883800  0.07962900  0.19062000  1
+  F  F4  1  0.42003800  0.57850400  0.68726500  1
+  F  F5  1  0.52611400  0.89841100  0.36675000  1
+  F  F6  1  0.02706600  0.40414600  0.86310400  1
+  F  F7  1  0.45453600  0.18695600  0.08302300  1
+  F  F8  1  0.95350700  0.68589100  0.57903500  1
+  F  F9  1  0.04649300  0.31410900  0.42096500  1
+  F  F10  1  0.54546400  0.81304400  0.91697700  1
+  F  F11  1  0.97293400  0.59585400  0.13689600  1
+  F  F12  1  0.47388600  0.10158900  0.63325000  1
+  F  F13  1  0.57996200  0.42149600  0.31273500  1
+  F  F14  1  0.08116200  0.92037100  0.80938000  1

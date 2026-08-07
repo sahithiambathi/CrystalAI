@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NdHo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05157866
+_cell_length_b   5.04355569
+_cell_length_c   5.04318558
+_cell_angle_alpha   89.92799849
+_cell_angle_beta   90.00758411
+_cell_angle_gamma   90.00139375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdHo3
+_chemical_formula_sum   'Nd1 Ho3'
+_cell_volume   128.48976737
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.99999342  0.99999396  0.99999102  1
+  Ho  Ho1  1  0.50000346  0.00000699  0.50001577  1
+  Ho  Ho2  1  0.00000211  0.50000066  0.49999515  1
+  Ho  Ho3  1  0.50000201  0.49999839  0.99999906  1

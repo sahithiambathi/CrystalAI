@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Pr12Ni6Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78465725
+_cell_length_b   8.78465725
+_cell_length_c   8.78465725
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr12Ni6Pb
+_chemical_formula_sum   'Pr12 Ni6 Pb1'
+_cell_volume   521.85827429
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.81354950  0.69100353  0.50455303  1
+  Pr  Pr1  1  0.18645050  0.30899647  0.49544697  1
+  Pr  Pr2  1  0.18645050  0.69100353  0.87745402  1
+  Pr  Pr3  1  0.81354950  0.30899647  0.12254598  1
+  Pr  Pr4  1  0.69100353  0.50455303  0.81354950  1
+  Pr  Pr5  1  0.30899647  0.49544697  0.18645050  1
+  Pr  Pr6  1  0.69100353  0.87745402  0.18645050  1
+  Pr  Pr7  1  0.30899647  0.12254598  0.81354950  1
+  Pr  Pr8  1  0.50455303  0.81354950  0.69100353  1
+  Pr  Pr9  1  0.49544697  0.18645050  0.30899647  1
+  Pr  Pr10  1  0.12254598  0.81354950  0.30899647  1
+  Pr  Pr11  1  0.87745402  0.18645050  0.69100353  1
+  Ni  Ni12  1  0.88074206  0.38074206  0.50000000  1
+  Ni  Ni13  1  0.11925794  0.61925794  0.50000000  1
+  Ni  Ni14  1  0.38074206  0.50000000  0.88074206  1
+  Ni  Ni15  1  0.61925794  0.50000000  0.11925794  1
+  Ni  Ni16  1  0.50000000  0.88074206  0.38074206  1
+  Ni  Ni17  1  0.50000000  0.11925794  0.61925794  1
+  Pb  Pb18  1  0.00000000  0.00000000  0.00000000  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmDyFe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20462478
+_cell_length_b   5.20536637
+_cell_length_c   5.20539853
+_cell_angle_alpha   90.00420933
+_cell_angle_beta   60.00449164
+_cell_angle_gamma   119.99546280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmDyFe4
+_chemical_formula_sum   'Sm1 Dy1 Fe4'
+_cell_volume   99.73668138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.99999849  0.00004483  0.00004943  1
+  Dy  Dy1  1  0.50000141  0.74996981  0.74996695  1
+  Fe  Fe2  1  0.75029006  0.37513017  0.87461774  1
+  Fe  Fe3  1  0.24972114  0.37508709  0.37514833  1
+  Fe  Fe4  1  0.24971008  0.87461805  0.37512948  1
+  Fe  Fe5  1  0.75027881  0.37514905  0.37508607  1

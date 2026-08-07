@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cr4GaS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98112335
+_cell_length_b   6.98266335
+_cell_length_c   6.98201765
+_cell_angle_alpha   60.00537304
+_cell_angle_beta   59.99774519
+_cell_angle_gamma   59.99964542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr4GaS8
+_chemical_formula_sum   'Cr4 Ga1 S8'
+_cell_volume   240.66970589
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.60244513  0.13249089  0.13252109  1
+  Cr  Cr1  1  0.13247523  0.60264957  0.13242699  1
+  Cr  Cr2  1  0.13250174  0.13243598  0.60257923  1
+  Cr  Cr3  1  0.13251660  0.13244659  0.13248084  1
+  Ga  Ga4  1  0.75019475  0.74989705  0.74998126  1
+  S  S5  1  0.34813302  0.88396284  0.88394859  1
+  S  S6  1  0.88394303  0.34810369  0.88397243  1
+  S  S7  1  0.88393576  0.88397927  0.34811671  1
+  S  S8  1  0.88393932  0.88397464  0.88395639  1
+  S  S9  1  0.89297044  0.36904237  0.36900173  1
+  S  S10  1  0.36899814  0.89288622  0.36906488  1
+  S  S11  1  0.36898046  0.36906982  0.89291921  1
+  S  S12  1  0.36896538  0.36905906  0.36902964  1

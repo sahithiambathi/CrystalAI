@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Er4MgNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49040900
+_cell_length_b   9.49042435
+_cell_length_c   9.49038205
+_cell_angle_alpha   59.99963518
+_cell_angle_beta   59.99932283
+_cell_angle_gamma   59.99961208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4MgNi
+_chemical_formula_sum   'Er16 Mg4 Ni4'
+_cell_volume   604.41407045
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.18624191  0.81375801  0.81375776  1
+  Er  Er1  1  0.81376174  0.18624502  0.18623854  1
+  Er  Er2  1  0.81376051  0.18624441  0.81375869  1
+  Er  Er3  1  0.18624015  0.81376036  0.18624255  1
+  Er  Er4  1  0.81375879  0.81375829  0.18624286  1
+  Er  Er5  1  0.18623503  0.18624534  0.81376079  1
+  Er  Er6  1  0.59577166  0.59576869  0.59576214  1
+  Er  Er7  1  0.59577563  0.59577072  0.21269050  1
+  Er  Er8  1  0.59576449  0.21268640  0.59577492  1
+  Er  Er9  1  0.21269012  0.59576649  0.59577542  1
+  Er  Er10  1  0.06230124  0.43769583  0.43769391  1
+  Er  Er11  1  0.43769416  0.06230550  0.06230538  1
+  Er  Er12  1  0.43769448  0.06230697  0.43769353  1
+  Er  Er13  1  0.06230481  0.43769435  0.06230512  1
+  Er  Er14  1  0.43769514  0.43769677  0.06230387  1
+  Er  Er15  1  0.06230757  0.06230170  0.43769504  1
+  Mg  Mg16  1  0.82898709  0.82898870  0.82898763  1
+  Mg  Mg17  1  0.82899091  0.82898865  0.51303039  1
+  Mg  Mg18  1  0.82899058  0.51303202  0.82898675  1
+  Mg  Mg19  1  0.51302839  0.82899195  0.82898756  1
+  Ni  Ni20  1  0.39180819  0.39181279  0.39180235  1
+  Ni  Ni21  1  0.39180851  0.39180513  0.82458745  1
+  Ni  Ni22  1  0.39179647  0.82459202  0.39180781  1
+  Ni  Ni23  1  0.82458844  0.39178189  0.39180903  1

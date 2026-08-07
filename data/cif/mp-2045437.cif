@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Er2SbO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09195349
+_cell_length_b   7.09196711
+_cell_length_c   7.09165708
+_cell_angle_alpha   148.97484302
+_cell_angle_beta   149.00111971
+_cell_angle_gamma   44.43030730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2SbO2
+_chemical_formula_sum   'Er2 Sb1 O2'
+_cell_volume   94.39950131
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.33326927  0.34797162  0.01469248  1
+  Er  Er1  1  0.66673032  0.68144395  0.01472158  1
+  Sb  Sb2  1  0.00000036  0.01614730  0.01614917  1
+  O  O3  1  0.74986666  0.26456957  0.51471610  1
+  O  O4  1  0.25013339  0.76486655  0.51471867  1

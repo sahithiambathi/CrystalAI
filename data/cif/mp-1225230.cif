@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuCdAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99632674
+_cell_length_b   5.99632674
+_cell_length_c   7.55829197
+_cell_angle_alpha   54.42628537
+_cell_angle_beta   54.42628537
+_cell_angle_gamma   47.79933863
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCdAg
+_chemical_formula_sum   'Eu2 Cd2 Ag2'
+_cell_volume   155.30738623
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.55043301  0.55043301  0.69793649  1
+  Eu  Eu1  1  0.44956623  0.44956623  0.30206348  1
+  Cd  Cd2  1  0.82910881  0.82910881  0.10780965  1
+  Cd  Cd3  1  0.17088793  0.17088793  0.89219483  1
+  Ag  Ag4  1  0.15747610  0.15747610  0.29562661  1
+  Ag  Ag5  1  0.84252793  0.84252793  0.70436794  1

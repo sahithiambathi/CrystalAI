@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MgCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.09690004
+_cell_length_b   4.42081481
+_cell_length_c   4.41794082
+_cell_angle_alpha   90.14851357
+_cell_angle_beta   89.99992051
+_cell_angle_gamma   90.00008517
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCu
+_chemical_formula_sum   'Mg2 Cu2'
+_cell_volume   60.48503618
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49998981  0.57430958  0.00298685  1
+  Mg  Mg1  1  0.50000883  0.09229896  0.49731815  1
+  Cu  Cu2  1  -0.00000033  0.06856547  0.99754798  1
+  Cu  Cu3  1  0.99999969  0.59815898  0.50214602  1

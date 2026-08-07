@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Lu(NbCl3)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.04614671
+_cell_length_b   10.04618162
+_cell_length_c   10.04649455
+_cell_angle_alpha   55.91905099
+_cell_angle_beta   55.92014884
+_cell_angle_gamma   55.91915706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(NbCl3)6
+_chemical_formula_sum   'Lu1 Nb6 Cl18'
+_cell_volume   649.16583993
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  -0.00000987  0.00001996  0.00002710  1
+  Nb  Nb1  1  0.40639476  0.29787721  0.65228734  1
+  Nb  Nb2  1  0.34765834  0.59362271  0.70213215  1
+  Nb  Nb3  1  0.70209615  0.34768702  0.59357472  1
+  Nb  Nb4  1  0.29791085  0.65228616  0.40635868  1
+  Nb  Nb5  1  0.65230598  0.40637225  0.29787935  1
+  Nb  Nb6  1  0.59362011  0.70207120  0.34767483  1
+  Cl  Cl7  1  0.56894642  0.15741402  0.44189487  1
+  Cl  Cl8  1  0.21924350  0.37046514  0.91303755  1
+  Cl  Cl9  1  0.91304583  0.21922698  0.37048624  1
+  Cl  Cl10  1  0.37048835  0.91303645  0.21924037  1
+  Cl  Cl11  1  0.78077694  0.62948099  0.08697897  1
+  Cl  Cl12  1  0.08697226  0.78076405  0.62949156  1
+  Cl  Cl13  1  0.70682549  0.96214922  0.15568329  1
+  Cl  Cl14  1  0.96215108  0.15567895  0.70682567  1
+  Cl  Cl15  1  0.15564488  0.70692837  0.96211900  1
+  Cl  Cl16  1  0.29311041  0.03787976  0.84435822  1
+  Cl  Cl17  1  0.03786464  0.84436504  0.29310763  1
+  Cl  Cl18  1  0.84429406  0.29321401  0.03789729  1
+  Cl  Cl19  1  0.55814661  0.43104791  0.84258457  1
+  Cl  Cl20  1  0.15740452  0.44188291  0.56895385  1
+  Cl  Cl21  1  0.44190814  0.56891473  0.15742688  1
+  Cl  Cl22  1  0.43109392  0.84257455  0.55809576  1
+  Cl  Cl23  1  0.84259877  0.55810604  0.43108152  1
+  Cl  Cl24  1  0.62950788  0.08693438  0.78080262  1

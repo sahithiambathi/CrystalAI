@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Nb3Zn3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25212612
+_cell_length_b   8.25212057
+_cell_length_c   8.25211178
+_cell_angle_alpha   60.00105751
+_cell_angle_beta   60.00098112
+_cell_angle_gamma   60.00094602
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Zn3N
+_chemical_formula_sum   'Nb12 Zn12 N4'
+_cell_volume   397.36656466
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.43229121  0.43228810  0.06771030  1
+  Nb  Nb1  1  0.06771699  0.43228193  0.06771766  1
+  Nb  Nb2  1  0.43228146  0.06771960  0.06771848  1
+  Nb  Nb3  1  0.06770906  0.06771139  0.43229116  1
+  Nb  Nb4  1  0.43229104  0.06770873  0.43229258  1
+  Nb  Nb5  1  0.06771371  0.43228353  0.43228758  1
+  Nb  Nb6  1  0.81774772  0.81774655  0.18225415  1
+  Nb  Nb7  1  0.18225460  0.81774575  0.18225921  1
+  Nb  Nb8  1  0.81774635  0.18225512  0.18225892  1
+  Nb  Nb9  1  0.18225050  0.18225055  0.81775290  1
+  Nb  Nb10  1  0.81775042  0.18224879  0.81775044  1
+  Nb  Nb11  1  0.18225557  0.81774373  0.81774422  1
+  Zn  Zn12  1  0.83173197  0.83171721  0.50479697  1
+  Zn  Zn13  1  0.83172803  0.50482039  0.83172046  1
+  Zn  Zn14  1  0.50481072  0.83172697  0.83173479  1
+  Zn  Zn15  1  0.83172058  0.83172095  0.83174559  1
+  Zn  Zn16  1  0.41828427  0.41828098  0.74515583  1
+  Zn  Zn17  1  0.41829363  0.74516372  0.41827079  1
+  Zn  Zn18  1  0.74515975  0.41829846  0.41827800  1
+  Zn  Zn19  1  0.41826684  0.41827863  0.41827569  1
+  Zn  Zn20  1  0.62498817  0.62500742  0.12500805  1
+  Zn  Zn21  1  0.62499363  0.12499007  0.62499578  1
+  Zn  Zn22  1  0.12499530  0.62499943  0.62498194  1
+  Zn  Zn23  1  0.62501310  0.62501755  0.62498160  1
+  N  N24  1  0.12500182  0.12499581  0.62500135  1
+  N  N25  1  0.12500895  0.62498696  0.12500176  1
+  N  N26  1  0.62499168  0.12500520  0.12500380  1
+  N  N27  1  0.12500392  0.12500347  0.12500801  1

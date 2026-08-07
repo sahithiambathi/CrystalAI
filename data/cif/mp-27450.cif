@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KCuCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05982934
+_cell_length_b   8.71618051
+_cell_length_c   13.76344897
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.11185592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCuCl3
+_chemical_formula_sum   'K4 Cu4 Cl12'
+_cell_volume   483.28914132
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.21682053  0.44187620  0.83079487  1
+  K  K1  1  0.78317947  0.05812380  0.33079487  1
+  K  K2  1  0.78317947  0.55812380  0.16920513  1
+  K  K3  1  0.21682053  0.94187620  0.66920513  1
+  Cu  Cu4  1  0.76231713  0.34332700  0.54972304  1
+  Cu  Cu5  1  0.23768287  0.15667300  0.04972304  1
+  Cu  Cu6  1  0.23768287  0.65667300  0.45027696  1
+  Cu  Cu7  1  0.76231713  0.84332700  0.95027696  1
+  Cl  Cl8  1  0.67610485  0.32033486  0.99236416  1
+  Cl  Cl9  1  0.82377736  0.96505423  0.09914197  1
+  Cl  Cl10  1  0.82377736  0.46505423  0.40085803  1
+  Cl  Cl11  1  0.17622264  0.03494577  0.90085803  1
+  Cl  Cl12  1  0.72602233  0.73651745  0.80082954  1
+  Cl  Cl13  1  0.27397767  0.76348255  0.30082954  1
+  Cl  Cl14  1  0.27397767  0.26348255  0.19917046  1
+  Cl  Cl15  1  0.32389515  0.17966514  0.49236416  1
+  Cl  Cl16  1  0.32389515  0.67966514  0.00763584  1
+  Cl  Cl17  1  0.67610485  0.82033486  0.50763584  1
+  Cl  Cl18  1  0.72602233  0.23651745  0.69917046  1
+  Cl  Cl19  1  0.17622264  0.53494577  0.59914197  1

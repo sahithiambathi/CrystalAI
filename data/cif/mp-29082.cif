@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba5CrN5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94728499
+_cell_length_b   7.94728702
+_cell_length_c   9.48464346
+_cell_angle_alpha   76.21473882
+_cell_angle_beta   76.21477560
+_cell_angle_gamma   96.07790436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5CrN5
+_chemical_formula_sum   'Ba10 Cr2 N10'
+_cell_volume   556.56562832
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.38849222  0.38849241  0.38334650  1
+  Ba  Ba1  1  0.61150748  0.61150754  0.61665392  1
+  Ba  Ba2  1  0.66374373  0.66374432  0.00719918  1
+  Ba  Ba3  1  0.33625546  0.33625603  0.99280212  1
+  Ba  Ba4  1  0.92521643  0.92521525  0.20142382  1
+  Ba  Ba5  1  0.07478449  0.07478391  0.79857610  1
+  Ba  Ba6  1  0.56333960  0.09381761  0.75711600  1
+  Ba  Ba7  1  0.90618262  0.43666040  0.24288399  1
+  Ba  Ba8  1  0.43665946  0.90618228  0.24288380  1
+  Ba  Ba9  1  0.09381734  0.56334060  0.75711625  1
+  Cr  Cr10  1  0.75755589  0.24244428  -0.00000001  1
+  Cr  Cr11  1  0.24244410  0.75755584  0.00000017  1
+  N  N12  1  0.65097731  0.65097746  0.31181788  1
+  N  N13  1  0.34902225  0.34902277  0.68818231  1
+  N  N14  1  0.71733916  0.02494743  0.99182339  1
+  N  N15  1  0.97505209  0.28266074  0.00817660  1
+  N  N16  1  0.28265912  0.97504794  0.00817649  1
+  N  N17  1  0.02495271  0.71734113  0.99182343  1
+  N  N18  1  0.38640562  0.73027201  0.83963595  1
+  N  N19  1  0.26972835  0.61359471  0.16036379  1
+  N  N20  1  0.61359325  0.26972847  0.16036557  1
+  N  N21  1  0.73027133  0.38640686  0.83963375  1

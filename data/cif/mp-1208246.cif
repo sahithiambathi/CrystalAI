@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti5CoSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14287899
+_cell_length_b   7.78549164
+_cell_length_c   7.78551609
+_cell_angle_alpha   83.73217830
+_cell_angle_beta   70.69789848
+_cell_angle_gamma   70.69791833
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5CoSb2
+_chemical_formula_sum   'Ti10 Co2 Sb4'
+_cell_volume   277.67032591
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000242  0.50004384  0.49995480  1
+  Ti  Ti1  1  0.74999705  0.49998458  0.50001562  1
+  Ti  Ti2  1  0.06937651  0.13215769  0.72869608  1
+  Ti  Ti3  1  0.93061475  0.86782308  0.27131933  1
+  Ti  Ti4  1  0.79826882  0.27133979  0.13218607  1
+  Ti  Ti5  1  0.43062128  0.27130631  0.86784216  1
+  Ti  Ti6  1  0.20170908  0.72868268  0.86781442  1
+  Ti  Ti7  1  0.56938347  0.72868045  0.13217617  1
+  Ti  Ti8  1  0.70172751  0.86781329  0.72866331  1
+  Ti  Ti9  1  0.29829060  0.13218549  0.27131446  1
+  Co  Co10  1  0.25000082  -0.00015065  0.00014919  1
+  Co  Co11  1  0.74999957  0.00011670  -0.00011798  1
+  Sb  Sb12  1  0.16407219  0.50000261  0.17187043  1
+  Sb  Sb13  1  0.83592845  0.50000338  0.82811126  1
+  Sb  Sb14  1  0.33591832  0.82812381  0.50000736  1
+  Sb  Sb15  1  0.66408915  0.17188695  0.49999733  1

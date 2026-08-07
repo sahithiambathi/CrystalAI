@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaCrGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17481849
+_cell_length_b   6.17481974
+_cell_length_c   5.96819897
+_cell_angle_alpha   90.00001943
+_cell_angle_beta   89.99998517
+_cell_angle_gamma   119.99952582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCrGe3
+_chemical_formula_sum   'La2 Cr2 Ge6'
+_cell_volume   197.07179838
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.33333304  0.66666673  0.74999965  1
+  La  La1  1  0.66666644  0.33333308  0.25000060  1
+  Cr  Cr2  1  0.00000113  0.00000120  0.49999966  1
+  Cr  Cr3  1  -0.00000049  -0.00000086  0.00000036  1
+  Ge  Ge4  1  0.19474059  0.80525937  0.25000167  1
+  Ge  Ge5  1  0.19473789  0.38947873  0.25000201  1
+  Ge  Ge6  1  0.61052128  0.80526203  0.25000272  1
+  Ge  Ge7  1  0.80525948  0.19474056  0.74999830  1
+  Ge  Ge8  1  0.80526190  0.61052121  0.74999758  1
+  Ge  Ge9  1  0.38947873  0.19473796  0.74999745  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Er3(In2Co)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81628213
+_cell_length_b   7.81628073
+_cell_length_c   3.58335848
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00008331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3(In2Co)2
+_chemical_formula_sum   'Er3 In4 Co2'
+_cell_volume   189.59238974
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.70484206  0.95433532  0.50000000  1
+  Er  Er1  1  0.24949326  0.29515794  0.50000000  1
+  Er  Er2  1  0.04566568  0.75050674  0.50000000  1
+  In  In3  1  0.92297178  0.33472547  -0.00000000  1
+  In  In4  1  0.41175369  0.07702722  -0.00000000  1
+  In  In5  1  0.66527453  0.58824631  0.00000000  1
+  In  In6  1  0.33333300  0.66666700  0.00000000  1
+  Co  Co7  1  0.66666700  0.33333300  0.50000000  1
+  Co  Co8  1  -0.00000000  0.99999900  -0.00000000  1

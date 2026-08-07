@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuZnIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06779925
+_cell_length_b   6.06779925
+_cell_length_c   7.70663406
+_cell_angle_alpha   51.52032638
+_cell_angle_beta   51.52032638
+_cell_angle_gamma   46.26788090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuZnIn
+_chemical_formula_sum   'Eu2 Zn2 In2'
+_cell_volume   150.96360752
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.53979468  0.53979468  0.70542409  1
+  Eu  Eu1  1  0.46020532  0.46020532  0.29457591  1
+  Zn  Zn2  1  0.15494548  0.15494548  0.29883985  1
+  Zn  Zn3  1  0.84505452  0.84505452  0.70116015  1
+  In  In4  1  0.82837820  0.82837820  0.11377415  1
+  In  In5  1  0.17162180  0.17162180  0.88622585  1

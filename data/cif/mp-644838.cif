@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Co2Mo4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92504428
+_cell_length_b   7.92472496
+_cell_length_c   7.92502291
+_cell_angle_alpha   60.00134416
+_cell_angle_beta   60.00273567
+_cell_angle_gamma   60.00146904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2Mo4N
+_chemical_formula_sum   'Co8 Mo16 N4'
+_cell_volume   351.95702318
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.24277181  0.91904243  0.91910676  1
+  Co  Co1  1  0.91906530  0.24277154  0.91909579  1
+  Co  Co2  1  0.91908227  0.91904570  0.91911338  1
+  Co  Co3  1  0.91909024  0.91905457  0.24276349  1
+  Co  Co4  1  0.00731868  0.33092511  0.33086277  1
+  Co  Co5  1  0.33088323  0.33091186  0.00732505  1
+  Co  Co6  1  0.33090270  0.00732444  0.33087086  1
+  Co  Co7  1  0.33089573  0.33091734  0.33086350  1
+  Mo  Mo8  1  0.69016021  0.30985444  0.69019854  1
+  Mo  Mo9  1  0.62504152  0.12498779  0.12498436  1
+  Mo  Mo10  1  0.55979270  0.55981897  0.94017067  1
+  Mo  Mo11  1  0.55983957  0.94014866  0.55980716  1
+  Mo  Mo12  1  0.94015197  0.94020029  0.55980623  1
+  Mo  Mo13  1  0.94012977  0.55984807  0.55978876  1
+  Mo  Mo14  1  0.94016514  0.55981907  0.94022124  1
+  Mo  Mo15  1  0.69018049  0.30982307  0.30980546  1
+  Mo  Mo16  1  0.30983056  0.69017651  0.30977254  1
+  Mo  Mo17  1  0.12498578  0.12498526  0.62504498  1
+  Mo  Mo18  1  0.30984654  0.30980664  0.69018700  1
+  Mo  Mo19  1  0.30986218  0.69015620  0.69022757  1
+  Mo  Mo20  1  0.69022132  0.69018766  0.30982070  1
+  Mo  Mo21  1  0.12498628  0.62504604  0.12498380  1
+  Mo  Mo22  1  0.12498628  0.12498427  0.12498394  1
+  Mo  Mo23  1  0.55981001  0.94018468  0.94019304  1
+  N  N24  1  0.62500746  0.62499666  0.62500938  1
+  N  N25  1  0.12499261  0.62499148  0.62500370  1
+  N  N26  1  0.62499661  0.12499857  0.62499840  1
+  N  N27  1  0.62500301  0.62499268  0.12499093  1

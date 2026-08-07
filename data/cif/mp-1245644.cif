@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_GaCo2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02943106
+_cell_length_b   8.46325811
+_cell_length_c   12.04249845
+_cell_angle_alpha   89.99999959
+_cell_angle_beta   99.88043251
+_cell_angle_gamma   147.28542261
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaCo2N3
+_chemical_formula_sum   'Ga4 Co8 N12'
+_cell_volume   262.69947397
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.49889659  0.20148721  0.68716443  1
+  Ga  Ga1  1  0.50110341  0.70259062  0.81283557  1
+  Ga  Ga2  1  0.50110341  0.79851279  0.31283557  1
+  Ga  Ga3  1  0.49889659  0.29740938  0.18716443  1
+  Co  Co4  1  0.41197083  0.95687077  0.87840500  1
+  Co  Co5  1  0.58802917  0.54490095  0.62159500  1
+  Co  Co6  1  0.58802917  0.04312923  0.12159500  1
+  Co  Co7  1  0.41197083  0.45509905  0.37840500  1
+  Co  Co8  1  0.66535774  0.95406866  0.51786977  1
+  Co  Co9  1  0.33464226  0.28871092  0.98213023  1
+  Co  Co10  1  0.33464226  0.04593134  0.48213023  1
+  Co  Co11  1  0.66535774  0.71128908  0.01786977  1
+  N  N12  1  0.00000000  0.61073640  0.75000000  1
+  N  N13  1  -0.00000000  0.38926360  0.25000000  1
+  N  N14  1  0.88199403  0.24247717  0.60850324  1
+  N  N15  1  0.11800597  0.36048314  0.89149676  1
+  N  N16  1  0.11800597  0.75752283  0.39149676  1
+  N  N17  1  0.88199403  0.63951686  0.10850324  1
+  N  N18  1  0.33055250  0.06183235  0.99062609  1
+  N  N19  1  0.66944750  0.73127885  0.50937391  1
+  N  N20  1  0.66944750  0.93816765  0.00937391  1
+  N  N21  1  0.33055250  0.26872115  0.49062609  1
+  N  N22  1  0.00000000  0.88431422  0.75000000  1
+  N  N23  1  -0.00000000  0.11568578  0.25000000  1

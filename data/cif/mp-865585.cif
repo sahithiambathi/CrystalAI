@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_VGeRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23423100
+_cell_length_b   4.23753304
+_cell_length_c   4.23605017
+_cell_angle_alpha   59.99278611
+_cell_angle_beta   59.98295923
+_cell_angle_gamma   60.01366781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VGeRu2
+_chemical_formula_sum   'V1 Ge1 Ru2'
+_cell_volume   53.74015658
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.74996064  0.75000799  0.75002198  1
+  Ge  Ge1  1  0.25001274  0.24999336  0.24998218  1
+  Ru  Ru2  1  0.50002398  0.50001872  0.49991963  1
+  Ru  Ru3  1  0.00000164  0.99997894  0.00007521  1

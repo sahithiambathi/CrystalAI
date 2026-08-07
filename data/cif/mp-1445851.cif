@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MgCr2F12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20705500
+_cell_length_b   5.34727064
+_cell_length_c   8.97684525
+_cell_angle_alpha   106.44574167
+_cell_angle_beta   89.96952299
+_cell_angle_gamma   119.08511514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCr2F12
+_chemical_formula_sum   'Mg1 Cr2 F12'
+_cell_volume   206.67088331
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr1  1  0.24279700  0.75328600  0.23993700  1
+  Cr  Cr2  1  0.75720300  0.24671400  0.76006300  1
+  F  F3  1  0.85879000  0.58888300  0.17755200  1
+  F  F4  1  0.35205800  0.08790100  0.67426600  1
+  F  F5  1  0.71724500  0.89995600  0.86436300  1
+  F  F6  1  0.21620900  0.39460800  0.36804400  1
+  F  F7  1  0.67532600  0.32611400  0.90841600  1
+  F  F8  1  0.17599000  0.82691700  0.41160500  1
+  F  F9  1  0.28275500  0.10004400  0.13563700  1
+  F  F10  1  0.78379100  0.60539200  0.63195600  1
+  F  F11  1  0.14121000  0.41111700  0.82244800  1
+  F  F12  1  0.64794200  0.91209900  0.32573400  1
+  F  F13  1  0.32467400  0.67388600  0.09158400  1
+  F  F14  1  0.82401000  0.17308300  0.58839500  1

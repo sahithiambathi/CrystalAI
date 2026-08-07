@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Th6Cd7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02609668
+_cell_length_b   9.88648379
+_cell_length_c   11.63260018
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th6Cd7
+_chemical_formula_sum   'Th12 Cd14'
+_cell_volume   693.03434076
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  -0.00000000  0.65587013  0.95653054  1
+  Th  Th1  1  -0.00000000  0.34412987  0.04346946  1
+  Th  Th2  1  -0.00000000  0.15587013  0.54346946  1
+  Th  Th3  1  -0.00000000  0.84412987  0.45653054  1
+  Th  Th4  1  0.50000000  0.83061669  0.91253030  1
+  Th  Th5  1  0.50000000  0.16938331  0.08746970  1
+  Th  Th6  1  0.50000000  0.33061669  0.58746970  1
+  Th  Th7  1  0.50000000  0.66938331  0.41253030  1
+  Th  Th8  1  0.50000000  0.44740192  0.87340469  1
+  Th  Th9  1  0.50000000  0.55259808  0.12659531  1
+  Th  Th10  1  0.50000000  0.94740192  0.62659531  1
+  Th  Th11  1  0.50000000  0.05259808  0.37340469  1
+  Cd  Cd12  1  -0.00000000  -0.00000000  0.00000000  1
+  Cd  Cd13  1  -0.00000000  0.50000000  0.50000000  1
+  Cd  Cd14  1  -0.00000000  0.90038038  0.75298635  1
+  Cd  Cd15  1  -0.00000000  0.09961962  0.24701365  1
+  Cd  Cd16  1  -0.00000000  0.40038038  0.74701365  1
+  Cd  Cd17  1  -0.00000000  0.59961962  0.25298635  1
+  Cd  Cd18  1  0.74475593  0.15142215  0.82042598  1
+  Cd  Cd19  1  0.74475593  0.84857785  0.17957402  1
+  Cd  Cd20  1  0.25524407  0.65142215  0.67957402  1
+  Cd  Cd21  1  0.25524407  0.34857785  0.32042598  1
+  Cd  Cd22  1  0.25524407  0.84857785  0.17957402  1
+  Cd  Cd23  1  0.25524407  0.15142215  0.82042598  1
+  Cd  Cd24  1  0.74475593  0.34857785  0.32042598  1
+  Cd  Cd25  1  0.74475593  0.65142215  0.67957402  1

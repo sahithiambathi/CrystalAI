@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbRhO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63372957
+_cell_length_b   5.63372918
+_cell_length_c   5.63372480
+_cell_angle_alpha   106.66258275
+_cell_angle_beta   106.66258936
+_cell_angle_gamma   115.24752549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbRhO4
+_chemical_formula_sum   'Nb2 Rh2 O8'
+_cell_volume   136.58687668
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.76557073  0.26557075  0.50000042  1
+  Nb  Nb1  1  0.51557067  0.51557124  0.00000067  1
+  Rh  Rh2  1  0.24825497  0.74825508  0.50000026  1
+  Rh  Rh3  1  0.99825533  0.99825528  0.00000060  1
+  O  O4  1  0.44772766  0.25302389  0.19470319  1
+  O  O5  1  0.94538029  0.74006493  0.20531493  1
+  O  O6  1  0.50302415  0.80832033  0.30529672  1
+  O  O7  1  0.99006141  0.28474519  0.29468426  1
+  O  O8  1  0.99006488  0.69537981  0.70531463  1
+  O  O9  1  0.50302389  0.19772771  0.69470312  1
+  O  O10  1  0.05832064  0.25302432  0.80529700  1
+  O  O11  1  0.53474537  0.74006147  0.79468420  1

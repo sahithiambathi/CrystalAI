@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_U(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89328930
+_cell_length_b   3.89330974
+_cell_length_c   9.47424723
+_cell_angle_alpha   89.99984518
+_cell_angle_beta   89.99984743
+_cell_angle_gamma   59.99490980
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U(BiO3)2
+_chemical_formula_sum   'U1 Bi2 O6'
+_cell_volume   124.36228703
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.97357143  0.02642842  0.00000353  1
+  Bi  Bi1  1  0.30792037  0.35871744  0.34051938  1
+  Bi  Bi2  1  0.64128410  0.69207757  0.65948067  1
+  O  O3  1  0.97382049  0.02629345  0.21014129  1
+  O  O4  1  0.97370011  0.02618639  0.78985648  1
+  O  O5  1  0.30766252  0.35900108  0.58479977  1
+  O  O6  1  0.64017285  0.69313071  0.94696940  1
+  O  O7  1  0.30687124  0.35982507  0.05302917  1
+  O  O8  1  0.64099689  0.69233888  0.41520232  1

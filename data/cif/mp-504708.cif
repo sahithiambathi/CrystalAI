@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsCoCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25653924
+_cell_length_b   7.25670505
+_cell_length_c   5.98752246
+_cell_angle_alpha   90.00539652
+_cell_angle_beta   89.99469254
+_cell_angle_gamma   120.00716267
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCoCl3
+_chemical_formula_sum   'Cs2 Co2 Cl6'
+_cell_volume   273.03319679
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.66673243  0.33328332  0.25000945  1
+  Cs  Cs1  1  0.33326757  0.66671668  0.74999055  1
+  Co  Co2  1  0.00000000  0.00000000  -0.00000000  1
+  Co  Co3  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl4  1  0.84492962  0.69366108  0.75000692  1
+  Cl  Cl5  1  0.84516198  0.15479968  0.75001477  1
+  Cl  Cl6  1  0.15483802  0.84520032  0.24998523  1
+  Cl  Cl7  1  0.69364810  0.84489598  0.25001013  1
+  Cl  Cl8  1  0.30635190  0.15510402  0.74998987  1
+  Cl  Cl9  1  0.15507038  0.30633892  0.24999308  1

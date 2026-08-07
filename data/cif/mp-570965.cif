@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Pr6CoBr10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65684818
+_cell_length_b   9.35714544
+_cell_length_c   9.54501674
+_cell_angle_alpha   109.73822908
+_cell_angle_beta   106.97501048
+_cell_angle_gamma   97.02052649
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr6CoBr10
+_chemical_formula_sum   'Pr6 Co1 Br10'
+_cell_volume   596.83154262
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.37006138  0.19229234  0.14416106  1
+  Pr  Pr1  1  0.02232525  0.89666435  0.69353142  1
+  Pr  Pr2  1  0.12288807  0.76242857  0.04417598  1
+  Pr  Pr3  1  0.62993962  0.80770766  0.85583894  1
+  Pr  Pr4  1  0.87711193  0.23757143  0.95582402  1
+  Pr  Pr5  1  0.97767475  0.10333565  0.30646858  1
+  Co  Co6  1  0.00000000  -0.00000000  0.00000000  1
+  Br  Br7  1  0.44941073  0.07990775  0.82348718  1
+  Br  Br8  1  0.74346423  0.53763197  0.91851102  1
+  Br  Br9  1  0.25653577  0.46236803  0.08148798  1
+  Br  Br10  1  0.90792155  0.17104379  0.63173499  1
+  Br  Br11  1  0.62835286  0.71907449  0.53137975  1
+  Br  Br12  1  0.55058927  0.92009225  0.17651282  1
+  Br  Br13  1  0.09207845  0.82895621  0.36826601  1
+  Br  Br14  1  0.80368255  0.36293406  0.26549167  1
+  Br  Br15  1  0.19631745  0.63706594  0.73450833  1
+  Br  Br16  1  0.37164714  0.28092551  0.46862025  1

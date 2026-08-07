@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KMn4O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67729869
+_cell_length_b   5.67730113
+_cell_length_c   7.27443777
+_cell_angle_alpha   67.01710836
+_cell_angle_beta   67.01725749
+_cell_angle_gamma   60.00604513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMn4O8
+_chemical_formula_sum   'K1 Mn4 O8'
+_cell_volume   181.25560218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Mn  Mn1  1  -0.00000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  -0.00000000  0.50000000  1
+  Mn  Mn3  1  -0.00000000  -0.00000000  0.50000000  1
+  Mn  Mn4  1  0.50000000  0.50000000  0.50000000  1
+  O  O5  1  0.21664106  0.21664206  0.35014976  1
+  O  O6  1  0.71839751  0.71839651  0.34808863  1
+  O  O7  1  0.71839496  0.21521539  0.34806531  1
+  O  O8  1  0.21521439  0.71839596  0.34806631  1
+  O  O9  1  0.28160504  0.78478461  0.65193469  1
+  O  O10  1  0.78478561  0.28160404  0.65193369  1
+  O  O11  1  0.78335894  0.78335794  0.64985024  1
+  O  O12  1  0.28160249  0.28160349  0.65191137  1

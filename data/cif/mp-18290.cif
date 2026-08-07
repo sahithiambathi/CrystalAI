@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr6Ga5N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.08070093
+_cell_length_b   14.08070085
+_cell_length_c   14.08070093
+_cell_angle_alpha   31.19345657
+_cell_angle_beta   31.19347173
+_cell_angle_gamma   31.19345579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr6Ga5N
+_chemical_formula_sum   'Sr12 Ga10 N2'
+_cell_volume   664.54346918
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.78451713  0.24219507  0.36474856  1
+  Sr  Sr1  1  0.24219547  0.36474853  0.78451669  1
+  Sr  Sr2  1  0.36474831  0.78451711  0.24219516  1
+  Sr  Sr3  1  0.71549011  0.13525722  0.25780524  1
+  Sr  Sr4  1  0.13525729  0.25780509  0.71549020  1
+  Sr  Sr5  1  0.25780518  0.71549030  0.13525714  1
+  Sr  Sr6  1  0.21550573  0.75781141  0.63526423  1
+  Sr  Sr7  1  0.75781129  0.63526425  0.21550598  1
+  Sr  Sr8  1  0.63526440  0.21550578  0.75781139  1
+  Sr  Sr9  1  0.28448729  0.86473017  0.74218824  1
+  Sr  Sr10  1  0.86473032  0.74218863  0.28448685  1
+  Sr  Sr11  1  0.74218856  0.28448686  0.86473023  1
+  Ga  Ga12  1  0.24998838  0.45644890  0.04353421  1
+  Ga  Ga13  1  0.19521099  0.19521143  0.19520987  1
+  Ga  Ga14  1  0.69520548  0.69520556  0.69520573  1
+  Ga  Ga15  1  0.30477982  0.30477955  0.30477962  1
+  Ga  Ga16  1  0.80480400  0.80480351  0.80480497  1
+  Ga  Ga17  1  0.45644817  0.04353363  0.24998934  1
+  Ga  Ga18  1  0.04353369  0.24998885  0.45644861  1
+  Ga  Ga19  1  0.75001085  0.54356983  0.95644717  1
+  Ga  Ga20  1  0.54357027  0.95644719  0.75001059  1
+  Ga  Ga21  1  0.95644697  0.75001091  0.54357013  1
+  N  N22  1  0.50000605  0.50000608  0.50000592  1
+  N  N23  1  -0.00000575  -0.00000587  -0.00000606  1

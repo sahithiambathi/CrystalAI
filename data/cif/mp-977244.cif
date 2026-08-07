@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaTi5Se8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.65639842
+_cell_length_b   9.65639842
+_cell_length_c   9.04082994
+_cell_angle_alpha   75.34083829
+_cell_angle_beta   75.34083829
+_cell_angle_gamma   21.73102215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTi5Se8
+_chemical_formula_sum   'Na1 Ti5 Se8'
+_cell_volume   301.58735482
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.50000000  1
+  Ti  Ti1  1  -0.00000000  -0.00000000  -0.00000000  1
+  Ti  Ti2  1  0.34968006  0.34968006  0.98385351  1
+  Ti  Ti3  1  0.29036637  0.29036637  0.35132394  1
+  Ti  Ti4  1  0.70963363  0.70963363  0.64867606  1
+  Ti  Ti5  1  0.65031994  0.65031994  0.01614649  1
+  Se  Se6  1  0.42548839  0.42548839  0.17129993  1
+  Se  Se7  1  0.91792517  0.91792517  0.80616727  1
+  Se  Se8  1  0.83972780  0.83972780  0.49617948  1
+  Se  Se9  1  0.76138506  0.76138506  0.15563711  1
+  Se  Se10  1  0.23861494  0.23861494  0.84436289  1
+  Se  Se11  1  0.16027220  0.16027220  0.50382052  1
+  Se  Se12  1  0.08207483  0.08207483  0.19383273  1
+  Se  Se13  1  0.57451161  0.57451161  0.82870007  1

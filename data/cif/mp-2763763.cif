@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CuAgF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71554475
+_cell_length_b   5.68574190
+_cell_length_c   7.59587148
+_cell_angle_alpha   90.01611014
+_cell_angle_beta   89.33262023
+_cell_angle_gamma   89.81831487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAgF3
+_chemical_formula_sum   'Cu4 Ag4 F12'
+_cell_volume   246.82588964
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  -0.00000000  0.00000000  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  0.50000000  -0.00000000  0.50000000  1
+  Ag  Ag4  1  0.46437480  0.50664826  0.74978086  1
+  Ag  Ag5  1  0.53562520  0.49335174  0.25021914  1
+  Ag  Ag6  1  0.96427793  0.99270531  0.74977438  1
+  Ag  Ag7  1  0.03572207  0.00729469  0.25022562  1
+  F  F8  1  0.69091948  0.73245488  0.95772613  1
+  F  F9  1  0.30908052  0.26754512  0.04227387  1
+  F  F10  1  0.81006249  0.23149759  0.03617142  1
+  F  F11  1  0.18993751  0.76850241  0.96382858  1
+  F  F12  1  0.73336374  0.69067867  0.54416843  1
+  F  F13  1  0.26663626  0.30932133  0.45583157  1
+  F  F14  1  0.76799684  0.18988095  0.46239565  1
+  F  F15  1  0.23200316  0.81011905  0.53760435  1
+  F  F16  1  0.02033995  0.42215303  0.74982326  1
+  F  F17  1  0.97966005  0.57784697  0.25017674  1
+  F  F18  1  0.50705306  0.07796889  0.74980566  1
+  F  F19  1  0.49294694  0.92203111  0.25019434  1

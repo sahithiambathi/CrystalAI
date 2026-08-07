@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La3(CrN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85076023
+_cell_length_b   3.85076130
+_cell_length_c   10.38492538
+_cell_angle_alpha   100.68454069
+_cell_angle_beta   100.68454443
+_cell_angle_gamma   89.99999839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3(CrN3)2
+_chemical_formula_sum   'La3 Cr2 N6'
+_cell_volume   148.60389598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.17983887  0.17983887  0.35967574  1
+  La  La1  1  0.82016113  0.82016113  0.64032426  1
+  La  La2  1  -0.00000000  0.00000000  0.00000000  1
+  Cr  Cr3  1  0.60215226  0.60215226  0.20430452  1
+  Cr  Cr4  1  0.39784774  0.39784774  0.79569548  1
+  N  N5  1  0.69374264  0.69374264  0.38748328  1
+  N  N6  1  0.08641883  0.58641883  0.17283666  1
+  N  N7  1  0.91358117  0.41358117  0.82716334  1
+  N  N8  1  0.58641883  0.08641883  0.17283666  1
+  N  N9  1  0.41358117  0.91358117  0.82716334  1
+  N  N10  1  0.30625736  0.30625736  0.61251672  1

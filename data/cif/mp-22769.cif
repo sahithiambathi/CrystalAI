@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TiCoGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16737014
+_cell_length_b   6.16753494
+_cell_length_c   3.69345868
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00104876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCoGe
+_chemical_formula_sum   'Ti3 Co3 Ge3'
+_cell_volume   121.66647314
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.56904996  0.00001943  0.50000000  1
+  Ti  Ti1  1  0.43094738  0.43096675  0.50000000  1
+  Ti  Ti2  1  0.99999974  0.56903723  0.50000000  1
+  Co  Co3  1  0.24476307  0.99999587  0.00000000  1
+  Co  Co4  1  0.75524129  0.75523712  0.00000000  1
+  Co  Co5  1  -0.00000023  0.24474010  0.00000000  1
+  Ge  Ge6  1  0.33336523  0.66671414  0.00000000  1
+  Ge  Ge7  1  0.66663389  0.33333577  0.00000000  1
+  Ge  Ge8  1  -0.00000134  0.99995360  0.50000000  1

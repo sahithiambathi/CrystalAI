@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AlNi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96234744
+_cell_length_b   3.96234640
+_cell_length_c   3.96237885
+_cell_angle_alpha   60.00346855
+_cell_angle_beta   60.00346533
+_cell_angle_gamma   60.00423781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlNi3
+_chemical_formula_sum   'Al1 Ni3'
+_cell_volume   43.99290677
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000002  -0.00000000  -0.00000000  1
+  Ni  Ni1  1  0.75000010  0.74999896  0.75000130  1
+  Ni  Ni2  1  0.49999998  0.50000000  0.50000000  1
+  Ni  Ni3  1  0.24999991  0.25000104  0.24999870  1

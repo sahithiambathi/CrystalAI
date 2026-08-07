@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ce2CoSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03036972
+_cell_length_b   8.03040135
+_cell_length_c   4.22044102
+_cell_angle_alpha   90.00000733
+_cell_angle_beta   89.99990233
+_cell_angle_gamma   120.00020665
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2CoSi3
+_chemical_formula_sum   'Ce4 Co2 Si6'
+_cell_volume   235.70041908
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.50000813  0.49999232  0.00000005  1
+  Ce  Ce1  1  -0.00001489  0.49999244  -0.00000005  1
+  Ce  Ce2  1  0.50000753  0.00001487  0.00000024  1
+  Ce  Ce3  1  0.00000073  0.00000061  -0.00000056  1
+  Co  Co4  1  0.33332683  0.66666414  0.50032981  1
+  Co  Co5  1  0.66667437  0.33333670  0.49966930  1
+  Si  Si6  1  0.82916059  0.65831817  0.49975286  1
+  Si  Si7  1  0.17083423  0.82915768  0.50024834  1
+  Si  Si8  1  0.65832208  0.82915992  0.50024631  1
+  Si  Si9  1  0.17083676  0.34167934  0.50024778  1
+  Si  Si10  1  0.82916271  0.17084227  0.49975241  1
+  Si  Si11  1  0.34168093  0.17084154  0.49975351  1

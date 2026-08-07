@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CoCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54001200
+_cell_length_b   3.54001191
+_cell_length_c   5.97250627
+_cell_angle_alpha   89.99976437
+_cell_angle_beta   90.00035206
+_cell_angle_gamma   119.99873353
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoCl2
+_chemical_formula_sum   'Co1 Cl2'
+_cell_volume   64.81898790
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000037  -0.00000009  0.00000021  1
+  Cl  Cl1  1  0.66666636  0.33333364  0.77825533  1
+  Cl  Cl2  1  0.33333327  0.66666645  0.22174446  1

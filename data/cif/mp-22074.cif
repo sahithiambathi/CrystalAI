@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50809670
+_cell_length_b   7.66445664
+_cell_length_c   7.76211995
+_cell_angle_alpha   79.61646875
+_cell_angle_beta   90.00067908
+_cell_angle_gamma   90.00117930
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTaO4
+_chemical_formula_sum   'Ce4 Ta4 O16'
+_cell_volume   322.32359092
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.27290058  0.34762939  0.39700961  1
+  Ce  Ce1  1  0.72709942  0.65237061  0.60299039  1
+  Ce  Ce2  1  0.22714312  0.34755543  0.89691422  1
+  Ce  Ce3  1  0.77285688  0.65244457  0.10308578  1
+  Ta  Ta4  1  0.23168297  0.83461773  0.80862304  1
+  Ta  Ta5  1  0.26837440  0.83460444  0.30866155  1
+  Ta  Ta6  1  0.73162560  0.16539556  0.69133845  1
+  Ta  Ta7  1  0.76831703  0.16538227  0.19137696  1
+  O  O8  1  0.15599490  0.83274524  0.05528373  1
+  O  O9  1  0.99404983  0.33180105  0.63289064  1
+  O  O10  1  0.48336844  0.61683272  0.33108514  1
+  O  O11  1  0.49409361  0.66817321  0.86708666  1
+  O  O12  1  0.41294719  0.05663937  0.79476420  1
+  O  O13  1  0.50590639  0.33182679  0.13291334  1
+  O  O14  1  0.65594705  0.16723342  0.44471895  1
+  O  O15  1  0.58705281  0.94336063  0.20523580  1
+  O  O16  1  0.98336665  0.38317184  0.16896020  1
+  O  O17  1  0.91297776  0.94333698  0.70519091  1
+  O  O18  1  0.34405295  0.83276658  0.55528105  1
+  O  O19  1  0.01663335  0.61682816  0.83103980  1
+  O  O20  1  0.08702224  0.05666302  0.29480909  1
+  O  O21  1  0.51663156  0.38316728  0.66891486  1
+  O  O22  1  0.00595017  0.66819895  0.36710936  1
+  O  O23  1  0.84400510  0.16725476  0.94471627  1

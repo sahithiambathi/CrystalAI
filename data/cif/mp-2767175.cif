@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_U8FeSe17
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28718981
+_cell_length_b   8.29597119
+_cell_length_c   10.95226718
+_cell_angle_alpha   80.27641538
+_cell_angle_beta   80.60331320
+_cell_angle_gamma   64.51075187
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U8FeSe17
+_chemical_formula_sum   'U8 Fe1 Se17'
+_cell_volume   666.43609075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.81613072  0.30125545  0.29892257  1
+  U  U1  1  0.30170182  0.81499494  0.29438259  1
+  U  U2  1  0.18410358  0.69742549  0.70318204  1
+  U  U3  1  0.70264711  0.18231052  0.70558055  1
+  U  U4  1  0.20565143  0.20260702  0.54317085  1
+  U  U5  1  0.79499511  0.79784550  0.45708981  1
+  U  U6  1  0.67880587  0.67906530  0.98267588  1
+  U  U7  1  0.31756213  0.32019777  0.01817843  1
+  Fe  Fe8  1  -0.01125916  0.00412968  -0.00318941  1
+  Se  Se9  1  0.82591070  0.43184341  0.53394235  1
+  Se  Se10  1  0.43406290  0.82153750  0.53307961  1
+  Se  Se11  1  0.17714789  0.56814001  0.46442829  1
+  Se  Se12  1  0.56730621  0.17878163  0.46493920  1
+  Se  Se13  1  0.94153024  0.32400407  0.02752766  1
+  Se  Se14  1  0.32483266  0.94253932  0.02980552  1
+  Se  Se15  1  0.05644292  0.67494010  0.97212663  1
+  Se  Se16  1  0.67154081  0.05697361  0.97238924  1
+  Se  Se17  1  0.20657590  0.21321704  0.27779283  1
+  Se  Se18  1  0.79466222  0.78563962  0.72109932  1
+  Se  Se19  1  0.06624100  0.05432037  0.77269186  1
+  Se  Se20  1  0.94212759  0.94521812  0.22699132  1
+  Se  Se21  1  0.30361888  0.30322023  0.75447730  1
+  Se  Se22  1  0.69900910  0.69762653  0.24567969  1
+  Se  Se23  1  0.51883448  0.52425784  0.83160131  1
+  Se  Se24  1  0.47857938  0.47828814  0.17083880  1
+  Se  Se25  1  0.00123852  -0.00037920  0.50059575  1

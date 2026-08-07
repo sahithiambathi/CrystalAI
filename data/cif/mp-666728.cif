@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Cr(B3H8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47519200
+_cell_length_b   5.88429525
+_cell_length_c   8.98925330
+_cell_angle_alpha   105.93312728
+_cell_angle_beta   92.45341671
+_cell_angle_gamma   111.62065786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(B3H8)2
+_chemical_formula_sum   'Cr1 B6 H16'
+_cell_volume   208.84661301
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50000000  0.00000000  0.50000000  1
+  B  B1  1  0.00776700  0.30718200  0.30471500  1
+  B  B2  1  0.99223300  0.69281800  0.69528500  1
+  B  B3  1  0.97858600  0.20333100  0.13229600  1
+  B  B4  1  0.95309000  0.99550000  0.31287700  1
+  B  B5  1  0.02141400  0.79666900  0.86770400  1
+  B  B6  1  0.04691000  0.00450000  0.68712300  1
+  H  H7  1  0.23214800  0.28461200  0.02397700  1
+  H  H8  1  0.74162100  0.56667000  0.66873400  1
+  H  H9  1  0.17663400  0.94236100  0.34195000  1
+  H  H10  1  0.75908300  0.33257400  0.38286600  1
+  H  H11  1  0.05921100  0.05636900  0.81440700  1
+  H  H12  1  0.82336600  0.05763900  0.65805000  1
+  H  H13  1  0.24091700  0.66742600  0.61713400  1
+  H  H14  1  0.03052100  0.43652000  0.17138200  1
+  H  H15  1  0.28216500  0.84072300  0.89750500  1
+  H  H16  1  0.76785200  0.71538800  0.97602300  1
+  H  H17  1  0.71783500  0.15927700  0.10249500  1
+  H  H18  1  0.67415700  0.81508300  0.39920000  1
+  H  H19  1  0.32584300  0.18491700  0.60080000  1
+  H  H20  1  0.94078900  0.94363100  0.18559300  1
+  H  H21  1  0.96947900  0.56348000  0.82861800  1
+  H  H22  1  0.25837900  0.43333000  0.33126600  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ni2Mo4C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94738031
+_cell_length_b   7.94737952
+_cell_length_c   7.94738148
+_cell_angle_alpha   60.00223193
+_cell_angle_beta   60.00220361
+_cell_angle_gamma   60.00223531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2Mo4C
+_chemical_formula_sum   'Ni8 Mo16 C4'
+_cell_volume   354.95958275
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.91770745  0.91771825  0.24686300  1
+  Ni  Ni1  1  0.33228386  0.33229598  0.33229142  1
+  Ni  Ni2  1  0.24686089  0.91771736  0.91771203  1
+  Ni  Ni3  1  0.33228043  0.00313879  0.33228791  1
+  Ni  Ni4  1  0.00313599  0.33228876  0.33228558  1
+  Ni  Ni5  1  0.33228033  0.33229122  0.00313700  1
+  Ni  Ni6  1  0.91770454  0.91771369  0.91770985  1
+  Ni  Ni7  1  0.91770967  0.24686380  0.91771527  1
+  Mo  Mo8  1  0.12499804  0.12500549  0.12500242  1
+  Mo  Mo9  1  0.68961240  0.31039454  0.31038916  1
+  Mo  Mo10  1  0.93960154  0.93961283  0.56039285  1
+  Mo  Mo11  1  0.68961397  0.68960241  0.31039144  1
+  Mo  Mo12  1  0.68961185  0.31039352  0.68960548  1
+  Mo  Mo13  1  0.31039011  0.68960520  0.31039658  1
+  Mo  Mo14  1  0.56039703  0.93960812  0.56038980  1
+  Mo  Mo15  1  0.56039730  0.93960849  0.93960431  1
+  Mo  Mo16  1  0.93960383  0.56038961  0.56039451  1
+  Mo  Mo17  1  0.93960440  0.56038992  0.93961094  1
+  Mo  Mo18  1  0.31038692  0.31039854  0.68960825  1
+  Mo  Mo19  1  0.56039872  0.56038666  0.93960661  1
+  Mo  Mo20  1  0.62501387  0.12499746  0.12499388  1
+  Mo  Mo21  1  0.12499664  0.12500448  0.62499666  1
+  Mo  Mo22  1  0.12500186  0.62498471  0.12500603  1
+  Mo  Mo23  1  0.31038926  0.68960475  0.68960950  1
+  C  C24  1  0.62500494  0.62499545  0.62499938  1
+  C  C25  1  0.62500501  0.62499553  0.12500094  1
+  C  C26  1  0.12500460  0.62499611  0.62500013  1
+  C  C27  1  0.62500454  0.12499834  0.62499907  1

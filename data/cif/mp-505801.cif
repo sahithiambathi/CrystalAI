@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Eu2Ti2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23033007
+_cell_length_b   7.23031958
+_cell_length_c   7.22911643
+_cell_angle_alpha   60.00683460
+_cell_angle_beta   60.00688337
+_cell_angle_gamma   59.98960785
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2Ti2O7
+_chemical_formula_sum   'Eu4 Ti4 O14'
+_cell_volume   267.23708672
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.12499954  0.62499958  0.12500120  1
+  Eu  Eu1  1  0.12500006  0.12500074  0.62499814  1
+  Eu  Eu2  1  0.62499916  0.12500052  0.12499963  1
+  Eu  Eu3  1  0.12500029  0.12499998  0.12499954  1
+  Ti  Ti4  1  0.62499980  0.12499829  0.62500191  1
+  Ti  Ti5  1  0.62499896  0.62499855  0.12500160  1
+  Ti  Ti6  1  0.12499868  0.62500056  0.62500000  1
+  Ti  Ti7  1  0.62499997  0.62499896  0.62500033  1
+  O  O8  1  0.70133296  0.70133261  0.29866704  1
+  O  O9  1  0.95122461  0.54877972  0.54877702  1
+  O  O10  1  0.54877458  0.95122685  0.95122110  1
+  O  O11  1  0.95133565  0.95133512  0.54866104  1
+  O  O12  1  0.95122782  0.54877379  0.95122205  1
+  O  O13  1  0.54877904  0.95122515  0.54877781  1
+  O  O14  1  0.29877232  0.70122673  0.29877759  1
+  O  O15  1  0.29877501  0.70122109  0.70122286  1
+  O  O16  1  0.70122742  0.29877267  0.29877772  1
+  O  O17  1  0.70122069  0.29877583  0.70122193  1
+  O  O18  1  0.54866632  0.54866739  0.95133341  1
+  O  O19  1  0.29866501  0.29866529  0.70133874  1
+  O  O20  1  0.24999859  0.25000082  0.25004781  1
+  O  O21  1  0.00000154  -0.00000124  0.99995251  1

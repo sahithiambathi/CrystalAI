@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf3Zn3C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50156969
+_cell_length_b   8.50157056
+_cell_length_c   8.50157099
+_cell_angle_alpha   60.00109069
+_cell_angle_beta   60.00108913
+_cell_angle_gamma   60.00108957
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Zn3C
+_chemical_formula_sum   'Hf12 Zn12 C4'
+_cell_volume   434.50342174
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.43950444  0.43950431  0.06049266  1
+  Hf  Hf1  1  0.06049217  0.43950601  0.06049499  1
+  Hf  Hf2  1  0.43950485  0.06049590  0.06049317  1
+  Hf  Hf3  1  0.06049104  0.06049687  0.43950554  1
+  Hf  Hf4  1  0.43950381  0.06049476  0.43950380  1
+  Hf  Hf5  1  0.06049090  0.43950490  0.43950478  1
+  Hf  Hf6  1  0.81049463  0.81049465  0.18950205  1
+  Hf  Hf7  1  0.18950237  0.81049642  0.18950510  1
+  Hf  Hf8  1  0.81049515  0.18950641  0.18950363  1
+  Hf  Hf9  1  0.18950143  0.18950688  0.81049593  1
+  Hf  Hf10  1  0.81049393  0.18950414  0.81049415  1
+  Hf  Hf11  1  0.18950035  0.81049504  0.81049498  1
+  Zn  Zn12  1  0.83129772  0.83129643  0.50610996  1
+  Zn  Zn13  1  0.83129792  0.50610902  0.83129777  1
+  Zn  Zn14  1  0.50611173  0.83129602  0.83129721  1
+  Zn  Zn15  1  0.83129662  0.83129525  0.83129633  1
+  Zn  Zn16  1  0.41870356  0.41870202  0.74389159  1
+  Zn  Zn17  1  0.41870374  0.74388991  0.41870339  1
+  Zn  Zn18  1  0.74389339  0.41870244  0.41870221  1
+  Zn  Zn19  1  0.41870705  0.41870547  0.41870661  1
+  Zn  Zn20  1  0.62500656  0.62500013  0.12499956  1
+  Zn  Zn21  1  0.62500509  0.12499979  0.62500221  1
+  Zn  Zn22  1  0.12499863  0.62500157  0.62500451  1
+  Zn  Zn23  1  0.62500269  0.62499647  0.62499933  1
+  C  C24  1  0.12499981  0.12499965  0.62500040  1
+  C  C25  1  0.12500040  0.62499937  0.12499997  1
+  C  C26  1  0.62500161  0.12499937  0.12499933  1
+  C  C27  1  0.12500040  0.12500078  0.12500083  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_HoAu4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17383820
+_cell_length_b   5.20061120
+_cell_length_c   5.19879848
+_cell_angle_alpha   80.87295208
+_cell_angle_beta   66.32714054
+_cell_angle_gamma   66.44014729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAu4
+_chemical_formula_sum   'Ho1 Au4'
+_cell_volume   94.73661670
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  -0.00000000  -0.00000000  0.00000000  1
+  Au  Au1  1  0.59911600  0.59911639  0.20119986  1
+  Au  Au2  1  0.40088400  0.40088361  0.79880014  1
+  Au  Au3  1  0.80163034  0.79826874  0.59873919  1
+  Au  Au4  1  0.19836966  0.20173126  0.40126081  1

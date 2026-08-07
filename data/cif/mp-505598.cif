@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zr(Ni2P)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54093182
+_cell_length_b   6.89738781
+_cell_length_c   6.89754305
+_cell_angle_alpha   89.99913925
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr(Ni2P)2
+_chemical_formula_sum   'Zr2 Ni8 P4'
+_cell_volume   168.45993526
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  -0.00000000  0.00000000  1
+  Zr  Zr1  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.00000000  0.08395266  0.33412083  1
+  Ni  Ni3  1  0.50000000  0.16587518  0.58395562  1
+  Ni  Ni4  1  0.50000000  0.83412482  0.41604438  1
+  Ni  Ni5  1  -0.00000000  0.91604734  0.66587917  1
+  Ni  Ni6  1  0.50000000  0.58401497  0.16588898  1
+  Ni  Ni7  1  0.50000000  0.41598503  0.83411102  1
+  Ni  Ni8  1  0.00000000  0.33411008  0.08402053  1
+  Ni  Ni9  1  0.00000000  0.66588992  0.91597947  1
+  P  P10  1  0.00000000  0.21940019  0.78062778  1
+  P  P11  1  0.50000000  0.71936342  0.71938848  1
+  P  P12  1  0.50000000  0.28063658  0.28061152  1
+  P  P13  1  0.00000000  0.78059981  0.21937222  1

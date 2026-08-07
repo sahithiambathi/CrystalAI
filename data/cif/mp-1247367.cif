@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Sr10MnN8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.78877711
+_cell_length_b   4.86353001
+_cell_length_c   8.67750616
+_cell_angle_alpha   90.00000233
+_cell_angle_beta   65.86132625
+_cell_angle_gamma   78.09567634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr10MnN8
+_chemical_formula_sum   'Sr10 Mn1 N8'
+_cell_volume   442.26964128
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.41173621  0.79413189  0.71037749  1
+  Sr  Sr1  1  0.58826379  0.20586811  0.28962251  1
+  Sr  Sr2  1  0.05843876  0.97078012  0.77859845  1
+  Sr  Sr3  1  0.94156124  0.02921988  0.22140155  1
+  Sr  Sr4  1  0.71489772  0.64255164  0.53707338  1
+  Sr  Sr5  1  0.28510228  0.35744836  0.46292662  1
+  Sr  Sr6  1  0.80796407  0.59601746  0.93756366  1
+  Sr  Sr7  1  0.19203593  0.40398254  0.06243634  1
+  Sr  Sr8  1  0.39311763  0.80344169  0.13804024  1
+  Sr  Sr9  1  0.60688237  0.19655831  0.86195976  1
+  Mn  Mn10  1  0.00000000  0.50000000  0.50000000  1
+  N  N11  1  0.18468996  0.90765502  0.95775962  1
+  N  N12  1  0.81531004  0.09234498  0.04224038  1
+  N  N13  1  0.38539495  0.80730202  0.44261949  1
+  N  N14  1  0.61460505  0.19269798  0.55738051  1
+  N  N15  1  0.61317895  0.69341003  0.86109442  1
+  N  N16  1  0.38682105  0.30658997  0.13890558  1
+  N  N17  1  0.96258702  0.51870599  0.32733629  1
+  N  N18  1  0.03741298  0.48129401  0.67266371  1

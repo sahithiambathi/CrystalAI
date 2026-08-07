@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NbCo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14162961
+_cell_length_b   5.14153304
+_cell_length_c   4.11789191
+_cell_angle_alpha   90.00000051
+_cell_angle_beta   90.00000036
+_cell_angle_gamma   119.99945781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCo3
+_chemical_formula_sum   'Nb2 Co6'
+_cell_volume   94.27604740
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.66666507  0.33332962  0.24999960  1
+  Nb  Nb1  1  0.33335080  0.66667763  0.74999936  1
+  Co  Co2  1  0.31388958  0.15694870  0.74999949  1
+  Co  Co3  1  0.84305355  0.68610605  0.74999950  1
+  Co  Co4  1  0.15693319  0.84304885  0.24999952  1
+  Co  Co5  1  0.68611341  0.84305470  0.24999952  1
+  Co  Co6  1  0.15693802  0.31389179  0.24999951  1
+  Co  Co7  1  0.84306038  0.15694665  0.74999949  1

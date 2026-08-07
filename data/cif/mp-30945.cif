@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ga2PdBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19627085
+_cell_length_b   7.59374789
+_cell_length_c   7.59374776
+_cell_angle_alpha   65.55996690
+_cell_angle_beta   85.83934075
+_cell_angle_gamma   85.83934125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2PdBr8
+_chemical_formula_sum   'Ga2 Pd1 Br8'
+_cell_volume   376.37995379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.66845024  0.21287140  0.21287140  1
+  Ga  Ga1  1  0.33154976  0.78712860  0.78712860  1
+  Pd  Pd2  1  0.00000000  -0.00000000  0.00000000  1
+  Br  Br3  1  0.15359881  0.09443907  0.67598137  1
+  Br  Br4  1  0.15359881  0.67598137  0.09443907  1
+  Br  Br5  1  0.84640119  0.90556093  0.32401863  1
+  Br  Br6  1  0.28600420  0.61305431  0.61305431  1
+  Br  Br7  1  0.84640119  0.32401863  0.90556093  1
+  Br  Br8  1  0.36339099  0.17308512  0.17308512  1
+  Br  Br9  1  0.63660901  0.82691488  0.82691488  1
+  Br  Br10  1  0.71399580  0.38694569  0.38694569  1

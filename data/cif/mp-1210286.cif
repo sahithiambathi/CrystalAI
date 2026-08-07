@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2ReO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54613852
+_cell_length_b   5.54613355
+_cell_length_c   12.10054436
+_cell_angle_alpha   90.00002625
+_cell_angle_beta   90.00000363
+_cell_angle_gamma   120.00251849
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ReO3
+_chemical_formula_sum   'Na8 Re4 O12'
+_cell_volume   322.33358114
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333560  0.66666884  0.75000138  1
+  Na  Na1  1  0.66666624  0.33333378  0.24999887  1
+  Na  Na2  1  0.66666826  0.33333663  0.75000139  1
+  Na  Na3  1  0.33333329  0.66666627  0.24999882  1
+  Na  Na4  1  0.33333052  0.66666377  0.50001883  1
+  Na  Na5  1  0.66666387  0.33333147  0.50001901  1
+  Na  Na6  1  0.66666321  0.33333127  0.99998127  1
+  Na  Na7  1  0.33333115  0.66666377  0.99998126  1
+  Re  Re8  1  0.00000596  0.00000649  0.65473113  1
+  Re  Re9  1  -0.00000512  -0.00000517  0.34526577  1
+  Re  Re10  1  -0.00000420  0.99999478  0.15469722  1
+  Re  Re11  1  0.00000661  0.00000569  0.84530078  1
+  O  O12  1  0.32216614  0.00000439  0.62353384  1
+  O  O13  1  0.67785105  -0.00000514  0.37650782  1
+  O  O14  1  0.00000291  0.32216554  0.62353390  1
+  O  O15  1  0.67785559  -0.00000369  0.12347599  1
+  O  O16  1  0.00000522  0.32216203  0.87648320  1
+  O  O17  1  -0.00000382  0.67785255  0.37650845  1
+  O  O18  1  0.32216278  0.00000463  0.87648342  1
+  O  O19  1  -0.00000324  0.67785380  0.12347592  1
+  O  O20  1  0.67783408  0.67783388  0.62353317  1
+  O  O21  1  0.32214935  0.32214938  0.37650844  1
+  O  O22  1  0.32214763  0.32214757  0.12347504  1
+  O  O23  1  0.67783793  0.67783849  0.87648508  1

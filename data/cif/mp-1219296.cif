@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ScGaCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15011674
+_cell_length_b   5.34866156
+_cell_length_c   5.28080180
+_cell_angle_alpha   93.18292590
+_cell_angle_beta   113.13122648
+_cell_angle_gamma   67.24804339
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScGaCu
+_chemical_formula_sum   'Sc2 Ga2 Cu2'
+_cell_volume   98.76494940
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.75589302  0.70765363  0.22094925  1
+  Sc  Sc1  1  0.24410717  0.29234586  0.77905060  1
+  Ga  Ga2  1  0.04824863  0.11932186  0.21659374  1
+  Ga  Ga3  1  0.95175162  0.88067780  0.78340624  1
+  Cu  Cu4  1  0.54290315  0.29271318  0.37871559  1
+  Cu  Cu5  1  0.45709641  0.70728667  0.62128357  1

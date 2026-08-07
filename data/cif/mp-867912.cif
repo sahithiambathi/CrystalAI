@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ba2SnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99705456
+_cell_length_b   5.99705530
+_cell_length_c   5.99705522
+_cell_angle_alpha   59.99993837
+_cell_angle_beta   59.99994305
+_cell_angle_gamma   59.99994071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SnHg
+_chemical_formula_sum   'Ba2 Sn1 Hg1'
+_cell_volume   152.51006978
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000079  0.50000094  0.50000092  1
+  Ba  Ba1  1  0.00000006  -0.00000011  -0.00000005  1
+  Sn  Sn2  1  0.74999919  0.74999920  0.74999919  1
+  Hg  Hg3  1  0.25000095  0.25000097  0.25000093  1

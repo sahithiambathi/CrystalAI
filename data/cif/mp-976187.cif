@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Pr(Al2Fe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00734047
+_cell_length_b   6.72398050
+_cell_length_c   6.72379382
+_cell_angle_alpha   97.98322710
+_cell_angle_beta   68.13303246
+_cell_angle_gamma   111.86864910
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(Al2Fe)4
+_chemical_formula_sum   'Pr1 Al8 Fe4'
+_cell_volume   194.97846474
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al1  1  0.50000905  0.22664073  0.22665437  1
+  Al  Al2  1  0.27351743  0.77334685  0.22665859  1
+  Al  Al3  1  0.00001700  0.34455220  0.34458905  1
+  Al  Al4  1  0.65524460  0.65544199  0.34457634  1
+  Al  Al5  1  0.34475440  0.34455901  0.65542466  1
+  Al  Al6  1  0.99998300  0.65544880  0.65541195  1
+  Al  Al7  1  0.72648357  0.22665415  0.77334241  1
+  Al  Al8  1  0.49999095  0.77335927  0.77334563  1
+  Fe  Fe9  1  0.00000100  0.50000000  0.00000000  1
+  Fe  Fe10  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe11  1  -0.00000000  0.00000000  0.50000000  1
+  Fe  Fe12  1  0.49999900  0.00000000  0.50000000  1

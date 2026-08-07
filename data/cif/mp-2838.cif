@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_UNi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73029261
+_cell_length_b   4.73029712
+_cell_length_c   4.73033039
+_cell_angle_alpha   60.00188108
+_cell_angle_beta   60.00191035
+_cell_angle_gamma   60.00162669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UNi5
+_chemical_formula_sum   'U1 Ni5'
+_cell_volume   74.84636058
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.99999056  0.00000319  0.00000503  1
+  Ni  Ni1  1  0.25000828  0.24999456  0.24999798  1
+  Ni  Ni2  1  0.62410713  0.62410735  0.62410488  1
+  Ni  Ni3  1  0.62410928  0.62410956  0.12767160  1
+  Ni  Ni4  1  0.12767197  0.62411004  0.62410775  1
+  Ni  Ni5  1  0.62411077  0.12767129  0.62410777  1

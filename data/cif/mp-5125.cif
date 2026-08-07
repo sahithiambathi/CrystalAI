@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Na3FeSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13673184
+_cell_length_b   7.36276854
+_cell_length_c   14.75644424
+_cell_angle_alpha   61.11689827
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3FeSe3
+_chemical_formula_sum   'Na12 Fe4 Se12'
+_cell_volume   678.94013792
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.01862250  0.12604210  0.59267494  1
+  Na  Na1  1  0.51862250  0.87395790  0.90732506  1
+  Na  Na2  1  0.48137750  0.12604210  0.09267494  1
+  Na  Na3  1  0.98137750  0.87395790  0.40732506  1
+  Na  Na4  1  0.00241578  0.49538084  0.27700055  1
+  Na  Na5  1  0.50241578  0.50461916  0.22299945  1
+  Na  Na6  1  0.99758422  0.50461916  0.72299945  1
+  Na  Na7  1  0.51845035  0.04907669  0.61432397  1
+  Na  Na8  1  0.98154965  0.04907669  0.11432397  1
+  Na  Na9  1  0.48154965  0.95092331  0.38567603  1
+  Na  Na10  1  0.01845035  0.95092331  0.88567603  1
+  Na  Na11  1  0.49758422  0.49538084  0.77700055  1
+  Fe  Fe12  1  0.62135184  0.49912244  0.42493251  1
+  Fe  Fe13  1  0.37864816  0.50087756  0.57506749  1
+  Fe  Fe14  1  0.12135184  0.50087756  0.07506749  1
+  Fe  Fe15  1  0.87864816  0.49912244  0.92493251  1
+  Se  Se16  1  0.21741160  0.20011120  0.22726148  1
+  Se  Se17  1  0.28511594  0.48940786  0.42363518  1
+  Se  Se18  1  0.21488406  0.48940786  0.92363518  1
+  Se  Se19  1  0.71488406  0.51059214  0.57636482  1
+  Se  Se20  1  0.78511594  0.51059214  0.07636482  1
+  Se  Se21  1  0.71741160  0.79988880  0.27273852  1
+  Se  Se22  1  0.78258840  0.79988880  0.77273852  1
+  Se  Se23  1  0.28258840  0.20011120  0.72726148  1
+  Se  Se24  1  0.74360935  0.19963677  0.42675582  1
+  Se  Se25  1  0.24360935  0.80036323  0.07324418  1
+  Se  Se26  1  0.25639065  0.80036323  0.57324418  1
+  Se  Se27  1  0.75639065  0.19963677  0.92675582  1

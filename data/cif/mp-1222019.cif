@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MgCdTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96472340
+_cell_length_b   7.96472340
+_cell_length_c   7.96472256
+_cell_angle_alpha   33.65315460
+_cell_angle_beta   33.65315460
+_cell_angle_gamma   33.65314900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCdTe2
+_chemical_formula_sum   'Mg1 Cd1 Te2'
+_cell_volume   138.22931156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49918047  0.49918047  0.49918047  1
+  Cd  Cd1  1  0.00050581  0.00050581  0.00050581  1
+  Te  Te2  1  0.12660898  0.12660898  0.12660898  1
+  Te  Te3  1  0.62370374  0.62370374  0.62370374  1

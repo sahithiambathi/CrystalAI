@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_TlIn5S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91114185
+_cell_length_b   9.16228616
+_cell_length_c   17.57332785
+_cell_angle_alpha   77.80454130
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlIn5S7
+_chemical_formula_sum   'Tl2 In10 S14'
+_cell_volume   615.52864454
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25000000  0.97254897  0.72496812  1
+  Tl  Tl1  1  0.75000000  0.02745103  0.27503188  1
+  In  In2  1  0.25000000  0.14530619  0.04521780  1
+  In  In3  1  0.25000000  0.52516348  0.39824033  1
+  In  In4  1  0.75000000  0.85469381  0.95478220  1
+  In  In5  1  0.75000000  0.43431025  0.11922942  1
+  In  In6  1  0.75000000  0.17183335  0.46762729  1
+  In  In7  1  0.25000000  0.31912522  0.81165960  1
+  In  In8  1  0.75000000  0.68087478  0.18834040  1
+  In  In9  1  0.25000000  0.82816665  0.53237271  1
+  In  In10  1  0.75000000  0.47483652  0.60175967  1
+  In  In11  1  0.25000000  0.56568975  0.88077058  1
+  S  S12  1  0.75000000  0.96437705  0.58781326  1
+  S  S13  1  0.25000000  0.33057497  0.53296899  1
+  S  S14  1  0.25000000  0.66442477  0.00552370  1
+  S  S15  1  0.25000000  0.05757494  0.91060962  1
+  S  S16  1  0.75000000  0.66942503  0.46703101  1
+  S  S17  1  0.75000000  0.26354354  0.72896948  1
+  S  S18  1  0.75000000  0.74337511  0.82967506  1
+  S  S19  1  0.25000000  0.73645646  0.27103052  1
+  S  S20  1  0.25000000  0.03562295  0.41218674  1
+  S  S21  1  0.75000000  0.38555923  0.35007308  1
+  S  S22  1  0.25000000  0.61444077  0.64992692  1
+  S  S23  1  0.75000000  0.33557523  0.99447630  1
+  S  S24  1  0.25000000  0.25662489  0.17032494  1
+  S  S25  1  0.75000000  0.94242506  0.08939038  1

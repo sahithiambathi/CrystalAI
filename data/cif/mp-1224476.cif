@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ho3(NiRu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19524558
+_cell_length_b   5.21252523
+_cell_length_c   12.69134937
+_cell_angle_alpha   89.90245947
+_cell_angle_beta   91.59037082
+_cell_angle_gamma   119.65239710
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3(NiRu2)2
+_chemical_formula_sum   'Ho6 Ni4 Ru8'
+_cell_volume   298.53433257
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.66454803  0.33976667  0.20566973  1
+  Ho  Ho1  1  0.01061426  0.00312228  0.87526458  1
+  Ho  Ho2  1  0.33667514  0.67094746  0.54159596  1
+  Ho  Ho3  1  0.66332486  0.32905254  0.45840404  1
+  Ho  Ho4  1  0.98938574  0.99687772  0.12473542  1
+  Ho  Ho5  1  0.33545197  0.66023333  0.79433027  1
+  Ni  Ni6  1  0.50000000  -0.00000000  0.00000000  1
+  Ni  Ni7  1  0.83555644  0.66747838  0.66673846  1
+  Ni  Ni8  1  0.16444356  0.33252162  0.33326154  1
+  Ni  Ni9  1  0.50000000  0.50000000  0.00000000  1
+  Ru  Ru10  1  0.83268204  0.16624314  0.66808277  1
+  Ru  Ru11  1  0.16731796  0.83375686  0.33191723  1
+  Ru  Ru12  1  0.67533775  0.33684800  0.83681108  1
+  Ru  Ru13  1  -0.00000000  -0.00000000  0.50000000  1
+  Ru  Ru14  1  0.32466225  0.66315200  0.16318892  1
+  Ru  Ru15  1  -0.00000000  0.50000000  0.00000000  1
+  Ru  Ru16  1  0.33631597  0.16522681  0.66803658  1
+  Ru  Ru17  1  0.66368403  0.83477319  0.33196342  1

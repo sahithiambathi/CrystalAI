@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Gd2In
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44231435
+_cell_length_b   5.44219490
+_cell_length_c   6.75690347
+_cell_angle_alpha   90.00095871
+_cell_angle_beta   89.99837576
+_cell_angle_gamma   120.00066935
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2In
+_chemical_formula_sum   'Gd4 In2'
+_cell_volume   173.31379459
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.33333532  0.66667612  0.75001429  1
+  Gd  Gd1  1  0.99999746  0.00000618  0.99996092  1
+  Gd  Gd2  1  0.99999823  0.00000143  0.50003791  1
+  Gd  Gd3  1  0.66666572  0.33332216  0.24998076  1
+  In  In4  1  0.66667714  0.33335363  0.74999872  1
+  In  In5  1  0.33332713  0.66664049  0.25000540  1

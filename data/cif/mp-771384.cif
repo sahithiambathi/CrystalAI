@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Lu2Co2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82078113
+_cell_length_b   6.82765085
+_cell_length_c   6.83218906
+_cell_angle_alpha   60.03433326
+_cell_angle_beta   60.06081594
+_cell_angle_gamma   59.99679736
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Co2O7
+_chemical_formula_sum   'Lu4 Co4 O14'
+_cell_volume   225.13947271
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.62498899  0.62500093  0.12502541  1
+  Lu  Lu1  1  0.62500240  0.62496843  0.62501603  1
+  Lu  Lu2  1  0.62498816  0.12503715  0.62496785  1
+  Lu  Lu3  1  0.12501993  0.62498373  0.62500376  1
+  Co  Co4  1  0.12499897  0.12500022  0.12499706  1
+  Co  Co5  1  0.62500260  0.12499915  0.12499862  1
+  Co  Co6  1  0.12500105  0.12499782  0.62499813  1
+  Co  Co7  1  0.12499852  0.62500442  0.12499763  1
+  O  O8  1  0.04213216  0.45872197  0.45155057  1
+  O  O9  1  0.79235070  0.79891834  0.20188524  1
+  O  O10  1  0.79814038  0.20250729  0.20702531  1
+  O  O11  1  0.45574443  0.04361310  0.45622548  1
+  O  O12  1  0.74961150  0.74984376  0.75061905  1
+  O  O13  1  0.04368746  0.45583931  0.04494691  1
+  O  O14  1  0.04732253  0.04147992  0.45840103  1
+  O  O15  1  0.20631095  0.79416492  0.20505274  1
+  O  O16  1  0.20267857  0.20852405  0.79159747  1
+  O  O17  1  0.79425308  0.20638458  0.79377487  1
+  O  O18  1  0.50039111  0.50014800  0.49938206  1
+  O  O19  1  0.45185812  0.04750111  0.04296899  1
+  O  O20  1  0.45764996  0.45108568  0.04811559  1
+  O  O21  1  0.20786742  0.79127712  0.79845222  1

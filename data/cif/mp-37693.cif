@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Nd2EuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47675092
+_cell_length_b   7.47673761
+_cell_length_c   7.47671911
+_cell_angle_alpha   109.39503570
+_cell_angle_beta   109.39561111
+_cell_angle_gamma   109.62257239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2EuS4
+_chemical_formula_sum   'Nd4 Eu2 S8'
+_cell_volume   321.74728460
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.99745825  0.37499707  0.12246282  1
+  Nd  Nd1  1  0.62500533  0.74746985  0.62246145  1
+  Nd  Nd2  1  0.25253188  0.87499204  0.87753618  1
+  Nd  Nd3  1  0.12500318  0.00254003  0.37753729  1
+  Eu  Eu4  1  0.74999813  0.25000236  0.50000045  1
+  Eu  Eu5  1  0.50000074  0.49999493  0.00000156  1
+  S  S6  1  0.51921498  0.11900352  0.74957660  1
+  S  S7  1  0.73078671  0.98036146  0.09978776  1
+  S  S8  1  0.88099573  0.63057795  0.40021785  1
+  S  S9  1  0.23036896  0.48079268  0.59979505  1
+  S  S10  1  0.36900703  0.26921999  0.24957235  1
+  S  S11  1  0.88056714  0.63099226  0.90021626  1
+  S  S12  1  0.36942039  0.76962868  0.25041502  1
+  S  S13  1  0.01964153  0.11942718  0.75041935  1

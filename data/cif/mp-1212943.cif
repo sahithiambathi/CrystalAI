@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Er4MgRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.57857544
+_cell_length_b   9.57856069
+_cell_length_c   9.57857423
+_cell_angle_alpha   59.99954711
+_cell_angle_beta   59.99954227
+_cell_angle_gamma   59.99951800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4MgRh
+_chemical_formula_sum   'Er16 Mg4 Rh4'
+_cell_volume   621.41606989
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.34614673  0.34614899  0.34614972  1
+  Er  Er1  1  0.34614837  0.34615018  0.96155257  1
+  Er  Er2  1  0.34614609  0.96155609  0.34614912  1
+  Er  Er3  1  0.96155346  0.34614891  0.34614930  1
+  Er  Er4  1  0.81275811  0.18724343  0.18724410  1
+  Er  Er5  1  0.18724406  0.81275442  0.81275583  1
+  Er  Er6  1  0.18724285  0.81275465  0.18724582  1
+  Er  Er7  1  0.81275885  0.18724305  0.81275478  1
+  Er  Er8  1  0.18724374  0.18724655  0.81275514  1
+  Er  Er9  1  0.81275708  0.81275223  0.18724558  1
+  Er  Er10  1  0.93559210  0.56440910  0.56440867  1
+  Er  Er11  1  0.56440916  0.93559041  0.93559101  1
+  Er  Er12  1  0.56440909  0.93558888  0.56440997  1
+  Er  Er13  1  0.93559327  0.56440900  0.93558883  1
+  Er  Er14  1  0.56440886  0.56440845  0.93559017  1
+  Er  Er15  1  0.93559345  0.93558840  0.56440942  1
+  Mg  Mg16  1  0.57933218  0.57933364  0.57933196  1
+  Mg  Mg17  1  0.57932245  0.57932404  0.26202162  1
+  Mg  Mg18  1  0.57932238  0.26202181  0.57932318  1
+  Mg  Mg19  1  0.26201897  0.57932410  0.57932373  1
+  Rh  Rh20  1  0.14165996  0.14166361  0.14165995  1
+  Rh  Rh21  1  0.14166026  0.14166297  0.57501612  1
+  Rh  Rh22  1  0.14165976  0.57501468  0.14166255  1
+  Rh  Rh23  1  0.57501778  0.14166140  0.14165987  1

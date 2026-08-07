@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tl2GeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82221981
+_cell_length_b   6.85405327
+_cell_length_c   8.44977848
+_cell_angle_alpha   89.80322300
+_cell_angle_beta   111.54923262
+_cell_angle_gamma   113.22207987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2GeS3
+_chemical_formula_sum   'Tl4 Ge2 S6'
+_cell_volume   333.06752576
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.26359546  0.68433708  0.88475732  1
+  Tl  Tl1  1  0.73640454  0.31566292  0.11524268  1
+  Tl  Tl2  1  0.87901168  0.05345277  0.67492179  1
+  Tl  Tl3  1  0.12098832  0.94654723  0.32507821  1
+  Ge  Ge4  1  0.43013267  0.54850731  0.31470154  1
+  Ge  Ge5  1  0.56986733  0.45149269  0.68529846  1
+  S  S6  1  0.50392749  0.87600829  0.26418914  1
+  S  S7  1  0.49607251  0.12399171  0.73581086  1
+  S  S8  1  0.74858228  0.70301265  0.90973476  1
+  S  S9  1  0.23950157  0.46499363  0.49469407  1
+  S  S10  1  0.76049843  0.53500637  0.50530593  1
+  S  S11  1  0.25141772  0.29698735  0.09026524  1

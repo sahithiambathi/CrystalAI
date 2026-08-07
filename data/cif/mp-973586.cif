@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu(AlC)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38153386
+_cell_length_b   3.38152966
+_cell_length_c   17.05123134
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00005085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(AlC)3
+_chemical_formula_sum   'Lu2 Al6 C6'
+_cell_volume   168.85467823
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  -0.00000000  0.00000000  -0.00000000  1
+  Lu  Lu1  1  -0.00000000  -0.00000000  0.50000000  1
+  Al  Al2  1  0.33333577  0.66667155  0.13230084  1
+  Al  Al3  1  0.66665959  0.33332318  0.25000000  1
+  Al  Al4  1  0.33333577  0.66667155  0.36769916  1
+  Al  Al5  1  0.66666423  0.33333045  0.63230084  1
+  Al  Al6  1  0.33333841  0.66667582  0.75000000  1
+  Al  Al7  1  0.66666423  0.33333045  0.86769916  1
+  C  C8  1  0.66666346  0.33332992  0.09023888  1
+  C  C9  1  0.33333026  0.66665952  0.25000000  1
+  C  C10  1  0.66666346  0.33332992  0.40976112  1
+  C  C11  1  0.33333654  0.66667208  0.59023888  1
+  C  C12  1  0.66666974  0.33334248  0.75000000  1
+  C  C13  1  0.33333654  0.66667208  0.90976112  1

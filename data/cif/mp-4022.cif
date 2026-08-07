@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zr2CoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89316476
+_cell_length_b   5.31129783
+_cell_length_c   8.54222553
+_cell_angle_alpha   82.56127590
+_cell_angle_beta   76.82784204
+_cell_angle_gamma   68.50017800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2CoSi2
+_chemical_formula_sum   'Zr4 Co2 Si4'
+_cell_volume   159.81376215
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.81167936  0.27610479  0.10053648  1
+  Zr  Zr1  1  0.18832064  0.72389521  0.89946352  1
+  Zr  Zr2  1  0.99919648  0.32726552  0.67434352  1
+  Zr  Zr3  1  0.00080352  0.67273448  0.32565648  1
+  Co  Co4  1  0.27665170  0.07246297  0.37423464  1
+  Co  Co5  1  0.72334830  0.92753703  0.62576536  1
+  Si  Si6  1  0.64534057  0.28008772  0.42923015  1
+  Si  Si7  1  0.35465943  0.71991228  0.57076985  1
+  Si  Si8  1  0.51113989  0.85472217  0.12299804  1
+  Si  Si9  1  0.48886011  0.14527783  0.87700196  1

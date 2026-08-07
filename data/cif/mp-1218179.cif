@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_TaCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89470582
+_cell_length_b   4.89494358
+_cell_length_c   17.50874604
+_cell_angle_alpha   81.96863071
+_cell_angle_beta   89.99988286
+_cell_angle_gamma   119.99829683
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCo
+_chemical_formula_sum   'Ta13 Co13'
+_cell_volume   358.54275970
+_cell_formula_units_Z   13
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.17328526  0.34656847  0.48020317  1
+  Ta  Ta1  1  0.67118718  0.34237447  0.98627012  1
+  Ta  Ta2  1  0.32881282  0.65762553  0.01372988  1
+  Ta  Ta3  1  0.82671474  0.65343153  0.51979683  1
+  Ta  Ta4  1  0.22588978  0.45177604  0.32280780  1
+  Ta  Ta5  1  0.72391787  0.44783647  0.82834598  1
+  Ta  Ta6  1  0.27608213  0.55216353  0.17165402  1
+  Ta  Ta7  1  0.77411022  0.54822496  0.67719220  1
+  Ta  Ta8  1  0.58354857  0.16710516  0.24934799  1
+  Ta  Ta9  1  0.08229482  0.16460068  0.75313926  1
+  Ta  Ta10  1  0.91770518  0.83539932  0.24686074  1
+  Ta  Ta11  1  0.41645143  0.83289484  0.75065201  1
+  Ta  Ta12  1  0.50000000  -0.00000000  0.50000000  1
+  Co  Co13  1  0.79725667  0.09016103  0.11261292  1
+  Co  Co14  1  0.28941672  0.09156497  0.61851398  1
+  Co  Co15  1  0.29291017  0.09016045  0.11261277  1
+  Co  Co16  1  0.80214424  0.09156536  0.61851349  1
+  Co  Co17  1  0.79725364  0.59449994  0.11260398  1
+  Co  Co18  1  0.28937388  0.57874699  0.61851183  1
+  Co  Co19  1  0.71058328  0.90843503  0.38148602  1
+  Co  Co20  1  0.20274333  0.90983897  0.88738708  1
+  Co  Co21  1  0.19785576  0.90843464  0.38148651  1
+  Co  Co22  1  0.70708983  0.90983955  0.88738723  1
+  Co  Co23  1  0.71062612  0.42125301  0.38148817  1
+  Co  Co24  1  0.20274636  0.40550006  0.88739602  1
+  Co  Co25  1  -0.00000000  -0.00000000  -0.00000000  1

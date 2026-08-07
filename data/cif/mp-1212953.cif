@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Eu2HgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73617123
+_cell_length_b   7.12928884
+_cell_length_c   8.96095041
+_cell_angle_alpha   77.86668020
+_cell_angle_beta   77.96732221
+_cell_angle_gamma   74.80947103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2HgO4
+_chemical_formula_sum   'Eu4 Hg2 O8'
+_cell_volume   222.20445488
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.61873146  0.21915306  0.54338403  1
+  Eu  Eu1  1  0.38126854  0.78084694  0.45661597  1
+  Eu  Eu2  1  0.83478694  0.53102052  0.79940659  1
+  Eu  Eu3  1  0.16521306  0.46897948  0.20059341  1
+  Hg  Hg4  1  0.88594371  0.06466253  0.16345006  1
+  Hg  Hg5  1  0.11405629  0.93533747  0.83654994  1
+  O  O6  1  0.96489212  0.78895984  0.28125692  1
+  O  O7  1  0.03510788  0.21104016  0.71874308  1
+  O  O8  1  0.58297613  0.48633816  0.34770759  1
+  O  O9  1  0.41702387  0.51366184  0.65229241  1
+  O  O10  1  0.79745144  0.34739783  0.05770029  1
+  O  O11  1  0.20254856  0.65260217  0.94229971  1
+  O  O12  1  0.76787313  0.85034559  0.61390914  1
+  O  O13  1  0.23212687  0.14965441  0.38609086  1

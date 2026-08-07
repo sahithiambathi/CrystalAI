@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ti2Te2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.16532942
+_cell_length_b   10.16532942
+_cell_length_c   10.16532937
+_cell_angle_alpha   20.68703760
+_cell_angle_beta   20.68703760
+_cell_angle_gamma   20.68703590
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Te2P
+_chemical_formula_sum   'Ti2 Te2 P1'
+_cell_volume   114.75795983
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.37783737  0.37783737  0.37783737  1
+  Ti  Ti1  1  0.62216263  0.62216263  0.62216263  1
+  Te  Te2  1  0.77174725  0.77174725  0.77174725  1
+  Te  Te3  1  0.22825275  0.22825275  0.22825275  1
+  P  P4  1  -0.00000000  -0.00000000  0.00000000  1

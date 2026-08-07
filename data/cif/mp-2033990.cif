@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CsLi2Br3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67979079
+_cell_length_b   5.62912254
+_cell_length_c   7.55852266
+_cell_angle_alpha   112.25411999
+_cell_angle_beta   107.90329191
+_cell_angle_gamma   89.98419740
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLi2Br3
+_chemical_formula_sum   'Cs1 Li2 Br3'
+_cell_volume   173.82837057
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50239590  0.00043516  0.00256540  1
+  Li  Li1  1  0.80514625  0.29963158  0.61844168  1
+  Li  Li2  1  0.19444922  0.69858131  0.38636795  1
+  Br  Br3  1  0.77920529  0.77836653  0.55834382  1
+  Br  Br4  1  0.22194065  0.22086401  0.44672465  1
+  Br  Br5  1  0.00264569  0.49960642  0.00187449  1

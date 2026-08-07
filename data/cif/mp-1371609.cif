@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Nb2Ni5Te6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57483500
+_cell_length_b   8.42798329
+_cell_length_c   10.72451960
+_cell_angle_alpha   112.93293515
+_cell_angle_beta   89.95276158
+_cell_angle_gamma   116.60027285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2Ni5Te6
+_chemical_formula_sum   'Nb4 Ni10 Te12'
+_cell_volume   551.12554148
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.12398400  0.29673600  0.20196000  1
+  Nb  Nb1  1  0.62410900  0.28905900  0.20963200  1
+  Nb  Nb2  1  0.87601600  0.70326400  0.79804000  1
+  Nb  Nb3  1  0.37589100  0.71094100  0.79036800  1
+  Ni  Ni4  1  0.61690400  0.90153900  0.58739900  1
+  Ni  Ni5  1  0.12103300  0.89783600  0.58920200  1
+  Ni  Ni6  1  0.38309600  0.09846100  0.41260100  1
+  Ni  Ni7  1  0.87896700  0.10216400  0.41079800  1
+  Ni  Ni8  1  0.56740100  0.45646100  0.93074200  1
+  Ni  Ni9  1  0.06951900  0.45579800  0.92918000  1
+  Ni  Ni10  1  0.43259900  0.54353900  0.06925800  1
+  Ni  Ni11  1  0.93048100  0.54420200  0.07082000  1
+  Ni  Ni12  1  0.76564400  0.27767400  0.50248700  1
+  Ni  Ni13  1  0.23435600  0.72232600  0.49751300  1
+  Te  Te14  1  0.50490500  0.91637100  0.32951000  1
+  Te  Te15  1  0.99897800  0.92648100  0.33154800  1
+  Te  Te16  1  0.49509500  0.08362900  0.67049000  1
+  Te  Te17  1  0.00102200  0.07351900  0.66845200  1
+  Te  Te18  1  0.47952200  0.53919300  0.66169700  1
+  Te  Te19  1  0.96884600  0.53269000  0.66063000  1
+  Te  Te20  1  0.52047800  0.46080700  0.33830300  1
+  Te  Te21  1  0.03115400  0.46731000  0.33937000  1
+  Te  Te22  1  0.75958300  0.77995600  0.99306700  1
+  Te  Te23  1  0.26144600  0.77594700  0.99582800  1
+  Te  Te24  1  0.24041700  0.22004400  0.00693300  1
+  Te  Te25  1  0.73855400  0.22405300  0.00417200  1

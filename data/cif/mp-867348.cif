@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyMgSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38113052
+_cell_length_b   4.38489304
+_cell_length_c   8.48864567
+_cell_angle_alpha   104.80579529
+_cell_angle_beta   104.80943510
+_cell_angle_gamma   89.97990422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMgSn
+_chemical_formula_sum   'Dy2 Mg2 Sn2'
+_cell_volume   152.05326156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.66643787  0.66632616  0.33367580  1
+  Dy  Dy1  1  0.33356257  0.33369414  0.66635500  1
+  Mg  Mg2  1  0.50006268  -0.00018780  0.99989770  1
+  Mg  Mg3  1  0.00006213  0.50023681  0.00007278  1
+  Sn  Sn4  1  0.13620783  0.13641561  0.27194466  1
+  Sn  Sn5  1  0.86366892  0.86351807  0.72805406  1

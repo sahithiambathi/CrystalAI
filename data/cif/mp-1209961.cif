@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaTbCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61914121
+_cell_length_b   6.72307669
+_cell_length_c   6.94806244
+_cell_angle_alpha   89.52089034
+_cell_angle_beta   91.84297700
+_cell_angle_gamma   101.06817525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTbCl4
+_chemical_formula_sum   'Na2 Tb2 Cl8'
+_cell_volume   303.28675358
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.23133280  0.80496737  0.46451896  1
+  Na  Na1  1  0.76866720  0.19503263  0.53548104  1
+  Tb  Tb2  1  0.78952398  0.70024626  0.94507365  1
+  Tb  Tb3  1  0.21047602  0.29975374  0.05492635  1
+  Cl  Cl4  1  0.60791210  0.79366424  0.63125737  1
+  Cl  Cl5  1  0.39208790  0.20633576  0.36874263  1
+  Cl  Cl6  1  0.09660996  0.99795766  0.79087744  1
+  Cl  Cl7  1  0.90339004  0.00204234  0.20912256  1
+  Cl  Cl8  1  0.04870729  0.49781113  0.75354714  1
+  Cl  Cl9  1  0.95129271  0.50218887  0.24645286  1
+  Cl  Cl10  1  0.56877527  0.31180881  0.87966905  1
+  Cl  Cl11  1  0.43122473  0.68819119  0.12033095  1

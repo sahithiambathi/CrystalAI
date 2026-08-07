@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sm(Al3Fe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76972904
+_cell_length_b   6.76973290
+_cell_length_c   6.68995233
+_cell_angle_alpha   82.28354510
+_cell_angle_beta   82.28340346
+_cell_angle_gamma   136.31332982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(Al3Fe)3
+_chemical_formula_sum   'Sm1 Al9 Fe3'
+_cell_volume   197.49933522
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  -0.00000000  -0.00000000  0.00000000  1
+  Al  Al1  1  0.28901112  0.51517965  0.21631021  1
+  Al  Al2  1  0.71098888  0.48482035  0.78368979  1
+  Al  Al3  1  0.48480821  0.71097682  0.78368982  1
+  Al  Al4  1  0.51519179  0.28902318  0.21631018  1
+  Al  Al5  1  0.35450150  0.99937394  0.66058378  1
+  Al  Al6  1  0.64549850  0.00062606  0.33941622  1
+  Al  Al7  1  0.00062109  0.64549040  0.33941776  1
+  Al  Al8  1  0.99937891  0.35450960  0.66058224  1
+  Al  Al9  1  -0.00000000  -0.00000000  0.50000000  1
+  Fe  Fe10  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe11  1  -0.00000000  0.50000000  0.00000000  1
+  Fe  Fe12  1  0.50000000  -0.00000000  0.00000000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Er4MgCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.44863109
+_cell_length_b   9.44863206
+_cell_length_c   9.44867072
+_cell_angle_alpha   59.99882870
+_cell_angle_beta   59.99875520
+_cell_angle_gamma   59.99880679
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4MgCo
+_chemical_formula_sum   'Er16 Mg4 Co4'
+_cell_volume   596.46051619
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.59339638  0.59339612  0.59339616  1
+  Er  Er1  1  0.59339560  0.59339470  0.21981294  1
+  Er  Er2  1  0.59339673  0.21981103  0.59339611  1
+  Er  Er3  1  0.21981122  0.59339575  0.59339598  1
+  Er  Er4  1  0.06391588  0.43608307  0.43608545  1
+  Er  Er5  1  0.43608476  0.06391638  0.06391395  1
+  Er  Er6  1  0.43608508  0.06391589  0.43608377  1
+  Er  Er7  1  0.06391793  0.43608228  0.06391502  1
+  Er  Er8  1  0.43608615  0.43608331  0.06391398  1
+  Er  Er9  1  0.06391413  0.06391534  0.43608437  1
+  Er  Er10  1  0.18789274  0.81210500  0.81211008  1
+  Er  Er11  1  0.81210862  0.18789101  0.18789093  1
+  Er  Er12  1  0.81210557  0.18789485  0.81210769  1
+  Er  Er13  1  0.18788958  0.81210951  0.18789018  1
+  Er  Er14  1  0.81210990  0.81210737  0.18789212  1
+  Er  Er15  1  0.18789238  0.18789372  0.81210745  1
+  Mg  Mg16  1  0.82855045  0.82854915  0.82855146  1
+  Mg  Mg17  1  0.82858454  0.82858363  0.51428528  1
+  Mg  Mg18  1  0.82858380  0.51428726  0.82858370  1
+  Mg  Mg19  1  0.51427823  0.82858574  0.82858759  1
+  Co  Co20  1  0.39040998  0.39040671  0.39041128  1
+  Co  Co21  1  0.39041022  0.39040920  0.82877257  1
+  Co  Co22  1  0.39040856  0.82877552  0.39040532  1
+  Co  Co23  1  0.82877354  0.39040843  0.39040863  1

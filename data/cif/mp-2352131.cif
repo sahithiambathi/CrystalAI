@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KFeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41293858
+_cell_length_b   6.81658185
+_cell_length_c   6.84762030
+_cell_angle_alpha   83.00368588
+_cell_angle_beta   76.48047811
+_cell_angle_gamma   103.24997919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFeO2
+_chemical_formula_sum   'K4 Fe4 O8'
+_cell_volume   278.38954663
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75115736  0.66703702  0.67067381  1
+  K  K1  1  0.25115524  0.66703052  0.67067882  1
+  K  K2  1  0.24884294  0.33296828  0.32932282  1
+  K  K3  1  0.74884363  0.33296335  0.32932686  1
+  Fe  Fe4  1  0.92291212  0.84582614  0.15920798  1
+  Fe  Fe5  1  0.57709031  0.15418011  0.84078992  1
+  Fe  Fe6  1  0.42291048  0.84582420  0.15921013  1
+  Fe  Fe7  1  0.07708820  0.15417319  0.84079090  1
+  O  O8  1  0.00104320  0.13749713  0.13004645  1
+  O  O9  1  0.50104317  0.13749834  0.13004793  1
+  O  O10  1  0.99895632  0.86249969  0.86995303  1
+  O  O11  1  0.49895795  0.86250524  0.86995218  1
+  O  O12  1  0.88930208  0.27856463  0.71318390  1
+  O  O13  1  0.38930297  0.27856560  0.71318469  1
+  O  O14  1  0.11069823  0.72143376  0.28681461  1
+  O  O15  1  0.61069681  0.72143480  0.28681496  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_La5Pb3Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.71740578
+_cell_length_b   9.71750994
+_cell_length_c   7.02642910
+_cell_angle_alpha   89.99885568
+_cell_angle_beta   89.99903939
+_cell_angle_gamma   120.00118067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5Pb3Cl
+_chemical_formula_sum   'La10 Pb6 Cl2'
+_cell_volume   574.59979217
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.26226425  -0.00002520  0.25001696  1
+  La  La1  1  0.73753783  0.00002331  0.74995446  1
+  La  La2  1  -0.00013241  0.26216930  0.25008705  1
+  La  La3  1  -0.00002355  0.73770524  0.74998103  1
+  La  La4  1  0.73791257  0.73785287  0.24994702  1
+  La  La5  1  0.26227849  0.26222624  0.74997714  1
+  La  La6  1  0.33334318  0.66668315  0.00000638  1
+  La  La7  1  0.66668465  0.33335258  0.00009181  1
+  La  La8  1  0.66668771  0.33336118  0.49999735  1
+  La  La9  1  0.33334924  0.66667348  0.49993575  1
+  Pb  Pb10  1  0.61309944  0.00004371  0.25002689  1
+  Pb  Pb11  1  0.38696659  0.00002248  0.74998052  1
+  Pb  Pb12  1  0.00001115  0.61302761  0.25001501  1
+  Pb  Pb13  1  0.99999373  0.38689702  0.74995436  1
+  Pb  Pb14  1  0.38694209  0.38694516  0.25003684  1
+  Pb  Pb15  1  0.61306766  0.61305210  0.74999302  1
+  Cl  Cl16  1  0.00000901  -0.00000260  -0.00000182  1
+  Cl  Cl17  1  0.00000837  -0.00000561  0.49999924  1

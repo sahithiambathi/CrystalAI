@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca(LaS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53623819
+_cell_length_b   7.53624248
+_cell_length_c   7.53619748
+_cell_angle_alpha   109.65689126
+_cell_angle_beta   109.65688657
+_cell_angle_gamma   109.10019394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(LaS2)2
+_chemical_formula_sum   'Ca2 La4 S8'
+_cell_volume   329.47917055
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.74999901  0.24999785  0.49999315  1
+  Ca  Ca1  1  -0.00000136  0.00000229  0.00000400  1
+  La  La2  1  0.50565717  0.12499983  0.88065812  1
+  La  La3  1  0.87499751  0.75565704  0.38065778  1
+  La  La4  1  0.24434313  0.62499880  0.11934465  1
+  La  La5  1  0.37500054  0.49434129  0.61933939  1
+  S  S6  1  0.98243470  0.37381563  0.24758520  1
+  S  S7  1  0.48484872  0.37623357  0.25241427  1
+  S  S8  1  0.62618408  0.87376981  0.60861493  1
+  S  S9  1  0.12381941  0.23243725  0.74758830  1
+  S  S10  1  0.76756450  0.51514944  0.89138592  1
+  S  S11  1  0.62376407  0.87618203  0.10861531  1
+  S  S12  1  0.26515120  0.01756438  0.39138322  1
+  S  S13  1  0.12623633  0.73485080  0.75241579  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GdAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98262015
+_cell_length_b   5.98260704
+_cell_length_c   5.98262523
+_cell_angle_alpha   106.48307009
+_cell_angle_beta   106.48503898
+_cell_angle_gamma   115.62660128
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdAsO4
+_chemical_formula_sum   'Gd2 As2 O8'
+_cell_volume   163.39377185
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.87499921  0.12499799  0.74999970  1
+  Gd  Gd1  1  0.12500067  0.87500213  0.25000035  1
+  As  As2  1  0.62498909  0.37499045  0.25000107  1
+  As  As3  1  0.37501038  0.62500924  0.74999885  1
+  O  O4  1  0.79723669  0.36666272  0.06942765  1
+  O  O5  1  0.63333572  0.20276914  0.43056583  1
+  O  O6  1  0.27220640  0.20277038  0.06943537  1
+  O  O7  1  0.79723411  0.72780344  0.43056968  1
+  O  O8  1  0.20276592  0.27219682  0.56943049  1
+  O  O9  1  0.72779353  0.79722960  0.93056457  1
+  O  O10  1  0.36666409  0.79723083  0.56943401  1
+  O  O11  1  0.20276318  0.63333725  0.93057241  1

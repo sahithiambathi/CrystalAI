@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaSi2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87350679
+_cell_length_b   5.46567508
+_cell_length_c   5.46567488
+_cell_angle_alpha   119.73761084
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSi2N3
+_chemical_formula_sum   'Na2 Si4 N6'
+_cell_volume   126.41599522
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.48366118  0.66413958  0.66413958  1
+  Na  Na1  1  0.98366118  0.33586042  0.33586042  1
+  Si  Si2  1  0.01219840  0.01680361  0.67533514  1
+  Si  Si3  1  0.51219840  0.98319639  0.32466486  1
+  Si  Si4  1  0.51219840  0.32466486  0.98319639  1
+  Si  Si5  1  0.01219840  0.67533514  0.01680361  1
+  N  N6  1  0.96954158  0.77334974  0.77334974  1
+  N  N7  1  0.46954158  0.22665026  0.22665026  1
+  N  N8  1  0.35970022  0.65553072  0.09382044  1
+  N  N9  1  0.35970022  0.09382044  0.65553072  1
+  N  N10  1  0.85970022  0.90617956  0.34446928  1
+  N  N11  1  0.85970022  0.34446928  0.90617956  1

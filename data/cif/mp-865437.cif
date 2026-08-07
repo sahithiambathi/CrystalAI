@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Lu2ZnRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77469502
+_cell_length_b   4.77486321
+_cell_length_c   4.77489307
+_cell_angle_alpha   59.99437966
+_cell_angle_beta   59.99683029
+_cell_angle_gamma   60.00202703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2ZnRu
+_chemical_formula_sum   'Lu2 Zn1 Ru1'
+_cell_volume   76.97204430
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.99998203  0.00000159  0.99997872  1
+  Lu  Lu1  1  0.50002209  0.49999104  0.50001913  1
+  Zn  Zn2  1  0.74999589  0.75000384  0.74999987  1
+  Ru  Ru3  1  0.24999898  0.25000253  0.25000127  1

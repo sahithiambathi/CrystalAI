@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsNaF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48297062
+_cell_length_b   4.48297062
+_cell_length_c   4.41241462
+_cell_angle_alpha   85.85513047
+_cell_angle_beta   85.85513047
+_cell_angle_gamma   89.83261221
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaF3
+_chemical_formula_sum   'Cs1 Na1 F3'
+_cell_volume   88.21291123
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.00000164  -0.00000164  0.01475709  1
+  Na  Na1  1  0.50040584  0.50040584  0.51345307  1
+  F  F2  1  0.00099819  0.50045304  0.51392994  1
+  F  F3  1  0.49914256  0.49914256  0.01432796  1
+  F  F4  1  0.50045304  0.00099819  0.51392994  1
