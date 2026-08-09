@@ -8,4 +8,5 @@ dist/
 # Ignore ML models
 *.joblib
 *.pkl
-*.pth.tar
+# Local generated dataset
+data/materials_final.csv
