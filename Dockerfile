@@ -24,7 +24,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy backend files, including models and data
 COPY backend/ ./
-
+# Copy local CIF dataset
+COPY data/ /app/data/
 # Copy compiled frontend build to the backend public folder
 ## Your main.py is already updated to look for '../public' which resolves to /app/public 
 ## or relative to main.py it's /app/backend/public
