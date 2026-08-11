@@ -14,7 +14,7 @@ CrystalAI is a polished full-stack web application designed for cutting-edge cry
 
 ## Live Demo
 
-[**Try CrystalAI Live →**](https://helona-crystalytics.hf.space/)
+[**Try CrystalAI Live**](https://helona-crystalytics.hf.space/)
 
 > Live demo hosted on Hugging Face Spaces.
 
